@@ -1,0 +1,1273 @@
+Date: 15-03-2017 Time: 09:13:55 Message [===========Начало============] - com.main.Main
+Date: 15-03-2017 Time: 09:13:55 Message [Добре дошли в програмата на Пешо!!!] - com.main.Main
+Date: 15-03-2017 Time: 09:13:55 Message [Изберете мястото от където ще извличате данни:] - com.main.Main
+Date: 15-03-2017 Time: 09:13:55 Message [[1] Четене от текстовият файл] - com.main.Main
+Date: 15-03-2017 Time: 09:13:55 Message [[2] Четене от XML файла] - com.main.Main
+Date: 15-03-2017 Time: 09:13:55 Message [[3] Четене от базата данни] - com.main.Main
+Date: 15-03-2017 Time: 09:13:55 Message [[4] Изход] - com.main.Main
+Date: 15-03-2017 Time: 09:13:55 Message [Избор: ] - com.main.Main
+Date: 15-03-2017 Time: 09:14:13 Message [===========Начало============] - com.main.Main
+Date: 15-03-2017 Time: 09:14:13 Message [Добре дошли в програмата на Пешо!!!] - com.main.Main
+Date: 15-03-2017 Time: 09:14:13 Message [Изберете мястото от където ще извличате данни:] - com.main.Main
+Date: 15-03-2017 Time: 09:14:13 Message [[1] Четене от текстовият файл] - com.main.Main
+Date: 15-03-2017 Time: 09:14:13 Message [[2] Четене от XML файла] - com.main.Main
+Date: 15-03-2017 Time: 09:14:13 Message [[3] Четене от базата данни] - com.main.Main
+Date: 15-03-2017 Time: 09:14:13 Message [[4] Изход] - com.main.Main
+Date: 15-03-2017 Time: 09:14:13 Message [Избор: ] - com.main.Main
+Date: 15-03-2017 Time: 09:14:15 Message [Избрахте 2: ] - com.main.Main
+Date: 15-03-2017 Time: 09:14:15 Message [Въведете типа на търсения разход (Пр. bira): ] - com.main.Main
+Date: 15-03-2017 Time: 09:14:17 Message [Въведете подхода по който да се прочете XML файла: ] - com.strategy.XMLStrategy
+Date: 15-03-2017 Time: 09:14:17 Message [[1] DOM] - com.strategy.XMLStrategy
+Date: 15-03-2017 Time: 09:14:17 Message [[2] SAX] - com.strategy.XMLStrategy
+Date: 15-03-2017 Time: 09:14:17 Message [[3] STAX] - com.strategy.XMLStrategy
+Date: 15-03-2017 Time: 09:14:17 Message [[4] JAXB] - com.strategy.XMLStrategy
+Date: 15-03-2017 Time: 09:14:17 Message [Избор: ] - com.strategy.XMLStrategy
+Date: 15-03-2017 Time: 09:14:19 Message [Резултата ще бъде прочетен с: ] - com.files.SourceForUse
+Date: 15-03-2017 Time: 09:14:19 Message [DOM Parser.] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 09:14:19 Message [Прочетена стойност: 209] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 09:14:19 Message [Прочетена стойност: 23] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 09:14:19 Message [Въведете тип на изходните данни(txt, xml, dtb):] - com.main.Main
+Date: 15-03-2017 Time: 09:14:19 Message [[1] Запис в текстов файл] - com.main.Main
+Date: 15-03-2017 Time: 09:14:19 Message [[2] Запис в xml файл] - com.main.Main
+Date: 15-03-2017 Time: 09:14:19 Message [[3] Запис в база данни] - com.main.Main
+Date: 15-03-2017 Time: 09:14:19 Message [[4] Запис в PDF файл] - com.main.Main
+Date: 15-03-2017 Time: 09:14:19 Message [Избор: ] - com.main.Main
+Date: 15-03-2017 Time: 09:14:21 Message [Резултата ще бъде записан във] - com.files.SourceForUse
+Date: 15-03-2017 Time: 09:14:21 Message [ PDF файл в Директория ResultFiles\CostsPDFout.pdf] - com.writelogic.WriteToPDF
+Date: 15-03-2017 Time: 09:14:21 Message [Програмата завърши хода си!] - com.main.Main
+Date: 15-03-2017 Time: 09:14:21 Message [===========Край============] - com.main.Main
+Date: 15-03-2017 Time: 09:18:04 Message [===========Начало============] - com.main.Main
+Date: 15-03-2017 Time: 09:18:04 Message [Добре дошли в програмата на Пешо!!!] - com.main.Main
+Date: 15-03-2017 Time: 09:18:04 Message [Изберете мястото от където ще извличате данни:] - com.main.Main
+Date: 15-03-2017 Time: 09:18:04 Message [[1] Четене от текстовият файл] - com.main.Main
+Date: 15-03-2017 Time: 09:18:04 Message [[2] Четене от XML файла] - com.main.Main
+Date: 15-03-2017 Time: 09:18:04 Message [[3] Четене от базата данни] - com.main.Main
+Date: 15-03-2017 Time: 09:18:04 Message [[4] Изход] - com.main.Main
+Date: 15-03-2017 Time: 09:18:04 Message [Избор: ] - com.main.Main
+Date: 15-03-2017 Time: 09:18:33 Message [===========Начало============] - com.main.Main
+Date: 15-03-2017 Time: 09:18:33 Message [Добре дошли в програмата на Пешо!!!] - com.main.Main
+Date: 15-03-2017 Time: 09:18:33 Message [Изберете мястото от където ще извличате данни:] - com.main.Main
+Date: 15-03-2017 Time: 09:18:33 Message [[1] Четене от текстовият файл] - com.main.Main
+Date: 15-03-2017 Time: 09:18:33 Message [[2] Четене от XML файла] - com.main.Main
+Date: 15-03-2017 Time: 09:18:33 Message [[3] Четене от базата данни] - com.main.Main
+Date: 15-03-2017 Time: 09:18:33 Message [[4] Изход] - com.main.Main
+Date: 15-03-2017 Time: 09:18:33 Message [Избор: ] - com.main.Main
+Date: 15-03-2017 Time: 09:18:37 Message [От: StAX До: XML Тип разход: Стойност на филтриране] - com.GUI.GUIlogic$1
+Date: 15-03-2017 Time: 09:23:22 Message [===========Начало============] - com.main.Main
+Date: 15-03-2017 Time: 09:23:22 Message [Добре дошли в програмата на Пешо!!!] - com.main.Main
+Date: 15-03-2017 Time: 09:23:22 Message [Изберете мястото от където ще извличате данни:] - com.main.Main
+Date: 15-03-2017 Time: 09:23:22 Message [[1] Четене от текстовият файл] - com.main.Main
+Date: 15-03-2017 Time: 09:23:22 Message [[2] Четене от XML файла] - com.main.Main
+Date: 15-03-2017 Time: 09:23:22 Message [[3] Четене от базата данни] - com.main.Main
+Date: 15-03-2017 Time: 09:23:22 Message [[4] Изход] - com.main.Main
+Date: 15-03-2017 Time: 09:23:22 Message [Избор: ] - com.main.Main
+Date: 15-03-2017 Time: 09:31:59 Message [===========Начало============] - com.main.Main
+Date: 15-03-2017 Time: 09:31:59 Message [Добре дошли в програмата на Пешо!!!] - com.main.Main
+Date: 15-03-2017 Time: 09:31:59 Message [Изберете мястото от където ще извличате данни:] - com.main.Main
+Date: 15-03-2017 Time: 09:31:59 Message [[1] Четене от текстовият файл] - com.main.Main
+Date: 15-03-2017 Time: 09:31:59 Message [[2] Четене от XML файла] - com.main.Main
+Date: 15-03-2017 Time: 09:31:59 Message [[3] Четене от базата данни] - com.main.Main
+Date: 15-03-2017 Time: 09:31:59 Message [[4] Изход] - com.main.Main
+Date: 15-03-2017 Time: 09:31:59 Message [Избор: ] - com.main.Main
+Date: 15-03-2017 Time: 09:32:03 Message [От: null До: TXT Тип разход: Стойност на филтриране] - com.GUI.GUIlogic$1
+Date: 15-03-2017 Time: 09:32:07 Message [От: null До: TXT Тип разход: Стойност на филтриране] - com.GUI.GUIlogic$1
+Date: 15-03-2017 Time: 09:32:22 Message [===========Начало============] - com.main.Main
+Date: 15-03-2017 Time: 09:32:22 Message [Добре дошли в програмата на Пешо!!!] - com.main.Main
+Date: 15-03-2017 Time: 09:32:22 Message [Изберете мястото от където ще извличате данни:] - com.main.Main
+Date: 15-03-2017 Time: 09:32:22 Message [[1] Четене от текстовият файл] - com.main.Main
+Date: 15-03-2017 Time: 09:32:22 Message [[2] Четене от XML файла] - com.main.Main
+Date: 15-03-2017 Time: 09:32:22 Message [[3] Четене от базата данни] - com.main.Main
+Date: 15-03-2017 Time: 09:32:22 Message [[4] Изход] - com.main.Main
+Date: 15-03-2017 Time: 09:32:22 Message [Избор: ] - com.main.Main
+Date: 15-03-2017 Time: 09:32:25 Message [От: null До: TXT Тип разход: Стойност на филтриране] - com.GUI.GUIlogic$1
+Date: 15-03-2017 Time: 09:33:05 Message [===========Начало============] - com.main.Main
+Date: 15-03-2017 Time: 09:33:05 Message [Добре дошли в програмата на Пешо!!!] - com.main.Main
+Date: 15-03-2017 Time: 09:33:05 Message [Изберете мястото от където ще извличате данни:] - com.main.Main
+Date: 15-03-2017 Time: 09:33:05 Message [[1] Четене от текстовият файл] - com.main.Main
+Date: 15-03-2017 Time: 09:33:05 Message [[2] Четене от XML файла] - com.main.Main
+Date: 15-03-2017 Time: 09:33:05 Message [[3] Четене от базата данни] - com.main.Main
+Date: 15-03-2017 Time: 09:33:05 Message [[4] Изход] - com.main.Main
+Date: 15-03-2017 Time: 09:33:05 Message [Избор: ] - com.main.Main
+Date: 15-03-2017 Time: 09:33:08 Message [От: DataBase До: TXT Тип разход: Стойност на филтриране] - com.GUI.GUIlogic$1
+Date: 15-03-2017 Time: 09:33:10 Message [От: DOM До: TXT Тип разход: Стойност на филтриране] - com.GUI.GUIlogic$1
+Date: 15-03-2017 Time: 09:51:33 Message [===========Начало============] - com.main.Main
+Date: 15-03-2017 Time: 09:51:33 Message [Добре дошли в програмата на Пешо!!!] - com.main.Main
+Date: 15-03-2017 Time: 09:51:33 Message [Изберете мястото от където ще извличате данни:] - com.main.Main
+Date: 15-03-2017 Time: 09:51:33 Message [[1] Четене от текстовият файл] - com.main.Main
+Date: 15-03-2017 Time: 09:51:33 Message [[2] Четене от XML файла] - com.main.Main
+Date: 15-03-2017 Time: 09:51:33 Message [[3] Четене от базата данни] - com.main.Main
+Date: 15-03-2017 Time: 09:51:33 Message [[4] Изход] - com.main.Main
+Date: 15-03-2017 Time: 09:51:33 Message [Избор: ] - com.main.Main
+Date: 15-03-2017 Time: 09:51:44 Message [От: SAX До: DB Тип разход: bira] - com.GUI.GUIlogic$1
+Date: 15-03-2017 Time: 09:51:44 Message [От: SAX До: DB Тип разход: bira] - com.GUI.GUIlogic$1
+Date: 15-03-2017 Time: 09:52:10 Message [===========Начало============] - com.main.Main
+Date: 15-03-2017 Time: 09:52:10 Message [Добре дошли в програмата на Пешо!!!] - com.main.Main
+Date: 15-03-2017 Time: 09:52:10 Message [Изберете мястото от където ще извличате данни:] - com.main.Main
+Date: 15-03-2017 Time: 09:52:10 Message [[1] Четене от текстовият файл] - com.main.Main
+Date: 15-03-2017 Time: 09:52:10 Message [[2] Четене от XML файла] - com.main.Main
+Date: 15-03-2017 Time: 09:52:10 Message [[3] Четене от базата данни] - com.main.Main
+Date: 15-03-2017 Time: 09:52:10 Message [[4] Изход] - com.main.Main
+Date: 15-03-2017 Time: 09:52:10 Message [Избор: ] - com.main.Main
+Date: 15-03-2017 Time: 09:52:16 Message [От: DOM До: XML Тип разход: meze] - com.GUI.GUIlogic$1
+Date: 15-03-2017 Time: 09:59:11 Message [===========Начало============] - com.main.Main
+Date: 15-03-2017 Time: 09:59:11 Message [Добре дошли в програмата на Пешо!!!] - com.main.Main
+Date: 15-03-2017 Time: 09:59:11 Message [Изберете мястото от където ще извличате данни:] - com.main.Main
+Date: 15-03-2017 Time: 09:59:11 Message [[1] Четене от текстовият файл] - com.main.Main
+Date: 15-03-2017 Time: 09:59:11 Message [[2] Четене от XML файла] - com.main.Main
+Date: 15-03-2017 Time: 09:59:11 Message [[3] Четене от базата данни] - com.main.Main
+Date: 15-03-2017 Time: 09:59:11 Message [[4] Изход] - com.main.Main
+Date: 15-03-2017 Time: 09:59:11 Message [Избор: ] - com.main.Main
+Date: 15-03-2017 Time: 09:59:15 Message [От: null До: XML Тип разход: Стойност на филтриране] - com.GUI.GUIlogic$1
+Date: 15-03-2017 Time: 09:59:49 Message [===========Начало============] - com.main.Main
+Date: 15-03-2017 Time: 09:59:49 Message [Добре дошли в програмата на Пешо!!!] - com.main.Main
+Date: 15-03-2017 Time: 09:59:49 Message [Изберете мястото от където ще извличате данни:] - com.main.Main
+Date: 15-03-2017 Time: 09:59:49 Message [[1] Четене от текстовият файл] - com.main.Main
+Date: 15-03-2017 Time: 09:59:49 Message [[2] Четене от XML файла] - com.main.Main
+Date: 15-03-2017 Time: 09:59:49 Message [[3] Четене от базата данни] - com.main.Main
+Date: 15-03-2017 Time: 09:59:49 Message [[4] Изход] - com.main.Main
+Date: 15-03-2017 Time: 09:59:49 Message [Избор: ] - com.main.Main
+Date: 15-03-2017 Time: 09:59:51 Message [От: JAXB До: TXT Тип разход: Стойност на филтриране] - com.GUI.GUIlogic$1
+Date: 15-03-2017 Time: 10:01:12 Message [===========Начало============] - com.main.Main
+Date: 15-03-2017 Time: 10:01:12 Message [Добре дошли в програмата на Пешо!!!] - com.main.Main
+Date: 15-03-2017 Time: 10:01:12 Message [Изберете мястото от където ще извличате данни:] - com.main.Main
+Date: 15-03-2017 Time: 10:01:12 Message [[1] Четене от текстовият файл] - com.main.Main
+Date: 15-03-2017 Time: 10:01:12 Message [[2] Четене от XML файла] - com.main.Main
+Date: 15-03-2017 Time: 10:01:12 Message [[3] Четене от базата данни] - com.main.Main
+Date: 15-03-2017 Time: 10:01:12 Message [[4] Изход] - com.main.Main
+Date: 15-03-2017 Time: 10:01:12 Message [Избор: ] - com.main.Main
+Date: 15-03-2017 Time: 10:01:14 Message [От: DataBase До: TXT Тип разход: Стойност на филтриране] - com.GUI.GUIlogic$1
+Date: 15-03-2017 Time: 10:07:03 Message [===========Начало============] - com.main.Main
+Date: 15-03-2017 Time: 10:07:03 Message [Добре дошли в програмата на Пешо!!!] - com.main.Main
+Date: 15-03-2017 Time: 10:07:03 Message [Изберете мястото от където ще извличате данни:] - com.main.Main
+Date: 15-03-2017 Time: 10:07:03 Message [[1] Четене от текстовият файл] - com.main.Main
+Date: 15-03-2017 Time: 10:07:03 Message [[2] Четене от XML файла] - com.main.Main
+Date: 15-03-2017 Time: 10:07:03 Message [[3] Четене от базата данни] - com.main.Main
+Date: 15-03-2017 Time: 10:07:03 Message [[4] Изход] - com.main.Main
+Date: 15-03-2017 Time: 10:07:03 Message [Избор: ] - com.main.Main
+Date: 15-03-2017 Time: 10:21:53 Message [===========Начало============] - com.main.Main
+Date: 15-03-2017 Time: 10:21:53 Message [Добре дошли в програмата на Пешо!!!] - com.main.Main
+Date: 15-03-2017 Time: 10:21:53 Message [Изберете мястото от където ще извличате данни:] - com.main.Main
+Date: 15-03-2017 Time: 10:21:53 Message [[1] Четене от текстовият файл] - com.main.Main
+Date: 15-03-2017 Time: 10:21:53 Message [[2] Четене от XML файла] - com.main.Main
+Date: 15-03-2017 Time: 10:21:53 Message [[3] Четене от базата данни] - com.main.Main
+Date: 15-03-2017 Time: 10:21:53 Message [[4] Изход] - com.main.Main
+Date: 15-03-2017 Time: 10:21:53 Message [Избор: ] - com.main.Main
+Date: 15-03-2017 Time: 10:22:00 Message [От: StAX До: DB Тип разход: meze] - com.GUI.GUIlogic$1
+Date: 15-03-2017 Time: 10:23:10 Message [===========Начало============] - com.main.Main
+Date: 15-03-2017 Time: 10:23:10 Message [Добре дошли в програмата на Пешо!!!] - com.main.Main
+Date: 15-03-2017 Time: 10:23:10 Message [Изберете мястото от където ще извличате данни:] - com.main.Main
+Date: 15-03-2017 Time: 10:23:10 Message [[1] Четене от текстовият файл] - com.main.Main
+Date: 15-03-2017 Time: 10:23:10 Message [[2] Четене от XML файла] - com.main.Main
+Date: 15-03-2017 Time: 10:23:10 Message [[3] Четене от базата данни] - com.main.Main
+Date: 15-03-2017 Time: 10:23:10 Message [[4] Изход] - com.main.Main
+Date: 15-03-2017 Time: 10:23:10 Message [Избор: ] - com.main.Main
+Date: 15-03-2017 Time: 10:23:17 Message [От: TXT До: DB Тип разход: Стойност на филтриране] - com.GUI.GUIlogic$1
+Date: 15-03-2017 Time: 10:23:29 Message [От: TXT До: DB Тип разход: meze] - com.GUI.GUIlogic$1
+Date: 15-03-2017 Time: 10:30:02 Message [===========Начало============] - com.main.Main
+Date: 15-03-2017 Time: 10:30:02 Message [Добре дошли в програмата на Пешо!!!] - com.main.Main
+Date: 15-03-2017 Time: 10:30:02 Message [Изберете мястото от където ще извличате данни:] - com.main.Main
+Date: 15-03-2017 Time: 10:30:02 Message [[1] Четене от текстовият файл] - com.main.Main
+Date: 15-03-2017 Time: 10:30:02 Message [[2] Четене от XML файла] - com.main.Main
+Date: 15-03-2017 Time: 10:30:02 Message [[3] Четене от базата данни] - com.main.Main
+Date: 15-03-2017 Time: 10:30:02 Message [[4] Изход] - com.main.Main
+Date: 15-03-2017 Time: 10:30:02 Message [Избор: ] - com.main.Main
+Date: 15-03-2017 Time: 10:30:06 Message [Няма] - com.GUI.GUIlogic$1
+Date: 15-03-2017 Time: 10:30:08 Message [От: TXT До: PDF Тип разход: Стойност на филтриране] - com.GUI.GUIlogic$1
+Date: 15-03-2017 Time: 10:37:00 Message [===========Начало============] - com.main.Main
+Date: 15-03-2017 Time: 10:37:00 Message [Добре дошли в програмата на Пешо!!!] - com.main.Main
+Date: 15-03-2017 Time: 10:37:00 Message [Изберете мястото от където ще извличате данни:] - com.main.Main
+Date: 15-03-2017 Time: 10:37:00 Message [[1] Четене от текстовият файл] - com.main.Main
+Date: 15-03-2017 Time: 10:37:00 Message [[2] Четене от XML файла] - com.main.Main
+Date: 15-03-2017 Time: 10:37:00 Message [[3] Четене от базата данни] - com.main.Main
+Date: 15-03-2017 Time: 10:37:00 Message [[4] Изход] - com.main.Main
+Date: 15-03-2017 Time: 10:37:00 Message [Избор: ] - com.main.Main
+Date: 15-03-2017 Time: 10:37:11 Message [Резултата ще бъде прочетен с: ] - com.files.SourceForUse
+Date: 15-03-2017 Time: 10:37:11 Message [Логика от Класа /ReadFromTxtFile/ за посочен разход ==> bira] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 10:37:11 Message [Прочетена стойност: 165] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 10:37:11 Message [Прочетена стойност: 10] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 10:37:11 Message [Прочетена стойност: 11] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 10:37:11 Message [От: TXT До: XML Тип разход: bira] - com.GUI.GUIlogic$1
+Date: 15-03-2017 Time: 10:41:19 Message [===========Начало============] - com.main.Main
+Date: 15-03-2017 Time: 10:41:19 Message [Добре дошли в програмата на Пешо!!!] - com.main.Main
+Date: 15-03-2017 Time: 10:41:19 Message [Изберете мястото от където ще извличате данни:] - com.main.Main
+Date: 15-03-2017 Time: 10:41:19 Message [[1] Четене от текстовият файл] - com.main.Main
+Date: 15-03-2017 Time: 10:41:19 Message [[2] Четене от XML файла] - com.main.Main
+Date: 15-03-2017 Time: 10:41:19 Message [[3] Четене от базата данни] - com.main.Main
+Date: 15-03-2017 Time: 10:41:19 Message [[4] Изход] - com.main.Main
+Date: 15-03-2017 Time: 10:41:19 Message [Избор: ] - com.main.Main
+Date: 15-03-2017 Time: 10:41:34 Message [От: DOM До: XML Тип разход: meze] - com.GUI.GUIlogic$1
+Date: 15-03-2017 Time: 10:41:40 Message [От: StAX До: XML Тип разход: meze] - com.GUI.GUIlogic$1
+Date: 15-03-2017 Time: 10:41:43 Message [От: StAX До: TXT Тип разход: meze] - com.GUI.GUIlogic$1
+Date: 15-03-2017 Time: 10:41:57 Message [От: DataBase До: PDF Тип разход: bira] - com.GUI.GUIlogic$1
+Date: 15-03-2017 Time: 10:47:17 Message [===========Начало============] - com.main.Main
+Date: 15-03-2017 Time: 10:47:17 Message [Добре дошли в програмата на Пешо!!!] - com.main.Main
+Date: 15-03-2017 Time: 10:47:17 Message [Изберете мястото от където ще извличате данни:] - com.main.Main
+Date: 15-03-2017 Time: 10:47:17 Message [[1] Четене от текстовият файл] - com.main.Main
+Date: 15-03-2017 Time: 10:47:17 Message [[2] Четене от XML файла] - com.main.Main
+Date: 15-03-2017 Time: 10:47:17 Message [[3] Четене от базата данни] - com.main.Main
+Date: 15-03-2017 Time: 10:47:17 Message [[4] Изход] - com.main.Main
+Date: 15-03-2017 Time: 10:47:17 Message [Избор: ] - com.main.Main
+Date: 15-03-2017 Time: 10:47:21 Message [От: DOM До: DB Тип разход: Стойност на филтриране] - com.GUI.GUIlogic$1
+Date: 15-03-2017 Time: 10:47:27 Message [Резултата ще бъде прочетен с: ] - com.files.SourceForUse
+Date: 15-03-2017 Time: 10:47:27 Message [Логика от Класа /ReadFromTxtFile/ за посочен разход ==> meze] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 10:47:27 Message [От: TXT До: DB Тип разход: meze] - com.GUI.GUIlogic$1
+Date: 15-03-2017 Time: 10:47:39 Message [Резултата ще бъде прочетен с: ] - com.files.SourceForUse
+Date: 15-03-2017 Time: 10:47:39 Message [Логика от Класа /ReadFromTxtFile/ за посочен разход ==> bira] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 10:47:39 Message [Прочетена стойност: 165] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 10:47:39 Message [Прочетена стойност: 10] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 10:47:39 Message [Прочетена стойност: 11] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 10:47:39 Message [От: TXT До: DB Тип разход: bira] - com.GUI.GUIlogic$1
+Date: 15-03-2017 Time: 10:48:06 Message [Резултата ще бъде прочетен с: ] - com.files.SourceForUse
+Date: 15-03-2017 Time: 10:48:06 Message [Логика от Класа /ReadFromTxtFile/ за посочен разход ==> salata] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 10:48:06 Message [Прочетена стойност: 186] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 10:48:06 Message [От: TXT До: DB Тип разход: salata] - com.GUI.GUIlogic$1
+Date: 15-03-2017 Time: 10:48:17 Message [Резултата ще бъде прочетен с: ] - com.files.SourceForUse
+Date: 15-03-2017 Time: 10:48:17 Message [Логика от Класа /ReadFromTxtFile/ за посочен разход ==> фитнес] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 10:48:17 Message [Прочетена стойност: 13] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 10:48:17 Message [От: TXT До: DB Тип разход: фитнес] - com.GUI.GUIlogic$1
+Date: 15-03-2017 Time: 10:49:17 Message [===========Начало============] - com.main.Main
+Date: 15-03-2017 Time: 10:49:17 Message [Добре дошли в програмата на Пешо!!!] - com.main.Main
+Date: 15-03-2017 Time: 10:49:17 Message [Изберете мястото от където ще извличате данни:] - com.main.Main
+Date: 15-03-2017 Time: 10:49:17 Message [[1] Четене от текстовият файл] - com.main.Main
+Date: 15-03-2017 Time: 10:49:17 Message [[2] Четене от XML файла] - com.main.Main
+Date: 15-03-2017 Time: 10:49:17 Message [[3] Четене от базата данни] - com.main.Main
+Date: 15-03-2017 Time: 10:49:17 Message [[4] Изход] - com.main.Main
+Date: 15-03-2017 Time: 10:49:17 Message [Избор: ] - com.main.Main
+Date: 15-03-2017 Time: 10:49:27 Message [Резултата ще бъде прочетен с: ] - com.files.SourceForUse
+Date: 15-03-2017 Time: 10:49:27 Message [Логика от Класа /ReadFromTxtFile/ за посочен разход ==> фитнес] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 10:49:27 Message [Прочетена стойност: 13] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 10:49:27 Message [От: TXT До: TXT Тип разход: фитнес] - com.GUI.GUIlogic$1
+Date: 15-03-2017 Time: 10:49:34 Message [Резултата ще бъде прочетен с: ] - com.files.SourceForUse
+Date: 15-03-2017 Time: 10:49:34 Message [Логика от Класа /ReadFromTxtFile/ за посочен разход ==> фъстъци] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 10:49:34 Message [Прочетена стойност: 12] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 10:49:34 Message [Прочетена стойност: 5] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 10:49:34 Message [От: TXT До: TXT Тип разход: фъстъци] - com.GUI.GUIlogic$1
+Date: 15-03-2017 Time: 10:55:56 Message [===========Начало============] - com.main.Main
+Date: 15-03-2017 Time: 10:55:56 Message [Добре дошли в програмата на Пешо!!!] - com.main.Main
+Date: 15-03-2017 Time: 10:55:56 Message [Изберете мястото от където ще извличате данни:] - com.main.Main
+Date: 15-03-2017 Time: 10:55:56 Message [[1] Четене от текстовият файл] - com.main.Main
+Date: 15-03-2017 Time: 10:55:56 Message [[2] Четене от XML файла] - com.main.Main
+Date: 15-03-2017 Time: 10:55:56 Message [[3] Четене от базата данни] - com.main.Main
+Date: 15-03-2017 Time: 10:55:56 Message [[4] Изход] - com.main.Main
+Date: 15-03-2017 Time: 10:55:56 Message [Избор: ] - com.main.Main
+Date: 15-03-2017 Time: 10:56:04 Message [Резултата ще бъде прочетен с: ] - com.files.SourceForUse
+Date: 15-03-2017 Time: 10:56:04 Message [DOM Parser.] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 10:56:04 Message [Прочетена стойност: 209] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 10:56:04 Message [Прочетена стойност: 23] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 10:56:04 Message [От: DOM До: TXT Тип разход: meze] - com.GUI.GUIlogic$1
+Date: 15-03-2017 Time: 10:57:10 Message [===========Начало============] - com.main.Main
+Date: 15-03-2017 Time: 10:57:10 Message [Добре дошли в програмата на Пешо!!!] - com.main.Main
+Date: 15-03-2017 Time: 10:57:10 Message [Изберете мястото от където ще извличате данни:] - com.main.Main
+Date: 15-03-2017 Time: 10:57:10 Message [[1] Четене от текстовият файл] - com.main.Main
+Date: 15-03-2017 Time: 10:57:10 Message [[2] Четене от XML файла] - com.main.Main
+Date: 15-03-2017 Time: 10:57:10 Message [[3] Четене от базата данни] - com.main.Main
+Date: 15-03-2017 Time: 10:57:10 Message [[4] Изход] - com.main.Main
+Date: 15-03-2017 Time: 10:57:10 Message [Избор: ] - com.main.Main
+Date: 15-03-2017 Time: 10:57:15 Message [Резултата ще бъде прочетен с: ] - com.files.SourceForUse
+Date: 15-03-2017 Time: 10:57:15 Message [DOM Parser.] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 10:57:15 Message [Прочетена стойност: 209] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 10:57:15 Message [Прочетена стойност: 23] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 10:57:35 Message [===========Начало============] - com.main.Main
+Date: 15-03-2017 Time: 10:57:35 Message [Добре дошли в програмата на Пешо!!!] - com.main.Main
+Date: 15-03-2017 Time: 10:57:35 Message [Изберете мястото от където ще извличате данни:] - com.main.Main
+Date: 15-03-2017 Time: 10:57:35 Message [[1] Четене от текстовият файл] - com.main.Main
+Date: 15-03-2017 Time: 10:57:35 Message [[2] Четене от XML файла] - com.main.Main
+Date: 15-03-2017 Time: 10:57:35 Message [[3] Четене от базата данни] - com.main.Main
+Date: 15-03-2017 Time: 10:57:35 Message [[4] Изход] - com.main.Main
+Date: 15-03-2017 Time: 10:57:35 Message [Избор: ] - com.main.Main
+Date: 15-03-2017 Time: 10:57:39 Message [Резултата ще бъде прочетен с: ] - com.files.SourceForUse
+Date: 15-03-2017 Time: 10:57:39 Message [Логика от Класа /ReadFromTxtFile/ за посочен разход ==> bira] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 10:57:39 Message [Прочетена стойност: 165] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 10:57:39 Message [Прочетена стойност: 10] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 10:57:39 Message [Прочетена стойност: 11] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 10:57:39 Message [От: TXT До: TXT Тип разход: bira] - com.GUI.GUIlogic$1
+Date: 15-03-2017 Time: 10:57:44 Message [Резултата ще бъде прочетен с: ] - com.files.SourceForUse
+Date: 15-03-2017 Time: 10:57:44 Message [DOM Parser.] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 10:57:44 Message [Прочетена стойност: 170] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 10:57:44 Message [Прочетена стойност: 172] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 10:57:44 Message [Прочетена стойност: 5] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 10:59:15 Message [===========Начало============] - com.main.Main
+Date: 15-03-2017 Time: 10:59:15 Message [Добре дошли в програмата на Пешо!!!] - com.main.Main
+Date: 15-03-2017 Time: 10:59:15 Message [Изберете мястото от където ще извличате данни:] - com.main.Main
+Date: 15-03-2017 Time: 10:59:15 Message [[1] Четене от текстовият файл] - com.main.Main
+Date: 15-03-2017 Time: 10:59:15 Message [[2] Четене от XML файла] - com.main.Main
+Date: 15-03-2017 Time: 10:59:15 Message [[3] Четене от базата данни] - com.main.Main
+Date: 15-03-2017 Time: 10:59:15 Message [[4] Изход] - com.main.Main
+Date: 15-03-2017 Time: 10:59:15 Message [Избор: ] - com.main.Main
+Date: 15-03-2017 Time: 10:59:22 Message [Резултата ще бъде прочетен с: ] - com.files.SourceForUse
+Date: 15-03-2017 Time: 10:59:22 Message [DOM Parser.] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 10:59:22 Message [Прочетена стойност: 209] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 10:59:22 Message [Прочетена стойност: 23] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 10:59:30 Message [Резултата ще бъде прочетен с: ] - com.files.SourceForUse
+Date: 15-03-2017 Time: 10:59:30 Message [Логика от Класа /ReadFromTxtFile/ за посочен разход ==> фитнес] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 10:59:30 Message [Прочетена стойност: 13] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 10:59:30 Message [От: TXT До: XML Тип разход: фитнес] - com.GUI.GUIlogic$1
+Date: 15-03-2017 Time: 11:07:50 Message [===========Начало============] - com.main.Main
+Date: 15-03-2017 Time: 11:07:50 Message [Добре дошли в програмата на Пешо!!!] - com.main.Main
+Date: 15-03-2017 Time: 11:07:50 Message [Изберете мястото от където ще извличате данни:] - com.main.Main
+Date: 15-03-2017 Time: 11:07:50 Message [[1] Четене от текстовият файл] - com.main.Main
+Date: 15-03-2017 Time: 11:07:50 Message [[2] Четене от XML файла] - com.main.Main
+Date: 15-03-2017 Time: 11:07:50 Message [[3] Четене от базата данни] - com.main.Main
+Date: 15-03-2017 Time: 11:07:50 Message [[4] Изход] - com.main.Main
+Date: 15-03-2017 Time: 11:07:50 Message [Избор: ] - com.main.Main
+Date: 15-03-2017 Time: 11:10:49 Message [===========Начало============] - com.main.Main
+Date: 15-03-2017 Time: 11:10:49 Message [Добре дошли в програмата на Пешо!!!] - com.main.Main
+Date: 15-03-2017 Time: 11:10:49 Message [Изберете мястото от където ще извличате данни:] - com.main.Main
+Date: 15-03-2017 Time: 11:10:49 Message [[1] Четене от текстовият файл] - com.main.Main
+Date: 15-03-2017 Time: 11:10:49 Message [[2] Четене от XML файла] - com.main.Main
+Date: 15-03-2017 Time: 11:10:49 Message [[3] Четене от базата данни] - com.main.Main
+Date: 15-03-2017 Time: 11:10:49 Message [[4] Изход] - com.main.Main
+Date: 15-03-2017 Time: 11:10:49 Message [Избор: ] - com.main.Main
+Date: 15-03-2017 Time: 11:11:06 Message [Резултата ще бъде прочетен с: ] - com.files.SourceForUse
+Date: 15-03-2017 Time: 11:11:06 Message [DOM Parser.] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:11:06 Message [Прочетена стойност: 209] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:11:06 Message [Прочетена стойност: 23] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:11:27 Message [===========Начало============] - com.main.Main
+Date: 15-03-2017 Time: 11:11:27 Message [Добре дошли в програмата на Пешо!!!] - com.main.Main
+Date: 15-03-2017 Time: 11:11:27 Message [Изберете мястото от където ще извличате данни:] - com.main.Main
+Date: 15-03-2017 Time: 11:11:27 Message [[1] Четене от текстовият файл] - com.main.Main
+Date: 15-03-2017 Time: 11:11:27 Message [[2] Четене от XML файла] - com.main.Main
+Date: 15-03-2017 Time: 11:11:27 Message [[3] Четене от базата данни] - com.main.Main
+Date: 15-03-2017 Time: 11:11:27 Message [[4] Изход] - com.main.Main
+Date: 15-03-2017 Time: 11:11:27 Message [Избор: ] - com.main.Main
+Date: 15-03-2017 Time: 11:11:38 Message [Резултата ще бъде прочетен с: ] - com.files.SourceForUse
+Date: 15-03-2017 Time: 11:11:38 Message [DOM Parser.] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:11:38 Message [Прочетена стойност: 209] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:11:38 Message [Прочетена стойност: 23] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:18:52 Message [===========Начало============] - com.main.Main
+Date: 15-03-2017 Time: 11:18:52 Message [Добре дошли в програмата на Пешо!!!] - com.main.Main
+Date: 15-03-2017 Time: 11:18:52 Message [Изберете мястото от където ще извличате данни:] - com.main.Main
+Date: 15-03-2017 Time: 11:18:52 Message [[1] Четене от текстовият файл] - com.main.Main
+Date: 15-03-2017 Time: 11:18:52 Message [[2] Четене от XML файла] - com.main.Main
+Date: 15-03-2017 Time: 11:18:52 Message [[3] Четене от базата данни] - com.main.Main
+Date: 15-03-2017 Time: 11:18:52 Message [[4] Изход] - com.main.Main
+Date: 15-03-2017 Time: 11:18:52 Message [Избор: ] - com.main.Main
+Date: 15-03-2017 Time: 11:18:59 Message [Резултата ще бъде прочетен с: ] - com.files.SourceForUse
+Date: 15-03-2017 Time: 11:18:59 Message [DOM Parser.] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:18:59 Message [Прочетена стойност: 209] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:18:59 Message [Прочетена стойност: 23] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:18:59 Message [От: DOM До: TXT Тип разход: meze] - com.GUI.GUIlogic$1
+Date: 15-03-2017 Time: 11:19:03 Message [Резултата ще бъде прочетен с: ] - com.files.SourceForUse
+Date: 15-03-2017 Time: 11:19:03 Message [DOM Parser.] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:19:03 Message [Прочетена стойност: 209] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:19:03 Message [Прочетена стойност: 23] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:19:03 Message [От: SAX До: TXT Тип разход: meze] - com.GUI.GUIlogic$1
+Date: 15-03-2017 Time: 11:28:23 Message [===========Начало============] - com.main.Main
+Date: 15-03-2017 Time: 11:28:23 Message [Добре дошли в програмата на Пешо!!!] - com.main.Main
+Date: 15-03-2017 Time: 11:28:23 Message [Изберете мястото от където ще извличате данни:] - com.main.Main
+Date: 15-03-2017 Time: 11:28:23 Message [[1] Четене от текстовият файл] - com.main.Main
+Date: 15-03-2017 Time: 11:28:23 Message [[2] Четене от XML файла] - com.main.Main
+Date: 15-03-2017 Time: 11:28:23 Message [[3] Четене от базата данни] - com.main.Main
+Date: 15-03-2017 Time: 11:28:23 Message [[4] Изход] - com.main.Main
+Date: 15-03-2017 Time: 11:28:23 Message [Избор: ] - com.main.Main
+Date: 15-03-2017 Time: 11:28:28 Message [Резултата ще бъде прочетен с: ] - com.files.SourceForUse
+Date: 15-03-2017 Time: 11:28:28 Message [JAXB] - com.readlogic.ReadXMLwithJAXB
+Date: 15-03-2017 Time: 11:28:29 Message [170] - com.readlogic.ReadXMLwithJAXB
+Date: 15-03-2017 Time: 11:28:29 Message [172] - com.readlogic.ReadXMLwithJAXB
+Date: 15-03-2017 Time: 11:28:29 Message [5] - com.readlogic.ReadXMLwithJAXB
+Date: 15-03-2017 Time: 11:28:29 Message [От: JAXB До: TXT Тип разход: meze] - com.GUI.GUIlogic$1
+Date: 15-03-2017 Time: 11:28:35 Message [Резултата ще бъде прочетен с: ] - com.files.SourceForUse
+Date: 15-03-2017 Time: 11:28:35 Message [SAX Parser] - com.readlogic.ReadXMLwithSAX
+Date: 15-03-2017 Time: 11:28:35 Message [Прочетени стойности: 209] - com.readlogic.ReadXMLwithSAXhandler
+Date: 15-03-2017 Time: 11:28:35 Message [Прочетени стойности: 23] - com.readlogic.ReadXMLwithSAXhandler
+Date: 15-03-2017 Time: 11:28:49 Message [===========Начало============] - com.main.Main
+Date: 15-03-2017 Time: 11:28:49 Message [Добре дошли в програмата на Пешо!!!] - com.main.Main
+Date: 15-03-2017 Time: 11:28:49 Message [Изберете мястото от където ще извличате данни:] - com.main.Main
+Date: 15-03-2017 Time: 11:28:49 Message [[1] Четене от текстовият файл] - com.main.Main
+Date: 15-03-2017 Time: 11:28:49 Message [[2] Четене от XML файла] - com.main.Main
+Date: 15-03-2017 Time: 11:28:49 Message [[3] Четене от базата данни] - com.main.Main
+Date: 15-03-2017 Time: 11:28:49 Message [[4] Изход] - com.main.Main
+Date: 15-03-2017 Time: 11:28:49 Message [Избор: ] - com.main.Main
+Date: 15-03-2017 Time: 11:28:54 Message [Резултата ще бъде прочетен с: ] - com.files.SourceForUse
+Date: 15-03-2017 Time: 11:28:54 Message [DOM Parser.] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:28:54 Message [Прочетена стойност: 209] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:28:54 Message [Прочетена стойност: 23] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:28:54 Message [От: DOM До: TXT Тип разход: meze] - com.GUI.GUIlogic$1
+Date: 15-03-2017 Time: 11:28:58 Message [Резултата ще бъде прочетен с: ] - com.files.SourceForUse
+Date: 15-03-2017 Time: 11:28:58 Message [SAX Parser] - com.readlogic.ReadXMLwithSAX
+Date: 15-03-2017 Time: 11:28:58 Message [Прочетени стойности: 209] - com.readlogic.ReadXMLwithSAXhandler
+Date: 15-03-2017 Time: 11:28:58 Message [Прочетени стойности: 23] - com.readlogic.ReadXMLwithSAXhandler
+Date: 15-03-2017 Time: 11:30:39 Message [===========Начало============] - com.main.Main
+Date: 15-03-2017 Time: 11:30:39 Message [Добре дошли в програмата на Пешо!!!] - com.main.Main
+Date: 15-03-2017 Time: 11:30:39 Message [Изберете мястото от където ще извличате данни:] - com.main.Main
+Date: 15-03-2017 Time: 11:30:39 Message [[1] Четене от текстовият файл] - com.main.Main
+Date: 15-03-2017 Time: 11:30:39 Message [[2] Четене от XML файла] - com.main.Main
+Date: 15-03-2017 Time: 11:30:39 Message [[3] Четене от базата данни] - com.main.Main
+Date: 15-03-2017 Time: 11:30:39 Message [[4] Изход] - com.main.Main
+Date: 15-03-2017 Time: 11:30:39 Message [Избор: ] - com.main.Main
+Date: 15-03-2017 Time: 11:30:45 Message [Резултата ще бъде прочетен с: ] - com.files.SourceForUse
+Date: 15-03-2017 Time: 11:30:45 Message [DOM Parser.] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:30:45 Message [Прочетена стойност: 209] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:30:45 Message [Прочетена стойност: 23] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:30:45 Message [От: DOM До: TXT Тип разход: meze] - com.GUI.GUIlogic$1
+Date: 15-03-2017 Time: 11:30:48 Message [Резултата ще бъде прочетен с: ] - com.files.SourceForUse
+Date: 15-03-2017 Time: 11:30:48 Message [SAX Parser] - com.readlogic.ReadXMLwithSAX
+Date: 15-03-2017 Time: 11:30:48 Message [Прочетени стойности: 209] - com.readlogic.ReadXMLwithSAXhandler
+Date: 15-03-2017 Time: 11:30:48 Message [Прочетени стойности: 23] - com.readlogic.ReadXMLwithSAXhandler
+Date: 15-03-2017 Time: 11:31:21 Message [===========Начало============] - com.main.Main
+Date: 15-03-2017 Time: 11:31:21 Message [Добре дошли в програмата на Пешо!!!] - com.main.Main
+Date: 15-03-2017 Time: 11:31:21 Message [Изберете мястото от където ще извличате данни:] - com.main.Main
+Date: 15-03-2017 Time: 11:31:21 Message [[1] Четене от текстовият файл] - com.main.Main
+Date: 15-03-2017 Time: 11:31:21 Message [[2] Четене от XML файла] - com.main.Main
+Date: 15-03-2017 Time: 11:31:21 Message [[3] Четене от базата данни] - com.main.Main
+Date: 15-03-2017 Time: 11:31:21 Message [[4] Изход] - com.main.Main
+Date: 15-03-2017 Time: 11:31:21 Message [Избор: ] - com.main.Main
+Date: 15-03-2017 Time: 11:31:25 Message [Резултата ще бъде прочетен с: ] - com.files.SourceForUse
+Date: 15-03-2017 Time: 11:31:25 Message [JAXB] - com.readlogic.ReadXMLwithJAXB
+Date: 15-03-2017 Time: 11:31:25 Message [170] - com.readlogic.ReadXMLwithJAXB
+Date: 15-03-2017 Time: 11:31:25 Message [172] - com.readlogic.ReadXMLwithJAXB
+Date: 15-03-2017 Time: 11:31:25 Message [5] - com.readlogic.ReadXMLwithJAXB
+Date: 15-03-2017 Time: 11:31:25 Message [От: JAXB До: TXT Тип разход: meze] - com.GUI.GUIlogic$1
+Date: 15-03-2017 Time: 11:31:27 Message [Резултата ще бъде прочетен с: ] - com.files.SourceForUse
+Date: 15-03-2017 Time: 11:31:27 Message [DOM Parser.] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:31:27 Message [Прочетена стойност: 209] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:31:27 Message [Прочетена стойност: 23] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:31:27 Message [От: DOM До: TXT Тип разход: meze] - com.GUI.GUIlogic$1
+Date: 15-03-2017 Time: 11:31:30 Message [Резултата ще бъде прочетен с: ] - com.files.SourceForUse
+Date: 15-03-2017 Time: 11:31:30 Message [SAX Parser] - com.readlogic.ReadXMLwithSAX
+Date: 15-03-2017 Time: 11:31:30 Message [Прочетени стойности: 209] - com.readlogic.ReadXMLwithSAXhandler
+Date: 15-03-2017 Time: 11:31:30 Message [Прочетени стойности: 23] - com.readlogic.ReadXMLwithSAXhandler
+Date: 15-03-2017 Time: 11:31:53 Message [===========Начало============] - com.main.Main
+Date: 15-03-2017 Time: 11:31:53 Message [Добре дошли в програмата на Пешо!!!] - com.main.Main
+Date: 15-03-2017 Time: 11:31:53 Message [Изберете мястото от където ще извличате данни:] - com.main.Main
+Date: 15-03-2017 Time: 11:31:53 Message [[1] Четене от текстовият файл] - com.main.Main
+Date: 15-03-2017 Time: 11:31:53 Message [[2] Четене от XML файла] - com.main.Main
+Date: 15-03-2017 Time: 11:31:53 Message [[3] Четене от базата данни] - com.main.Main
+Date: 15-03-2017 Time: 11:31:53 Message [[4] Изход] - com.main.Main
+Date: 15-03-2017 Time: 11:31:53 Message [Избор: ] - com.main.Main
+Date: 15-03-2017 Time: 11:31:58 Message [Резултата ще бъде прочетен с: ] - com.files.SourceForUse
+Date: 15-03-2017 Time: 11:31:58 Message [DOM Parser.] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:31:58 Message [Прочетена стойност: 209] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:31:58 Message [Прочетена стойност: 23] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:31:58 Message [От: DOM До: TXT Тип разход: meze] - com.GUI.GUIlogic$1
+Date: 15-03-2017 Time: 11:32:01 Message [Резултата ще бъде прочетен с: ] - com.files.SourceForUse
+Date: 15-03-2017 Time: 11:32:01 Message [SAX Parser] - com.readlogic.ReadXMLwithSAX
+Date: 15-03-2017 Time: 11:32:01 Message [Прочетени стойности: 209] - com.readlogic.ReadXMLwithSAXhandler
+Date: 15-03-2017 Time: 11:32:01 Message [Прочетени стойности: 23] - com.readlogic.ReadXMLwithSAXhandler
+Date: 15-03-2017 Time: 11:32:27 Message [===========Начало============] - com.main.Main
+Date: 15-03-2017 Time: 11:32:27 Message [Добре дошли в програмата на Пешо!!!] - com.main.Main
+Date: 15-03-2017 Time: 11:32:27 Message [Изберете мястото от където ще извличате данни:] - com.main.Main
+Date: 15-03-2017 Time: 11:32:27 Message [[1] Четене от текстовият файл] - com.main.Main
+Date: 15-03-2017 Time: 11:32:27 Message [[2] Четене от XML файла] - com.main.Main
+Date: 15-03-2017 Time: 11:32:27 Message [[3] Четене от базата данни] - com.main.Main
+Date: 15-03-2017 Time: 11:32:27 Message [[4] Изход] - com.main.Main
+Date: 15-03-2017 Time: 11:32:27 Message [Избор: ] - com.main.Main
+Date: 15-03-2017 Time: 11:32:31 Message [Резултата ще бъде прочетен с: ] - com.files.SourceForUse
+Date: 15-03-2017 Time: 11:32:31 Message [Логика от Класа /ReadFromTxtFile/ за посочен разход ==> bira] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 11:32:31 Message [Прочетена стойност: 165] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 11:32:31 Message [Прочетена стойност: 10] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 11:32:31 Message [Прочетена стойност: 11] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 11:32:31 Message [От: TXT До: TXT Тип разход: bira] - com.GUI.GUIlogic$1
+Date: 15-03-2017 Time: 11:32:43 Message [Резултата ще бъде прочетен с: ] - com.files.SourceForUse
+Date: 15-03-2017 Time: 11:32:43 Message [Логика от Класа /ReadFromTxtFile/ за посочен разход ==> fitnes] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 11:32:43 Message [От: TXT До: TXT Тип разход: fitnes] - com.GUI.GUIlogic$1
+Date: 15-03-2017 Time: 11:32:48 Message [Резултата ще бъде прочетен с: ] - com.files.SourceForUse
+Date: 15-03-2017 Time: 11:32:48 Message [Логика от Класа /ReadFromTxtFile/ за посочен разход ==> фитнес] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 11:32:48 Message [Прочетена стойност: 13] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 11:32:48 Message [От: TXT До: TXT Тип разход: фитнес] - com.GUI.GUIlogic$1
+Date: 15-03-2017 Time: 11:32:52 Message [Резултата ще бъде прочетен с: ] - com.files.SourceForUse
+Date: 15-03-2017 Time: 11:32:52 Message [Логика от Класа /ReadFromTxtFile/ за посочен разход ==> фъстъци] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 11:32:52 Message [Прочетена стойност: 12] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 11:32:52 Message [Прочетена стойност: 5] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 11:32:52 Message [От: TXT До: TXT Тип разход: фъстъци] - com.GUI.GUIlogic$1
+Date: 15-03-2017 Time: 11:33:01 Message [Резултата ще бъде прочетен с: ] - com.files.SourceForUse
+Date: 15-03-2017 Time: 11:33:01 Message [Логика от Класа /ReadFromTxtFile/ за посочен разход ==> bira] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 11:33:01 Message [Прочетена стойност: 165] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 11:33:01 Message [Прочетена стойност: 10] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 11:33:01 Message [Прочетена стойност: 11] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 11:33:01 Message [От: TXT До: TXT Тип разход: bira] - com.GUI.GUIlogic$1
+Date: 15-03-2017 Time: 11:33:03 Message [Резултата ще бъде прочетен с: ] - com.files.SourceForUse
+Date: 15-03-2017 Time: 11:33:03 Message [Логика от Класа /ReadFromTxtFile/ за посочен разход ==> bira] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 11:33:03 Message [Прочетена стойност: 165] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 11:33:03 Message [Прочетена стойност: 10] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 11:33:03 Message [Прочетена стойност: 11] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 11:33:03 Message [От: TXT До: TXT Тип разход: bira] - com.GUI.GUIlogic$1
+Date: 15-03-2017 Time: 11:33:04 Message [Резултата ще бъде прочетен с: ] - com.files.SourceForUse
+Date: 15-03-2017 Time: 11:33:04 Message [Логика от Класа /ReadFromTxtFile/ за посочен разход ==> bira] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 11:33:04 Message [Прочетена стойност: 165] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 11:33:04 Message [Прочетена стойност: 10] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 11:33:04 Message [Прочетена стойност: 11] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 11:33:04 Message [От: TXT До: TXT Тип разход: bira] - com.GUI.GUIlogic$1
+Date: 15-03-2017 Time: 11:33:04 Message [Резултата ще бъде прочетен с: ] - com.files.SourceForUse
+Date: 15-03-2017 Time: 11:33:04 Message [Логика от Класа /ReadFromTxtFile/ за посочен разход ==> bira] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 11:33:04 Message [Прочетена стойност: 165] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 11:33:04 Message [Прочетена стойност: 10] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 11:33:04 Message [Прочетена стойност: 11] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 11:33:04 Message [От: TXT До: TXT Тип разход: bira] - com.GUI.GUIlogic$1
+Date: 15-03-2017 Time: 11:33:05 Message [Резултата ще бъде прочетен с: ] - com.files.SourceForUse
+Date: 15-03-2017 Time: 11:33:05 Message [Логика от Класа /ReadFromTxtFile/ за посочен разход ==> bira] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 11:33:05 Message [Прочетена стойност: 165] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 11:33:05 Message [Прочетена стойност: 10] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 11:33:05 Message [Прочетена стойност: 11] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 11:33:05 Message [От: TXT До: TXT Тип разход: bira] - com.GUI.GUIlogic$1
+Date: 15-03-2017 Time: 11:33:05 Message [Резултата ще бъде прочетен с: ] - com.files.SourceForUse
+Date: 15-03-2017 Time: 11:33:05 Message [Логика от Класа /ReadFromTxtFile/ за посочен разход ==> bira] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 11:33:05 Message [Прочетена стойност: 165] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 11:33:05 Message [Прочетена стойност: 10] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 11:33:05 Message [Прочетена стойност: 11] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 11:33:05 Message [От: TXT До: TXT Тип разход: bira] - com.GUI.GUIlogic$1
+Date: 15-03-2017 Time: 11:33:06 Message [Резултата ще бъде прочетен с: ] - com.files.SourceForUse
+Date: 15-03-2017 Time: 11:33:06 Message [Логика от Класа /ReadFromTxtFile/ за посочен разход ==> bira] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 11:33:06 Message [Прочетена стойност: 165] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 11:33:06 Message [Прочетена стойност: 10] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 11:33:06 Message [Прочетена стойност: 11] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 11:33:06 Message [От: TXT До: TXT Тип разход: bira] - com.GUI.GUIlogic$1
+Date: 15-03-2017 Time: 11:33:06 Message [Резултата ще бъде прочетен с: ] - com.files.SourceForUse
+Date: 15-03-2017 Time: 11:33:06 Message [Логика от Класа /ReadFromTxtFile/ за посочен разход ==> bira] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 11:33:06 Message [Прочетена стойност: 165] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 11:33:06 Message [Прочетена стойност: 10] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 11:33:06 Message [Прочетена стойност: 11] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 11:33:06 Message [От: TXT До: TXT Тип разход: bira] - com.GUI.GUIlogic$1
+Date: 15-03-2017 Time: 11:33:10 Message [Резултата ще бъде прочетен с: ] - com.files.SourceForUse
+Date: 15-03-2017 Time: 11:33:10 Message [DOM Parser.] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:33:10 Message [Прочетена стойност: 170] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:33:10 Message [Прочетена стойност: 172] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:33:10 Message [Прочетена стойност: 5] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:33:10 Message [От: DOM До: TXT Тип разход: bira] - com.GUI.GUIlogic$1
+Date: 15-03-2017 Time: 11:33:16 Message [Резултата ще бъде прочетен с: ] - com.files.SourceForUse
+Date: 15-03-2017 Time: 11:33:16 Message [SAX Parser] - com.readlogic.ReadXMLwithSAX
+Date: 15-03-2017 Time: 11:33:16 Message [Прочетени стойности: 170] - com.readlogic.ReadXMLwithSAXhandler
+Date: 15-03-2017 Time: 11:33:16 Message [Прочетени стойности: 172] - com.readlogic.ReadXMLwithSAXhandler
+Date: 15-03-2017 Time: 11:33:16 Message [Прочетени стойности: 5] - com.readlogic.ReadXMLwithSAXhandler
+Date: 15-03-2017 Time: 11:37:43 Message [===========Начало============] - com.main.Main
+Date: 15-03-2017 Time: 11:37:43 Message [Добре дошли в програмата на Пешо!!!] - com.main.Main
+Date: 15-03-2017 Time: 11:37:43 Message [Изберете мястото от където ще извличате данни:] - com.main.Main
+Date: 15-03-2017 Time: 11:37:43 Message [[1] Четене от текстовият файл] - com.main.Main
+Date: 15-03-2017 Time: 11:37:43 Message [[2] Четене от XML файла] - com.main.Main
+Date: 15-03-2017 Time: 11:37:43 Message [[3] Четене от базата данни] - com.main.Main
+Date: 15-03-2017 Time: 11:37:43 Message [[4] Изход] - com.main.Main
+Date: 15-03-2017 Time: 11:37:43 Message [Избор: ] - com.main.Main
+Date: 15-03-2017 Time: 11:38:00 Message [===========Начало============] - com.main.Main
+Date: 15-03-2017 Time: 11:38:00 Message [Добре дошли в програмата на Пешо!!!] - com.main.Main
+Date: 15-03-2017 Time: 11:38:00 Message [Изберете мястото от където ще извличате данни:] - com.main.Main
+Date: 15-03-2017 Time: 11:38:00 Message [[1] Четене от текстовият файл] - com.main.Main
+Date: 15-03-2017 Time: 11:38:00 Message [[2] Четене от XML файла] - com.main.Main
+Date: 15-03-2017 Time: 11:38:00 Message [[3] Четене от базата данни] - com.main.Main
+Date: 15-03-2017 Time: 11:38:00 Message [[4] Изход] - com.main.Main
+Date: 15-03-2017 Time: 11:38:00 Message [Избор: ] - com.main.Main
+Date: 15-03-2017 Time: 11:38:10 Message [Резултата ще бъде прочетен с: ] - com.files.SourceForUse
+Date: 15-03-2017 Time: 11:38:10 Message [Логика от Класа /ReadFromTxtFile/ за посочен разход ==> bira] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 11:38:10 Message [Прочетена стойност: 165] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 11:38:10 Message [Прочетена стойност: 10] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 11:38:10 Message [Прочетена стойност: 11] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 11:38:10 Message [От: TXT До: TXT Тип разход: bira] - com.GUI.GUIlogic$1
+Date: 15-03-2017 Time: 11:38:48 Message [===========Начало============] - com.main.Main
+Date: 15-03-2017 Time: 11:38:48 Message [Добре дошли в програмата на Пешо!!!] - com.main.Main
+Date: 15-03-2017 Time: 11:38:48 Message [Изберете мястото от където ще извличате данни:] - com.main.Main
+Date: 15-03-2017 Time: 11:38:48 Message [[1] Четене от текстовият файл] - com.main.Main
+Date: 15-03-2017 Time: 11:38:48 Message [[2] Четене от XML файла] - com.main.Main
+Date: 15-03-2017 Time: 11:38:48 Message [[3] Четене от базата данни] - com.main.Main
+Date: 15-03-2017 Time: 11:38:48 Message [[4] Изход] - com.main.Main
+Date: 15-03-2017 Time: 11:38:48 Message [Избор: ] - com.main.Main
+Date: 15-03-2017 Time: 11:38:57 Message [Резултата ще бъде прочетен с: ] - com.files.SourceForUse
+Date: 15-03-2017 Time: 11:38:57 Message [Логика от Класа /ReadFromTxtFile/ за посочен разход ==> bira] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 11:38:57 Message [Прочетена стойност: 165] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 11:38:57 Message [Прочетена стойност: 10] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 11:38:57 Message [Прочетена стойност: 11] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 11:38:57 Message [От: TXT До: TXT Тип разход: bira] - com.GUI.GUIlogic$1
+Date: 15-03-2017 Time: 11:39:04 Message [Резултата ще бъде прочетен с: ] - com.files.SourceForUse
+Date: 15-03-2017 Time: 11:39:04 Message [SAX Parser] - com.readlogic.ReadXMLwithSAX
+Date: 15-03-2017 Time: 11:39:04 Message [Прочетени стойности: 170] - com.readlogic.ReadXMLwithSAXhandler
+Date: 15-03-2017 Time: 11:39:04 Message [Прочетени стойности: 172] - com.readlogic.ReadXMLwithSAXhandler
+Date: 15-03-2017 Time: 11:39:04 Message [Прочетени стойности: 5] - com.readlogic.ReadXMLwithSAXhandler
+Date: 15-03-2017 Time: 11:39:45 Message [===========Начало============] - com.main.Main
+Date: 15-03-2017 Time: 11:39:45 Message [Добре дошли в програмата на Пешо!!!] - com.main.Main
+Date: 15-03-2017 Time: 11:39:45 Message [Изберете мястото от където ще извличате данни:] - com.main.Main
+Date: 15-03-2017 Time: 11:39:45 Message [[1] Четене от текстовият файл] - com.main.Main
+Date: 15-03-2017 Time: 11:39:45 Message [[2] Четене от XML файла] - com.main.Main
+Date: 15-03-2017 Time: 11:39:45 Message [[3] Четене от базата данни] - com.main.Main
+Date: 15-03-2017 Time: 11:39:45 Message [[4] Изход] - com.main.Main
+Date: 15-03-2017 Time: 11:39:45 Message [Избор: ] - com.main.Main
+Date: 15-03-2017 Time: 11:39:55 Message [Резултата ще бъде прочетен с: ] - com.files.SourceForUse
+Date: 15-03-2017 Time: 11:39:55 Message [SAX Parser] - com.readlogic.ReadXMLwithSAX
+Date: 15-03-2017 Time: 11:39:55 Message [Прочетени стойности: 209] - com.readlogic.ReadXMLwithSAXhandler
+Date: 15-03-2017 Time: 11:39:55 Message [Прочетени стойности: 23] - com.readlogic.ReadXMLwithSAXhandler
+Date: 15-03-2017 Time: 11:42:20 Message [===========Начало============] - com.main.Main
+Date: 15-03-2017 Time: 11:42:20 Message [Добре дошли в програмата на Пешо!!!] - com.main.Main
+Date: 15-03-2017 Time: 11:42:20 Message [Изберете мястото от където ще извличате данни:] - com.main.Main
+Date: 15-03-2017 Time: 11:42:20 Message [[1] Четене от текстовият файл] - com.main.Main
+Date: 15-03-2017 Time: 11:42:20 Message [[2] Четене от XML файла] - com.main.Main
+Date: 15-03-2017 Time: 11:42:20 Message [[3] Четене от базата данни] - com.main.Main
+Date: 15-03-2017 Time: 11:42:20 Message [[4] Изход] - com.main.Main
+Date: 15-03-2017 Time: 11:42:20 Message [Избор: ] - com.main.Main
+Date: 15-03-2017 Time: 11:42:26 Message [Резултата ще бъде прочетен с: ] - com.files.SourceForUse
+Date: 15-03-2017 Time: 11:42:26 Message [DOM Parser.] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:42:26 Message [Прочетена стойност: 209] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:42:26 Message [Прочетена стойност: 23] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:42:26 Message [От: DOM До: TXT Тип разход: meze] - com.GUI.GUIlogic$1
+Date: 15-03-2017 Time: 11:42:27 Message [Резултата ще бъде прочетен с: ] - com.files.SourceForUse
+Date: 15-03-2017 Time: 11:42:27 Message [DOM Parser.] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:42:27 Message [Прочетена стойност: 209] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:42:27 Message [Прочетена стойност: 23] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:42:27 Message [От: DOM До: TXT Тип разход: meze] - com.GUI.GUIlogic$1
+Date: 15-03-2017 Time: 11:42:28 Message [Резултата ще бъде прочетен с: ] - com.files.SourceForUse
+Date: 15-03-2017 Time: 11:42:28 Message [DOM Parser.] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:42:28 Message [Прочетена стойност: 209] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:42:28 Message [Прочетена стойност: 23] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:42:28 Message [От: DOM До: TXT Тип разход: meze] - com.GUI.GUIlogic$1
+Date: 15-03-2017 Time: 11:42:29 Message [Резултата ще бъде прочетен с: ] - com.files.SourceForUse
+Date: 15-03-2017 Time: 11:42:29 Message [DOM Parser.] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:42:29 Message [Прочетена стойност: 209] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:42:29 Message [Прочетена стойност: 23] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:42:29 Message [От: DOM До: TXT Тип разход: meze] - com.GUI.GUIlogic$1
+Date: 15-03-2017 Time: 11:42:29 Message [Резултата ще бъде прочетен с: ] - com.files.SourceForUse
+Date: 15-03-2017 Time: 11:42:29 Message [DOM Parser.] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:42:29 Message [Прочетена стойност: 209] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:42:29 Message [Прочетена стойност: 23] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:42:29 Message [От: DOM До: TXT Тип разход: meze] - com.GUI.GUIlogic$1
+Date: 15-03-2017 Time: 11:42:29 Message [Резултата ще бъде прочетен с: ] - com.files.SourceForUse
+Date: 15-03-2017 Time: 11:42:29 Message [DOM Parser.] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:42:29 Message [Прочетена стойност: 209] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:42:29 Message [Прочетена стойност: 23] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:42:29 Message [От: DOM До: TXT Тип разход: meze] - com.GUI.GUIlogic$1
+Date: 15-03-2017 Time: 11:42:29 Message [Резултата ще бъде прочетен с: ] - com.files.SourceForUse
+Date: 15-03-2017 Time: 11:42:29 Message [DOM Parser.] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:42:29 Message [Прочетена стойност: 209] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:42:29 Message [Прочетена стойност: 23] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:42:29 Message [От: DOM До: TXT Тип разход: meze] - com.GUI.GUIlogic$1
+Date: 15-03-2017 Time: 11:42:30 Message [Резултата ще бъде прочетен с: ] - com.files.SourceForUse
+Date: 15-03-2017 Time: 11:42:30 Message [DOM Parser.] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:42:30 Message [Прочетена стойност: 209] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:42:30 Message [Прочетена стойност: 23] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:42:30 Message [От: DOM До: TXT Тип разход: meze] - com.GUI.GUIlogic$1
+Date: 15-03-2017 Time: 11:42:30 Message [Резултата ще бъде прочетен с: ] - com.files.SourceForUse
+Date: 15-03-2017 Time: 11:42:30 Message [DOM Parser.] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:42:30 Message [Прочетена стойност: 209] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:42:30 Message [Прочетена стойност: 23] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:42:30 Message [От: DOM До: TXT Тип разход: meze] - com.GUI.GUIlogic$1
+Date: 15-03-2017 Time: 11:42:37 Message [Резултата ще бъде прочетен с: ] - com.files.SourceForUse
+Date: 15-03-2017 Time: 11:42:37 Message [DOM Parser.] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:42:37 Message [Прочетена стойност: 209] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:42:37 Message [Прочетена стойност: 23] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:42:37 Message [От: DOM До: TXT Тип разход: meze] - com.GUI.GUIlogic$1
+Date: 15-03-2017 Time: 11:42:37 Message [Резултата ще бъде прочетен с: ] - com.files.SourceForUse
+Date: 15-03-2017 Time: 11:42:37 Message [DOM Parser.] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:42:37 Message [Прочетена стойност: 209] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:42:37 Message [Прочетена стойност: 23] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:42:37 Message [От: DOM До: TXT Тип разход: meze] - com.GUI.GUIlogic$1
+Date: 15-03-2017 Time: 11:42:38 Message [Резултата ще бъде прочетен с: ] - com.files.SourceForUse
+Date: 15-03-2017 Time: 11:42:38 Message [DOM Parser.] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:42:38 Message [Прочетена стойност: 209] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:42:38 Message [Прочетена стойност: 23] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:42:38 Message [От: DOM До: TXT Тип разход: meze] - com.GUI.GUIlogic$1
+Date: 15-03-2017 Time: 11:42:38 Message [Резултата ще бъде прочетен с: ] - com.files.SourceForUse
+Date: 15-03-2017 Time: 11:42:38 Message [DOM Parser.] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:42:38 Message [Прочетена стойност: 209] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:42:38 Message [Прочетена стойност: 23] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:42:38 Message [От: DOM До: TXT Тип разход: meze] - com.GUI.GUIlogic$1
+Date: 15-03-2017 Time: 11:42:38 Message [Резултата ще бъде прочетен с: ] - com.files.SourceForUse
+Date: 15-03-2017 Time: 11:42:38 Message [DOM Parser.] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:42:38 Message [Прочетена стойност: 209] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:42:38 Message [Прочетена стойност: 23] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:42:38 Message [От: DOM До: TXT Тип разход: meze] - com.GUI.GUIlogic$1
+Date: 15-03-2017 Time: 11:42:44 Message [Резултата ще бъде прочетен с: ] - com.files.SourceForUse
+Date: 15-03-2017 Time: 11:42:44 Message [SAX Parser] - com.readlogic.ReadXMLwithSAX
+Date: 15-03-2017 Time: 11:42:44 Message [Прочетени стойности: 209] - com.readlogic.ReadXMLwithSAXhandler
+Date: 15-03-2017 Time: 11:42:44 Message [Прочетени стойности: 23] - com.readlogic.ReadXMLwithSAXhandler
+Date: 15-03-2017 Time: 11:43:58 Message [===========Начало============] - com.main.Main
+Date: 15-03-2017 Time: 11:43:58 Message [Добре дошли в програмата на Пешо!!!] - com.main.Main
+Date: 15-03-2017 Time: 11:43:58 Message [Изберете мястото от където ще извличате данни:] - com.main.Main
+Date: 15-03-2017 Time: 11:43:58 Message [[1] Четене от текстовият файл] - com.main.Main
+Date: 15-03-2017 Time: 11:43:58 Message [[2] Четене от XML файла] - com.main.Main
+Date: 15-03-2017 Time: 11:43:58 Message [[3] Четене от базата данни] - com.main.Main
+Date: 15-03-2017 Time: 11:43:58 Message [[4] Изход] - com.main.Main
+Date: 15-03-2017 Time: 11:43:58 Message [Избор: ] - com.main.Main
+Date: 15-03-2017 Time: 11:44:03 Message [Резултата ще бъде прочетен с: ] - com.files.SourceForUse
+Date: 15-03-2017 Time: 11:44:03 Message [DOM Parser.] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:44:03 Message [Прочетена стойност: 209] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:44:03 Message [Прочетена стойност: 23] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:44:03 Message [От: DOM До: TXT Тип разход: meze] - com.GUI.GUIlogic$1
+Date: 15-03-2017 Time: 11:44:03 Message [Резултата ще бъде прочетен с: ] - com.files.SourceForUse
+Date: 15-03-2017 Time: 11:44:03 Message [DOM Parser.] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:44:03 Message [Прочетена стойност: 209] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:44:03 Message [Прочетена стойност: 23] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:44:03 Message [От: DOM До: TXT Тип разход: meze] - com.GUI.GUIlogic$1
+Date: 15-03-2017 Time: 11:44:03 Message [Резултата ще бъде прочетен с: ] - com.files.SourceForUse
+Date: 15-03-2017 Time: 11:44:03 Message [DOM Parser.] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:44:03 Message [Прочетена стойност: 209] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:44:03 Message [Прочетена стойност: 23] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:44:03 Message [От: DOM До: TXT Тип разход: meze] - com.GUI.GUIlogic$1
+Date: 15-03-2017 Time: 11:44:04 Message [Резултата ще бъде прочетен с: ] - com.files.SourceForUse
+Date: 15-03-2017 Time: 11:44:04 Message [DOM Parser.] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:44:04 Message [Прочетена стойност: 209] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:44:04 Message [Прочетена стойност: 23] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:44:04 Message [От: DOM До: TXT Тип разход: meze] - com.GUI.GUIlogic$1
+Date: 15-03-2017 Time: 11:44:04 Message [Резултата ще бъде прочетен с: ] - com.files.SourceForUse
+Date: 15-03-2017 Time: 11:44:04 Message [DOM Parser.] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:44:04 Message [Прочетена стойност: 209] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:44:04 Message [Прочетена стойност: 23] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:44:04 Message [От: DOM До: TXT Тип разход: meze] - com.GUI.GUIlogic$1
+Date: 15-03-2017 Time: 11:44:05 Message [Резултата ще бъде прочетен с: ] - com.files.SourceForUse
+Date: 15-03-2017 Time: 11:44:05 Message [DOM Parser.] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:44:05 Message [Прочетена стойност: 209] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:44:05 Message [Прочетена стойност: 23] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:44:05 Message [От: DOM До: TXT Тип разход: meze] - com.GUI.GUIlogic$1
+Date: 15-03-2017 Time: 11:44:07 Message [Резултата ще бъде прочетен с: ] - com.files.SourceForUse
+Date: 15-03-2017 Time: 11:44:07 Message [StAX Parser.] - com.readlogic.ReadXMLwithStAX
+Date: 15-03-2017 Time: 11:44:07 Message [Прочетена стойност: 209] - com.readlogic.ReadXMLwithStAX
+Date: 15-03-2017 Time: 11:44:07 Message [Прочетена стойност: 23] - com.readlogic.ReadXMLwithStAX
+Date: 15-03-2017 Time: 11:44:07 Message [От: StAX До: TXT Тип разход: meze] - com.GUI.GUIlogic$1
+Date: 15-03-2017 Time: 11:44:08 Message [Резултата ще бъде прочетен с: ] - com.files.SourceForUse
+Date: 15-03-2017 Time: 11:44:08 Message [StAX Parser.] - com.readlogic.ReadXMLwithStAX
+Date: 15-03-2017 Time: 11:44:08 Message [Прочетена стойност: 209] - com.readlogic.ReadXMLwithStAX
+Date: 15-03-2017 Time: 11:44:08 Message [Прочетена стойност: 23] - com.readlogic.ReadXMLwithStAX
+Date: 15-03-2017 Time: 11:44:08 Message [От: StAX До: TXT Тип разход: meze] - com.GUI.GUIlogic$1
+Date: 15-03-2017 Time: 11:44:09 Message [Резултата ще бъде прочетен с: ] - com.files.SourceForUse
+Date: 15-03-2017 Time: 11:44:09 Message [StAX Parser.] - com.readlogic.ReadXMLwithStAX
+Date: 15-03-2017 Time: 11:44:09 Message [Прочетена стойност: 209] - com.readlogic.ReadXMLwithStAX
+Date: 15-03-2017 Time: 11:44:09 Message [Прочетена стойност: 23] - com.readlogic.ReadXMLwithStAX
+Date: 15-03-2017 Time: 11:44:09 Message [От: StAX До: TXT Тип разход: meze] - com.GUI.GUIlogic$1
+Date: 15-03-2017 Time: 11:44:09 Message [Резултата ще бъде прочетен с: ] - com.files.SourceForUse
+Date: 15-03-2017 Time: 11:44:09 Message [StAX Parser.] - com.readlogic.ReadXMLwithStAX
+Date: 15-03-2017 Time: 11:44:09 Message [Прочетена стойност: 209] - com.readlogic.ReadXMLwithStAX
+Date: 15-03-2017 Time: 11:44:09 Message [Прочетена стойност: 23] - com.readlogic.ReadXMLwithStAX
+Date: 15-03-2017 Time: 11:44:09 Message [От: StAX До: TXT Тип разход: meze] - com.GUI.GUIlogic$1
+Date: 15-03-2017 Time: 11:44:09 Message [Резултата ще бъде прочетен с: ] - com.files.SourceForUse
+Date: 15-03-2017 Time: 11:44:09 Message [StAX Parser.] - com.readlogic.ReadXMLwithStAX
+Date: 15-03-2017 Time: 11:44:09 Message [Прочетена стойност: 209] - com.readlogic.ReadXMLwithStAX
+Date: 15-03-2017 Time: 11:44:09 Message [Прочетена стойност: 23] - com.readlogic.ReadXMLwithStAX
+Date: 15-03-2017 Time: 11:44:09 Message [От: StAX До: TXT Тип разход: meze] - com.GUI.GUIlogic$1
+Date: 15-03-2017 Time: 11:44:10 Message [Резултата ще бъде прочетен с: ] - com.files.SourceForUse
+Date: 15-03-2017 Time: 11:44:10 Message [StAX Parser.] - com.readlogic.ReadXMLwithStAX
+Date: 15-03-2017 Time: 11:44:10 Message [Прочетена стойност: 209] - com.readlogic.ReadXMLwithStAX
+Date: 15-03-2017 Time: 11:44:10 Message [Прочетена стойност: 23] - com.readlogic.ReadXMLwithStAX
+Date: 15-03-2017 Time: 11:44:10 Message [От: StAX До: TXT Тип разход: meze] - com.GUI.GUIlogic$1
+Date: 15-03-2017 Time: 11:44:10 Message [Резултата ще бъде прочетен с: ] - com.files.SourceForUse
+Date: 15-03-2017 Time: 11:44:10 Message [StAX Parser.] - com.readlogic.ReadXMLwithStAX
+Date: 15-03-2017 Time: 11:44:10 Message [Прочетена стойност: 209] - com.readlogic.ReadXMLwithStAX
+Date: 15-03-2017 Time: 11:44:10 Message [Прочетена стойност: 23] - com.readlogic.ReadXMLwithStAX
+Date: 15-03-2017 Time: 11:44:10 Message [От: StAX До: TXT Тип разход: meze] - com.GUI.GUIlogic$1
+Date: 15-03-2017 Time: 11:44:12 Message [Резултата ще бъде прочетен с: ] - com.files.SourceForUse
+Date: 15-03-2017 Time: 11:44:12 Message [SAX Parser] - com.readlogic.ReadXMLwithSAX
+Date: 15-03-2017 Time: 11:44:12 Message [Прочетени стойности: 209] - com.readlogic.ReadXMLwithSAXhandler
+Date: 15-03-2017 Time: 11:44:12 Message [Прочетени стойности: 23] - com.readlogic.ReadXMLwithSAXhandler
+Date: 15-03-2017 Time: 11:44:57 Message [===========Начало============] - com.main.Main
+Date: 15-03-2017 Time: 11:44:57 Message [Добре дошли в програмата на Пешо!!!] - com.main.Main
+Date: 15-03-2017 Time: 11:44:57 Message [Изберете мястото от където ще извличате данни:] - com.main.Main
+Date: 15-03-2017 Time: 11:44:57 Message [[1] Четене от текстовият файл] - com.main.Main
+Date: 15-03-2017 Time: 11:44:57 Message [[2] Четене от XML файла] - com.main.Main
+Date: 15-03-2017 Time: 11:44:57 Message [[3] Четене от базата данни] - com.main.Main
+Date: 15-03-2017 Time: 11:44:57 Message [[4] Изход] - com.main.Main
+Date: 15-03-2017 Time: 11:44:57 Message [Избор: ] - com.main.Main
+Date: 15-03-2017 Time: 11:45:34 Message [Резултата ще бъде прочетен с: ] - com.files.SourceForUse
+Date: 15-03-2017 Time: 11:45:34 Message [DOM Parser.] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:45:34 Message [Прочетена стойност: 209] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:45:34 Message [Прочетена стойност: 23] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:45:34 Message [От: DOM До: TXT Тип разход: meze] - com.GUI.GUIlogic$1
+Date: 15-03-2017 Time: 11:45:34 Message [Резултата ще бъде прочетен с: ] - com.files.SourceForUse
+Date: 15-03-2017 Time: 11:45:34 Message [DOM Parser.] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:45:34 Message [Прочетена стойност: 209] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:45:34 Message [Прочетена стойност: 23] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:45:34 Message [От: DOM До: TXT Тип разход: meze] - com.GUI.GUIlogic$1
+Date: 15-03-2017 Time: 11:45:35 Message [Резултата ще бъде прочетен с: ] - com.files.SourceForUse
+Date: 15-03-2017 Time: 11:45:35 Message [DOM Parser.] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:45:35 Message [Прочетена стойност: 209] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:45:35 Message [Прочетена стойност: 23] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:45:35 Message [От: DOM До: TXT Тип разход: meze] - com.GUI.GUIlogic$1
+Date: 15-03-2017 Time: 11:45:35 Message [Резултата ще бъде прочетен с: ] - com.files.SourceForUse
+Date: 15-03-2017 Time: 11:45:35 Message [DOM Parser.] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:45:35 Message [Прочетена стойност: 209] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:45:35 Message [Прочетена стойност: 23] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:45:35 Message [От: DOM До: TXT Тип разход: meze] - com.GUI.GUIlogic$1
+Date: 15-03-2017 Time: 11:45:35 Message [Резултата ще бъде прочетен с: ] - com.files.SourceForUse
+Date: 15-03-2017 Time: 11:45:35 Message [DOM Parser.] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:45:35 Message [Прочетена стойност: 209] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:45:35 Message [Прочетена стойност: 23] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:45:35 Message [От: DOM До: TXT Тип разход: meze] - com.GUI.GUIlogic$1
+Date: 15-03-2017 Time: 11:45:35 Message [Резултата ще бъде прочетен с: ] - com.files.SourceForUse
+Date: 15-03-2017 Time: 11:45:35 Message [DOM Parser.] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:45:35 Message [Прочетена стойност: 209] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:45:35 Message [Прочетена стойност: 23] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:45:35 Message [От: DOM До: TXT Тип разход: meze] - com.GUI.GUIlogic$1
+Date: 15-03-2017 Time: 11:45:37 Message [Резултата ще бъде прочетен с: ] - com.files.SourceForUse
+Date: 15-03-2017 Time: 11:45:37 Message [SAX Parser] - com.readlogic.ReadXMLwithSAX
+Date: 15-03-2017 Time: 11:45:37 Message [Прочетени стойности: 209] - com.readlogic.ReadXMLwithSAXhandler
+Date: 15-03-2017 Time: 11:45:37 Message [Прочетени стойности: 23] - com.readlogic.ReadXMLwithSAXhandler
+Date: 15-03-2017 Time: 11:45:37 Message [От: SAX До: TXT Тип разход: meze] - com.GUI.GUIlogic$1
+Date: 15-03-2017 Time: 11:45:37 Message [Резултата ще бъде прочетен с: ] - com.files.SourceForUse
+Date: 15-03-2017 Time: 11:45:37 Message [SAX Parser] - com.readlogic.ReadXMLwithSAX
+Date: 15-03-2017 Time: 11:45:37 Message [Прочетени стойности: 209] - com.readlogic.ReadXMLwithSAXhandler
+Date: 15-03-2017 Time: 11:45:37 Message [Прочетени стойности: 23] - com.readlogic.ReadXMLwithSAXhandler
+Date: 15-03-2017 Time: 11:45:37 Message [От: SAX До: TXT Тип разход: meze] - com.GUI.GUIlogic$1
+Date: 15-03-2017 Time: 11:45:38 Message [Резултата ще бъде прочетен с: ] - com.files.SourceForUse
+Date: 15-03-2017 Time: 11:45:38 Message [SAX Parser] - com.readlogic.ReadXMLwithSAX
+Date: 15-03-2017 Time: 11:45:38 Message [Прочетени стойности: 209] - com.readlogic.ReadXMLwithSAXhandler
+Date: 15-03-2017 Time: 11:45:38 Message [Прочетени стойности: 23] - com.readlogic.ReadXMLwithSAXhandler
+Date: 15-03-2017 Time: 11:45:38 Message [От: SAX До: TXT Тип разход: meze] - com.GUI.GUIlogic$1
+Date: 15-03-2017 Time: 11:45:38 Message [Резултата ще бъде прочетен с: ] - com.files.SourceForUse
+Date: 15-03-2017 Time: 11:45:38 Message [SAX Parser] - com.readlogic.ReadXMLwithSAX
+Date: 15-03-2017 Time: 11:45:38 Message [Прочетени стойности: 209] - com.readlogic.ReadXMLwithSAXhandler
+Date: 15-03-2017 Time: 11:45:38 Message [Прочетени стойности: 23] - com.readlogic.ReadXMLwithSAXhandler
+Date: 15-03-2017 Time: 11:45:38 Message [От: SAX До: TXT Тип разход: meze] - com.GUI.GUIlogic$1
+Date: 15-03-2017 Time: 11:45:38 Message [Резултата ще бъде прочетен с: ] - com.files.SourceForUse
+Date: 15-03-2017 Time: 11:45:38 Message [SAX Parser] - com.readlogic.ReadXMLwithSAX
+Date: 15-03-2017 Time: 11:45:38 Message [Прочетени стойности: 209] - com.readlogic.ReadXMLwithSAXhandler
+Date: 15-03-2017 Time: 11:45:38 Message [Прочетени стойности: 23] - com.readlogic.ReadXMLwithSAXhandler
+Date: 15-03-2017 Time: 11:45:38 Message [От: SAX До: TXT Тип разход: meze] - com.GUI.GUIlogic$1
+Date: 15-03-2017 Time: 11:45:39 Message [Резултата ще бъде прочетен с: ] - com.files.SourceForUse
+Date: 15-03-2017 Time: 11:45:39 Message [SAX Parser] - com.readlogic.ReadXMLwithSAX
+Date: 15-03-2017 Time: 11:45:39 Message [Прочетени стойности: 209] - com.readlogic.ReadXMLwithSAXhandler
+Date: 15-03-2017 Time: 11:45:39 Message [Прочетени стойности: 23] - com.readlogic.ReadXMLwithSAXhandler
+Date: 15-03-2017 Time: 11:45:39 Message [От: SAX До: TXT Тип разход: meze] - com.GUI.GUIlogic$1
+Date: 15-03-2017 Time: 11:45:43 Message [Резултата ще бъде прочетен с: ] - com.files.SourceForUse
+Date: 15-03-2017 Time: 11:45:43 Message [StAX Parser.] - com.readlogic.ReadXMLwithStAX
+Date: 15-03-2017 Time: 11:45:43 Message [Прочетена стойност: 170] - com.readlogic.ReadXMLwithStAX
+Date: 15-03-2017 Time: 11:45:43 Message [Прочетена стойност: 172] - com.readlogic.ReadXMLwithStAX
+Date: 15-03-2017 Time: 11:45:43 Message [Прочетена стойност: 5] - com.readlogic.ReadXMLwithStAX
+Date: 15-03-2017 Time: 11:45:43 Message [От: StAX До: TXT Тип разход: bira] - com.GUI.GUIlogic$1
+Date: 15-03-2017 Time: 11:45:43 Message [Резултата ще бъде прочетен с: ] - com.files.SourceForUse
+Date: 15-03-2017 Time: 11:45:43 Message [StAX Parser.] - com.readlogic.ReadXMLwithStAX
+Date: 15-03-2017 Time: 11:45:43 Message [Прочетена стойност: 170] - com.readlogic.ReadXMLwithStAX
+Date: 15-03-2017 Time: 11:45:44 Message [Прочетена стойност: 172] - com.readlogic.ReadXMLwithStAX
+Date: 15-03-2017 Time: 11:45:44 Message [Прочетена стойност: 5] - com.readlogic.ReadXMLwithStAX
+Date: 15-03-2017 Time: 11:45:44 Message [От: StAX До: TXT Тип разход: bira] - com.GUI.GUIlogic$1
+Date: 15-03-2017 Time: 11:45:44 Message [Резултата ще бъде прочетен с: ] - com.files.SourceForUse
+Date: 15-03-2017 Time: 11:45:44 Message [StAX Parser.] - com.readlogic.ReadXMLwithStAX
+Date: 15-03-2017 Time: 11:45:44 Message [Прочетена стойност: 170] - com.readlogic.ReadXMLwithStAX
+Date: 15-03-2017 Time: 11:45:44 Message [Прочетена стойност: 172] - com.readlogic.ReadXMLwithStAX
+Date: 15-03-2017 Time: 11:45:44 Message [Прочетена стойност: 5] - com.readlogic.ReadXMLwithStAX
+Date: 15-03-2017 Time: 11:45:44 Message [От: StAX До: TXT Тип разход: bira] - com.GUI.GUIlogic$1
+Date: 15-03-2017 Time: 11:45:45 Message [Резултата ще бъде прочетен с: ] - com.files.SourceForUse
+Date: 15-03-2017 Time: 11:45:45 Message [StAX Parser.] - com.readlogic.ReadXMLwithStAX
+Date: 15-03-2017 Time: 11:45:45 Message [Прочетена стойност: 170] - com.readlogic.ReadXMLwithStAX
+Date: 15-03-2017 Time: 11:45:45 Message [Прочетена стойност: 172] - com.readlogic.ReadXMLwithStAX
+Date: 15-03-2017 Time: 11:45:45 Message [Прочетена стойност: 5] - com.readlogic.ReadXMLwithStAX
+Date: 15-03-2017 Time: 11:45:45 Message [От: StAX До: TXT Тип разход: bira] - com.GUI.GUIlogic$1
+Date: 15-03-2017 Time: 11:45:47 Message [Резултата ще бъде прочетен с: ] - com.files.SourceForUse
+Date: 15-03-2017 Time: 11:45:47 Message [SAX Parser] - com.readlogic.ReadXMLwithSAX
+Date: 15-03-2017 Time: 11:45:47 Message [Прочетени стойности: 170] - com.readlogic.ReadXMLwithSAXhandler
+Date: 15-03-2017 Time: 11:45:47 Message [Прочетени стойности: 172] - com.readlogic.ReadXMLwithSAXhandler
+Date: 15-03-2017 Time: 11:45:47 Message [Прочетени стойности: 5] - com.readlogic.ReadXMLwithSAXhandler
+Date: 15-03-2017 Time: 11:45:47 Message [От: SAX До: TXT Тип разход: bira] - com.GUI.GUIlogic$1
+Date: 15-03-2017 Time: 11:45:48 Message [Резултата ще бъде прочетен с: ] - com.files.SourceForUse
+Date: 15-03-2017 Time: 11:45:48 Message [SAX Parser] - com.readlogic.ReadXMLwithSAX
+Date: 15-03-2017 Time: 11:45:48 Message [Прочетени стойности: 170] - com.readlogic.ReadXMLwithSAXhandler
+Date: 15-03-2017 Time: 11:45:48 Message [Прочетени стойности: 172] - com.readlogic.ReadXMLwithSAXhandler
+Date: 15-03-2017 Time: 11:45:48 Message [Прочетени стойности: 5] - com.readlogic.ReadXMLwithSAXhandler
+Date: 15-03-2017 Time: 11:45:48 Message [От: SAX До: TXT Тип разход: bira] - com.GUI.GUIlogic$1
+Date: 15-03-2017 Time: 11:45:48 Message [Резултата ще бъде прочетен с: ] - com.files.SourceForUse
+Date: 15-03-2017 Time: 11:45:48 Message [SAX Parser] - com.readlogic.ReadXMLwithSAX
+Date: 15-03-2017 Time: 11:45:48 Message [Прочетени стойности: 170] - com.readlogic.ReadXMLwithSAXhandler
+Date: 15-03-2017 Time: 11:45:48 Message [Прочетени стойности: 172] - com.readlogic.ReadXMLwithSAXhandler
+Date: 15-03-2017 Time: 11:45:48 Message [Прочетени стойности: 5] - com.readlogic.ReadXMLwithSAXhandler
+Date: 15-03-2017 Time: 11:45:48 Message [От: SAX До: TXT Тип разход: bira] - com.GUI.GUIlogic$1
+Date: 15-03-2017 Time: 11:45:55 Message [Резултата ще бъде прочетен с: ] - com.files.SourceForUse
+Date: 15-03-2017 Time: 11:45:55 Message [Логика за четене от базата данни] - com.readlogic.ReadFromDB
+Date: 15-03-2017 Time: 11:45:55 Message [Прочетена стойност: 336] - com.readlogic.ReadFromDB
+Date: 15-03-2017 Time: 11:45:55 Message [Прочетена стойност: 10] - com.readlogic.ReadFromDB
+Date: 15-03-2017 Time: 11:45:55 Message [От: DataBase До: TXT Тип разход: bira] - com.GUI.GUIlogic$1
+Date: 15-03-2017 Time: 11:46:12 Message [Резултата ще бъде прочетен с: ] - com.files.SourceForUse
+Date: 15-03-2017 Time: 11:46:12 Message [Логика за четене от базата данни] - com.readlogic.ReadFromDB
+Date: 15-03-2017 Time: 11:46:12 Message [Прочетена стойност: 170] - com.readlogic.ReadFromDB
+Date: 15-03-2017 Time: 11:46:12 Message [Прочетена стойност: 12] - com.readlogic.ReadFromDB
+Date: 15-03-2017 Time: 11:46:12 Message [Прочетена стойност: 16] - com.readlogic.ReadFromDB
+Date: 15-03-2017 Time: 11:46:12 Message [От: DataBase До: TXT Тип разход: meze] - com.GUI.GUIlogic$1
+Date: 15-03-2017 Time: 11:46:20 Message [Резултата ще бъде прочетен с: ] - com.files.SourceForUse
+Date: 15-03-2017 Time: 11:46:20 Message [Логика за четене от базата данни] - com.readlogic.ReadFromDB
+Date: 15-03-2017 Time: 11:46:20 Message [Прочетена стойност: 10] - com.readlogic.ReadFromDB
+Date: 15-03-2017 Time: 11:46:20 Message [От: DataBase До: TXT Тип разход: вино] - com.GUI.GUIlogic$1
+Date: 15-03-2017 Time: 11:47:29 Message [===========Начало============] - com.main.Main
+Date: 15-03-2017 Time: 11:47:29 Message [Добре дошли в програмата на Пешо!!!] - com.main.Main
+Date: 15-03-2017 Time: 11:47:29 Message [Изберете мястото от където ще извличате данни:] - com.main.Main
+Date: 15-03-2017 Time: 11:47:29 Message [[1] Четене от текстовият файл] - com.main.Main
+Date: 15-03-2017 Time: 11:47:29 Message [[2] Четене от XML файла] - com.main.Main
+Date: 15-03-2017 Time: 11:47:29 Message [[3] Четене от базата данни] - com.main.Main
+Date: 15-03-2017 Time: 11:47:29 Message [[4] Изход] - com.main.Main
+Date: 15-03-2017 Time: 11:47:29 Message [Избор: ] - com.main.Main
+Date: 15-03-2017 Time: 11:47:36 Message [Резултата ще бъде прочетен с: ] - com.files.SourceForUse
+Date: 15-03-2017 Time: 11:47:36 Message [DOM Parser.] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:47:36 Message [Прочетена стойност: 209] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:47:36 Message [Прочетена стойност: 23] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:47:36 Message [От: DOM До: TXT Тип разход: meze] - com.GUI.GUIlogic$1
+Date: 15-03-2017 Time: 11:47:38 Message [Резултата ще бъде прочетен с: ] - com.files.SourceForUse
+Date: 15-03-2017 Time: 11:47:38 Message [SAX Parser] - com.readlogic.ReadXMLwithSAX
+Date: 15-03-2017 Time: 11:47:38 Message [Прочетени стойности: 209] - com.readlogic.ReadXMLwithSAXhandler
+Date: 15-03-2017 Time: 11:47:38 Message [Прочетени стойности: 23] - com.readlogic.ReadXMLwithSAXhandler
+Date: 15-03-2017 Time: 11:47:38 Message [От: SAX До: TXT Тип разход: meze] - com.GUI.GUIlogic$1
+Date: 15-03-2017 Time: 11:47:43 Message [Резултата ще бъде прочетен с: ] - com.files.SourceForUse
+Date: 15-03-2017 Time: 11:47:43 Message [StAX Parser.] - com.readlogic.ReadXMLwithStAX
+Date: 15-03-2017 Time: 11:47:43 Message [Прочетена стойност: 209] - com.readlogic.ReadXMLwithStAX
+Date: 15-03-2017 Time: 11:47:43 Message [Прочетена стойност: 23] - com.readlogic.ReadXMLwithStAX
+Date: 15-03-2017 Time: 11:47:43 Message [От: StAX До: TXT Тип разход: meze] - com.GUI.GUIlogic$1
+Date: 15-03-2017 Time: 11:47:47 Message [Резултата ще бъде прочетен с: ] - com.files.SourceForUse
+Date: 15-03-2017 Time: 11:47:47 Message [JAXB] - com.readlogic.ReadXMLwithJAXB
+Date: 15-03-2017 Time: 11:47:47 Message [170] - com.readlogic.ReadXMLwithJAXB
+Date: 15-03-2017 Time: 11:47:47 Message [172] - com.readlogic.ReadXMLwithJAXB
+Date: 15-03-2017 Time: 11:47:47 Message [5] - com.readlogic.ReadXMLwithJAXB
+Date: 15-03-2017 Time: 11:47:47 Message [От: JAXB До: TXT Тип разход: meze] - com.GUI.GUIlogic$1
+Date: 15-03-2017 Time: 11:48:00 Message [Резултата ще бъде прочетен с: ] - com.files.SourceForUse
+Date: 15-03-2017 Time: 11:48:00 Message [Логика за четене от базата данни] - com.readlogic.ReadFromDB
+Date: 15-03-2017 Time: 11:48:00 Message [Прочетена стойност: 10] - com.readlogic.ReadFromDB
+Date: 15-03-2017 Time: 11:48:00 Message [От: DataBase До: TXT Тип разход: вино] - com.GUI.GUIlogic$1
+Date: 15-03-2017 Time: 11:49:01 Message [===========Начало============] - com.main.Main
+Date: 15-03-2017 Time: 11:49:01 Message [Добре дошли в програмата на Пешо!!!] - com.main.Main
+Date: 15-03-2017 Time: 11:49:01 Message [Изберете мястото от където ще извличате данни:] - com.main.Main
+Date: 15-03-2017 Time: 11:49:01 Message [[1] Четене от текстовият файл] - com.main.Main
+Date: 15-03-2017 Time: 11:49:01 Message [[2] Четене от XML файла] - com.main.Main
+Date: 15-03-2017 Time: 11:49:01 Message [[3] Четене от базата данни] - com.main.Main
+Date: 15-03-2017 Time: 11:49:01 Message [[4] Изход] - com.main.Main
+Date: 15-03-2017 Time: 11:49:01 Message [Избор: ] - com.main.Main
+Date: 15-03-2017 Time: 11:49:08 Message [Резултата ще бъде прочетен с: ] - com.files.SourceForUse
+Date: 15-03-2017 Time: 11:49:08 Message [DOM Parser.] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:49:08 Message [Прочетена стойност: 209] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:49:08 Message [Прочетена стойност: 23] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:49:08 Message [От: DOM До: TXT Тип разход: meze] - com.GUI.GUIlogic$1
+Date: 15-03-2017 Time: 11:49:12 Message [Резултата ще бъде прочетен с: ] - com.files.SourceForUse
+Date: 15-03-2017 Time: 11:49:12 Message [StAX Parser.] - com.readlogic.ReadXMLwithStAX
+Date: 15-03-2017 Time: 11:49:12 Message [Прочетена стойност: 209] - com.readlogic.ReadXMLwithStAX
+Date: 15-03-2017 Time: 11:49:12 Message [Прочетена стойност: 23] - com.readlogic.ReadXMLwithStAX
+Date: 15-03-2017 Time: 11:49:12 Message [От: StAX До: TXT Тип разход: meze] - com.GUI.GUIlogic$1
+Date: 15-03-2017 Time: 11:49:14 Message [Резултата ще бъде прочетен с: ] - com.files.SourceForUse
+Date: 15-03-2017 Time: 11:49:14 Message [SAX Parser] - com.readlogic.ReadXMLwithSAX
+Date: 15-03-2017 Time: 11:49:15 Message [Прочетени стойности: 209] - com.readlogic.ReadXMLwithSAXhandler
+Date: 15-03-2017 Time: 11:49:15 Message [Прочетени стойности: 23] - com.readlogic.ReadXMLwithSAXhandler
+Date: 15-03-2017 Time: 11:49:15 Message [От: SAX До: TXT Тип разход: meze] - com.GUI.GUIlogic$1
+Date: 15-03-2017 Time: 11:49:36 Message [Резултата ще бъде прочетен с: ] - com.files.SourceForUse
+Date: 15-03-2017 Time: 11:49:36 Message [JAXB] - com.readlogic.ReadXMLwithJAXB
+Date: 15-03-2017 Time: 11:49:36 Message [170] - com.readlogic.ReadXMLwithJAXB
+Date: 15-03-2017 Time: 11:49:36 Message [172] - com.readlogic.ReadXMLwithJAXB
+Date: 15-03-2017 Time: 11:49:36 Message [5] - com.readlogic.ReadXMLwithJAXB
+Date: 15-03-2017 Time: 11:49:36 Message [От: JAXB До: TXT Тип разход: meze] - com.GUI.GUIlogic$1
+Date: 15-03-2017 Time: 11:49:40 Message [Резултата ще бъде прочетен с: ] - com.files.SourceForUse
+Date: 15-03-2017 Time: 11:49:40 Message [DOM Parser.] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:49:40 Message [Прочетена стойност: 209] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:49:40 Message [Прочетена стойност: 23] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:49:40 Message [От: DOM До: TXT Тип разход: meze] - com.GUI.GUIlogic$1
+Date: 15-03-2017 Time: 11:49:41 Message [Резултата ще бъде прочетен с: ] - com.files.SourceForUse
+Date: 15-03-2017 Time: 11:49:41 Message [DOM Parser.] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:49:41 Message [Прочетена стойност: 209] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:49:41 Message [Прочетена стойност: 23] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:49:41 Message [От: DOM До: TXT Тип разход: meze] - com.GUI.GUIlogic$1
+Date: 15-03-2017 Time: 11:49:41 Message [Резултата ще бъде прочетен с: ] - com.files.SourceForUse
+Date: 15-03-2017 Time: 11:49:41 Message [DOM Parser.] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:49:41 Message [Прочетена стойност: 209] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:49:41 Message [Прочетена стойност: 23] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:49:41 Message [От: DOM До: TXT Тип разход: meze] - com.GUI.GUIlogic$1
+Date: 15-03-2017 Time: 11:49:50 Message [Резултата ще бъде прочетен с: ] - com.files.SourceForUse
+Date: 15-03-2017 Time: 11:49:50 Message [DOM Parser.] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:49:50 Message [От: DOM До: TXT Тип разход: фъстъци] - com.GUI.GUIlogic$1
+Date: 15-03-2017 Time: 11:50:06 Message [Резултата ще бъде прочетен с: ] - com.files.SourceForUse
+Date: 15-03-2017 Time: 11:50:06 Message [DOM Parser.] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:50:06 Message [Прочетена стойност: 29] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:50:06 Message [От: DOM До: TXT Тип разход: fitnes] - com.GUI.GUIlogic$1
+Date: 15-03-2017 Time: 11:50:11 Message [Резултата ще бъде прочетен с: ] - com.files.SourceForUse
+Date: 15-03-2017 Time: 11:50:11 Message [DOM Parser.] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:50:11 Message [Прочетена стойност: 29] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:50:11 Message [От: DOM До: TXT Тип разход: fitnes] - com.GUI.GUIlogic$1
+Date: 15-03-2017 Time: 11:50:11 Message [Резултата ще бъде прочетен с: ] - com.files.SourceForUse
+Date: 15-03-2017 Time: 11:50:11 Message [DOM Parser.] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:50:11 Message [Прочетена стойност: 29] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:50:11 Message [От: DOM До: TXT Тип разход: fitnes] - com.GUI.GUIlogic$1
+Date: 15-03-2017 Time: 11:50:11 Message [Резултата ще бъде прочетен с: ] - com.files.SourceForUse
+Date: 15-03-2017 Time: 11:50:11 Message [DOM Parser.] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:50:11 Message [Прочетена стойност: 29] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:50:11 Message [От: DOM До: TXT Тип разход: fitnes] - com.GUI.GUIlogic$1
+Date: 15-03-2017 Time: 11:52:12 Message [===========Начало============] - com.main.Main
+Date: 15-03-2017 Time: 11:52:12 Message [Добре дошли в програмата на Пешо!!!] - com.main.Main
+Date: 15-03-2017 Time: 11:52:12 Message [Изберете мястото от където ще извличате данни:] - com.main.Main
+Date: 15-03-2017 Time: 11:52:12 Message [[1] Четене от текстовият файл] - com.main.Main
+Date: 15-03-2017 Time: 11:52:12 Message [[2] Четене от XML файла] - com.main.Main
+Date: 15-03-2017 Time: 11:52:12 Message [[3] Четене от базата данни] - com.main.Main
+Date: 15-03-2017 Time: 11:52:12 Message [[4] Изход] - com.main.Main
+Date: 15-03-2017 Time: 11:52:12 Message [Избор: ] - com.main.Main
+Date: 15-03-2017 Time: 12:55:35 Message [===========Начало============] - com.main.Main
+Date: 15-03-2017 Time: 12:55:35 Message [Добре дошли в програмата на Пешо!!!] - com.main.Main
+Date: 15-03-2017 Time: 12:55:35 Message [Изберете мястото от където ще извличате данни:] - com.main.Main
+Date: 15-03-2017 Time: 12:55:35 Message [[1] Четене от текстовият файл] - com.main.Main
+Date: 15-03-2017 Time: 12:55:35 Message [[2] Четене от XML файла] - com.main.Main
+Date: 15-03-2017 Time: 12:55:35 Message [[3] Четене от базата данни] - com.main.Main
+Date: 15-03-2017 Time: 12:55:35 Message [[4] Изход] - com.main.Main
+Date: 15-03-2017 Time: 12:55:35 Message [Избор: ] - com.main.Main
+Date: 15-03-2017 Time: 12:55:45 Message [Резултата ще бъде прочетен с: ] - com.files.SourceForUse
+Date: 15-03-2017 Time: 12:55:45 Message [SAX Parser] - com.readlogic.ReadXMLwithSAX
+Date: 15-03-2017 Time: 12:55:45 Message [Прочетени стойности: 170] - com.readlogic.ReadXMLwithSAXhandler
+Date: 15-03-2017 Time: 12:55:45 Message [Прочетени стойности: 172] - com.readlogic.ReadXMLwithSAXhandler
+Date: 15-03-2017 Time: 12:55:45 Message [Прочетени стойности: 5] - com.readlogic.ReadXMLwithSAXhandler
+Date: 15-03-2017 Time: 12:55:45 Message [От: SAX До: TXT Тип разход: bira] - com.GUI.GUIlogic$1
+Date: 15-03-2017 Time: 12:55:52 Message [Резултата ще бъде прочетен с: ] - com.files.SourceForUse
+Date: 15-03-2017 Time: 12:55:52 Message [SAX Parser] - com.readlogic.ReadXMLwithSAX
+Date: 15-03-2017 Time: 12:55:52 Message [Прочетени стойности: 209] - com.readlogic.ReadXMLwithSAXhandler
+Date: 15-03-2017 Time: 12:55:52 Message [Прочетени стойности: 23] - com.readlogic.ReadXMLwithSAXhandler
+Date: 15-03-2017 Time: 12:55:52 Message [От: SAX До: TXT Тип разход: meze] - com.GUI.GUIlogic$1
+Date: 15-03-2017 Time: 12:55:54 Message [Резултата ще бъде прочетен с: ] - com.files.SourceForUse
+Date: 15-03-2017 Time: 12:55:54 Message [DOM Parser.] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 12:55:54 Message [Прочетена стойност: 209] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 12:55:54 Message [Прочетена стойност: 23] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 12:55:54 Message [От: DOM До: TXT Тип разход: meze] - com.GUI.GUIlogic$1
+Date: 15-03-2017 Time: 12:55:57 Message [Резултата ще бъде прочетен с: ] - com.files.SourceForUse
+Date: 15-03-2017 Time: 12:55:57 Message [Логика от Класа /ReadFromTxtFile/ за посочен разход ==> meze] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 12:55:57 Message [От: TXT До: TXT Тип разход: meze] - com.GUI.GUIlogic$1
+Date: 15-03-2017 Time: 12:56:03 Message [Резултата ще бъде прочетен с: ] - com.files.SourceForUse
+Date: 15-03-2017 Time: 12:56:03 Message [JAXB] - com.readlogic.ReadXMLwithJAXB
+Date: 15-03-2017 Time: 12:56:04 Message [170] - com.readlogic.ReadXMLwithJAXB
+Date: 15-03-2017 Time: 12:56:04 Message [172] - com.readlogic.ReadXMLwithJAXB
+Date: 15-03-2017 Time: 12:56:04 Message [5] - com.readlogic.ReadXMLwithJAXB
+Date: 15-03-2017 Time: 12:56:04 Message [От: JAXB До: TXT Тип разход: meze] - com.GUI.GUIlogic$1
+Date: 15-03-2017 Time: 12:56:07 Message [Резултата ще бъде прочетен с: ] - com.files.SourceForUse
+Date: 15-03-2017 Time: 12:56:07 Message [StAX Parser.] - com.readlogic.ReadXMLwithStAX
+Date: 15-03-2017 Time: 12:56:07 Message [Прочетена стойност: 209] - com.readlogic.ReadXMLwithStAX
+Date: 15-03-2017 Time: 12:56:07 Message [Прочетена стойност: 23] - com.readlogic.ReadXMLwithStAX
+Date: 15-03-2017 Time: 12:56:07 Message [От: StAX До: TXT Тип разход: meze] - com.GUI.GUIlogic$1
+Date: 15-03-2017 Time: 12:56:28 Message [Резултата ще бъде прочетен с: ] - com.files.SourceForUse
+Date: 15-03-2017 Time: 12:56:28 Message [StAX Parser.] - com.readlogic.ReadXMLwithStAX
+Date: 15-03-2017 Time: 12:56:28 Message [Прочетена стойност: 209] - com.readlogic.ReadXMLwithStAX
+Date: 15-03-2017 Time: 12:56:28 Message [Прочетена стойност: 23] - com.readlogic.ReadXMLwithStAX
+Date: 15-03-2017 Time: 12:56:28 Message [От: StAX До: XML Тип разход: meze] - com.GUI.GUIlogic$1
+Date: 15-03-2017 Time: 13:08:51 Message [===========Начало============] - com.main.Main
+Date: 15-03-2017 Time: 13:08:51 Message [Добре дошли в програмата на Пешо!!!] - com.main.Main
+Date: 15-03-2017 Time: 13:08:51 Message [Изберете мястото от където ще извличате данни:] - com.main.Main
+Date: 15-03-2017 Time: 13:08:51 Message [[1] Четене от текстовият файл] - com.main.Main
+Date: 15-03-2017 Time: 13:08:51 Message [[2] Четене от XML файла] - com.main.Main
+Date: 15-03-2017 Time: 13:08:51 Message [[3] Четене от базата данни] - com.main.Main
+Date: 15-03-2017 Time: 13:08:51 Message [[4] Изход] - com.main.Main
+Date: 15-03-2017 Time: 13:08:51 Message [Избор: ] - com.main.Main
+Date: 15-03-2017 Time: 13:08:56 Message [Въведете пътя до файла, който ще се чете: ] - com.main.Main
+Date: 15-03-2017 Time: 13:08:56 Message [Избрахте 1:] - com.main.Main
+Date: 15-03-2017 Time: 13:08:56 Message [Въведете типа на търсения разход (Пр. bira): ] - com.main.Main
+Date: 15-03-2017 Time: 13:10:03 Message [===========Начало============] - com.main.Main
+Date: 15-03-2017 Time: 13:10:03 Message [Добре дошли в програмата на Пешо!!!] - com.main.Main
+Date: 15-03-2017 Time: 13:10:03 Message [Изберете мястото от където ще извличате данни:] - com.main.Main
+Date: 15-03-2017 Time: 13:10:03 Message [[1] Четене от текстовият файл] - com.main.Main
+Date: 15-03-2017 Time: 13:10:03 Message [[2] Четене от XML файла] - com.main.Main
+Date: 15-03-2017 Time: 13:10:03 Message [[3] Четене от базата данни] - com.main.Main
+Date: 15-03-2017 Time: 13:10:03 Message [[4] Изход] - com.main.Main
+Date: 15-03-2017 Time: 13:10:03 Message [Избор: ] - com.main.Main
+Date: 15-03-2017 Time: 13:10:06 Message [Въведете пътя до файла, който ще се чете: ] - com.main.Main
+Date: 15-03-2017 Time: 13:10:06 Message [Избрахте 1:] - com.main.Main
+Date: 15-03-2017 Time: 13:10:06 Message [Въведете типа на търсения разход (Пр. bira): ] - com.main.Main
+Date: 15-03-2017 Time: 13:10:09 Message [Резултата ще бъде прочетен с: ] - com.files.SourceForUse
+Date: 15-03-2017 Time: 13:10:09 Message [Логика от Класа /ReadFromTxtFile/ за посочен разход ==> asd] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 13:10:09 Message [class java.io.FileNotFoundException ] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 13:10:09 Message [Въведете тип на изходните данни(txt, xml, dtb):] - com.main.Main
+Date: 15-03-2017 Time: 13:10:09 Message [[1] Запис в текстов файл] - com.main.Main
+Date: 15-03-2017 Time: 13:10:09 Message [[2] Запис в xml файл] - com.main.Main
+Date: 15-03-2017 Time: 13:10:09 Message [[3] Запис в база данни] - com.main.Main
+Date: 15-03-2017 Time: 13:10:09 Message [[4] Запис в PDF файл] - com.main.Main
+Date: 15-03-2017 Time: 13:10:09 Message [Избор: ] - com.main.Main
+Date: 15-03-2017 Time: 13:10:37 Message [===========Начало============] - com.main.Main
+Date: 15-03-2017 Time: 13:10:37 Message [Добре дошли в програмата на Пешо!!!] - com.main.Main
+Date: 15-03-2017 Time: 13:10:37 Message [Изберете мястото от където ще извличате данни:] - com.main.Main
+Date: 15-03-2017 Time: 13:10:37 Message [[1] Четене от текстовият файл] - com.main.Main
+Date: 15-03-2017 Time: 13:10:37 Message [[2] Четене от XML файла] - com.main.Main
+Date: 15-03-2017 Time: 13:10:37 Message [[3] Четене от базата данни] - com.main.Main
+Date: 15-03-2017 Time: 13:10:37 Message [[4] Изход] - com.main.Main
+Date: 15-03-2017 Time: 13:10:37 Message [Избор: ] - com.main.Main
+Date: 15-03-2017 Time: 13:10:40 Message [Въведете пътя до файла, който ще се чете: ] - com.main.Main
+Date: 15-03-2017 Time: 13:11:01 Message [Избрахте 1:] - com.main.Main
+Date: 15-03-2017 Time: 13:11:01 Message [Въведете типа на търсения разход (Пр. bira): ] - com.main.Main
+Date: 15-03-2017 Time: 13:11:16 Message [Резултата ще бъде прочетен с: ] - com.files.SourceForUse
+Date: 15-03-2017 Time: 13:11:16 Message [Логика от Класа /ReadFromTxtFile/ за посочен разход ==> bira] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 13:11:16 Message [Прочетена стойност: 165] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 13:11:16 Message [Прочетена стойност: 10] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 13:11:16 Message [Прочетена стойност: 11] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 13:11:16 Message [Въведете тип на изходните данни(txt, xml, dtb):] - com.main.Main
+Date: 15-03-2017 Time: 13:11:16 Message [[1] Запис в текстов файл] - com.main.Main
+Date: 15-03-2017 Time: 13:11:16 Message [[2] Запис в xml файл] - com.main.Main
+Date: 15-03-2017 Time: 13:11:16 Message [[3] Запис в база данни] - com.main.Main
+Date: 15-03-2017 Time: 13:11:16 Message [[4] Запис в PDF файл] - com.main.Main
+Date: 15-03-2017 Time: 13:11:16 Message [Избор: ] - com.main.Main
+Date: 15-03-2017 Time: 13:11:23 Message [Резултата ще бъде записан във] - com.files.SourceForUse
+Date: 15-03-2017 Time: 13:11:23 Message [ файлa ResultFiles/CostTXTout.txt.] - com.writelogic.WriteToTXT
+Date: 15-03-2017 Time: 13:11:23 Message [Програмата завърши хода си!] - com.main.Main
+Date: 15-03-2017 Time: 13:11:23 Message [===========Край============] - com.main.Main
+Date: 15-03-2017 Time: 13:29:47 Message [===========Начало============] - com.main.Main
+Date: 15-03-2017 Time: 13:29:47 Message [Добре дошли в програмата на Пешо!!!] - com.main.Main
+Date: 15-03-2017 Time: 13:29:47 Message [Изберете мястото от където ще извличате данни:] - com.main.Main
+Date: 15-03-2017 Time: 13:29:47 Message [[1] Четене от текстовият файл] - com.main.Main
+Date: 15-03-2017 Time: 13:29:47 Message [[2] Четене от XML файла] - com.main.Main
+Date: 15-03-2017 Time: 13:29:47 Message [[3] Четене от базата данни] - com.main.Main
+Date: 15-03-2017 Time: 13:29:47 Message [[4] Изход] - com.main.Main
+Date: 15-03-2017 Time: 13:29:47 Message [Избор: ] - com.main.Main
+Date: 15-03-2017 Time: 13:29:59 Message [Въведете пътя до файла, който ще се чете: ] - com.main.Main
+Date: 15-03-2017 Time: 13:30:14 Message [Избрахте 1:] - com.main.Main
+Date: 15-03-2017 Time: 13:30:14 Message [Въведете типа на търсения разход (Пр. bira): ] - com.main.Main
+Date: 15-03-2017 Time: 13:30:25 Message [Резултата ще бъде прочетен с: ] - com.files.SourceForUse
+Date: 15-03-2017 Time: 13:30:25 Message [Логика от Класа /ReadFromTxtFile/ за посочен разход ==> bira] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 13:30:25 Message [Прочетена стойност: 165] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 13:30:25 Message [Прочетена стойност: 10] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 13:30:25 Message [Прочетена стойност: 11] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 13:30:25 Message [Въведете тип на изходните данни(txt, xml, dtb):] - com.main.Main
+Date: 15-03-2017 Time: 13:30:25 Message [[1] Запис в текстов файл] - com.main.Main
+Date: 15-03-2017 Time: 13:30:25 Message [[2] Запис в xml файл] - com.main.Main
+Date: 15-03-2017 Time: 13:30:25 Message [[3] Запис в база данни] - com.main.Main
+Date: 15-03-2017 Time: 13:30:25 Message [[4] Запис в PDF файл] - com.main.Main
+Date: 15-03-2017 Time: 13:30:25 Message [Избор: ] - com.main.Main
+Date: 15-03-2017 Time: 13:30:33 Message [Въведете пътя до изходния файл: ] - com.main.Main
+Date: 15-03-2017 Time: 13:31:23 Message [Резултата ще бъде записан във] - com.files.SourceForUse
+Date: 15-03-2017 Time: 13:31:23 Message [ файлa ResultFiles/CostTXTout.txt.] - com.writelogic.WriteToTXT
+Date: 15-03-2017 Time: 13:31:23 Message [Програмата завърши хода си!] - com.main.Main
+Date: 15-03-2017 Time: 13:31:23 Message [===========Край============] - com.main.Main
+Date: 15-03-2017 Time: 13:38:11 Message [===========Начало============] - com.main.Main
+Date: 15-03-2017 Time: 13:38:11 Message [Добре дошли в програмата на Пешо!!!] - com.main.Main
+Date: 15-03-2017 Time: 13:38:11 Message [Изберете мястото от където ще извличате данни:] - com.main.Main
+Date: 15-03-2017 Time: 13:38:11 Message [[1] Четене от текстовият файл] - com.main.Main
+Date: 15-03-2017 Time: 13:38:11 Message [[2] Четене от XML файла] - com.main.Main
+Date: 15-03-2017 Time: 13:38:11 Message [[3] Четене от базата данни] - com.main.Main
+Date: 15-03-2017 Time: 13:38:11 Message [[4] Изход] - com.main.Main
+Date: 15-03-2017 Time: 13:38:11 Message [Избор: ] - com.main.Main
+Date: 15-03-2017 Time: 13:38:26 Message [===========Начало============] - com.main.Main
+Date: 15-03-2017 Time: 13:38:26 Message [Добре дошли в програмата на Пешо!!!] - com.main.Main
+Date: 15-03-2017 Time: 13:38:26 Message [Изберете мястото от където ще извличате данни:] - com.main.Main
+Date: 15-03-2017 Time: 13:38:26 Message [[1] Четене от текстовият файл] - com.main.Main
+Date: 15-03-2017 Time: 13:38:26 Message [[2] Четене от XML файла] - com.main.Main
+Date: 15-03-2017 Time: 13:38:26 Message [[3] Четене от базата данни] - com.main.Main
+Date: 15-03-2017 Time: 13:38:26 Message [[4] Изход] - com.main.Main
+Date: 15-03-2017 Time: 13:38:26 Message [Избор: ] - com.main.Main
+Date: 15-03-2017 Time: 13:39:12 Message [===========Начало============] - com.main.Main
+Date: 15-03-2017 Time: 13:39:12 Message [Добре дошли в програмата на Пешо!!!] - com.main.Main
+Date: 15-03-2017 Time: 13:39:12 Message [Изберете мястото от където ще извличате данни:] - com.main.Main
+Date: 15-03-2017 Time: 13:39:12 Message [[1] Четене от текстовият файл] - com.main.Main
+Date: 15-03-2017 Time: 13:39:12 Message [[2] Четене от XML файла] - com.main.Main
+Date: 15-03-2017 Time: 13:39:12 Message [[3] Четене от базата данни] - com.main.Main
+Date: 15-03-2017 Time: 13:39:12 Message [[4] Изход] - com.main.Main
+Date: 15-03-2017 Time: 13:39:12 Message [Избор: ] - com.main.Main
+Date: 15-03-2017 Time: 13:39:16 Message [Въведете пътя до файла, който ще се чете: ] - com.main.Main
+Date: 15-03-2017 Time: 13:39:29 Message [Избрахте 2: ] - com.main.Main
+Date: 15-03-2017 Time: 13:39:29 Message [Въведете типа на търсения разход (Пр. bira): ] - com.main.Main
+Date: 15-03-2017 Time: 13:39:34 Message [Въведете подхода по който да се прочете XML файла: ] - com.strategy.XMLStrategy
+Date: 15-03-2017 Time: 13:39:34 Message [[1] DOM] - com.strategy.XMLStrategy
+Date: 15-03-2017 Time: 13:39:34 Message [[2] SAX] - com.strategy.XMLStrategy
+Date: 15-03-2017 Time: 13:39:34 Message [[3] STAX] - com.strategy.XMLStrategy
+Date: 15-03-2017 Time: 13:39:34 Message [[4] JAXB] - com.strategy.XMLStrategy
+Date: 15-03-2017 Time: 13:39:34 Message [Избор: ] - com.strategy.XMLStrategy
+Date: 15-03-2017 Time: 13:39:39 Message [Резултата ще бъде прочетен с: ] - com.files.SourceForUse
+Date: 15-03-2017 Time: 13:39:39 Message [DOM Parser.] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 13:39:39 Message [Прочетена стойност: 209] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 13:39:39 Message [Прочетена стойност: 23] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 13:39:39 Message [Въведете тип на изходните данни(txt, xml, dtb):] - com.main.Main
+Date: 15-03-2017 Time: 13:39:39 Message [[1] Запис в текстов файл] - com.main.Main
+Date: 15-03-2017 Time: 13:39:39 Message [[2] Запис в xml файл] - com.main.Main
+Date: 15-03-2017 Time: 13:39:39 Message [[3] Запис в база данни] - com.main.Main
+Date: 15-03-2017 Time: 13:39:39 Message [[4] Запис в PDF файл] - com.main.Main
+Date: 15-03-2017 Time: 13:39:39 Message [Избор: ] - com.main.Main
+Date: 15-03-2017 Time: 13:39:43 Message [Резултата ще бъде записан във] - com.files.SourceForUse
+Date: 15-03-2017 Time: 13:39:43 Message [базата данни в таблица PESHOBIRATAOUT] - com.writelogic.WriteToDB
+Date: 15-03-2017 Time: 13:39:43 Message [Програмата завърши хода си!] - com.main.Main
+Date: 15-03-2017 Time: 13:39:43 Message [===========Край============] - com.main.Main
+Date: 15-03-2017 Time: 13:47:58 Message [===========Начало============] - com.main.Main
+Date: 15-03-2017 Time: 13:47:58 Message [Добре дошли в програмата на Пешо!!!] - com.main.Main
+Date: 15-03-2017 Time: 13:47:58 Message [Изберете мястото от където ще извличате данни:] - com.main.Main
+Date: 15-03-2017 Time: 13:47:58 Message [[1] Четене от текстовият файл] - com.main.Main
+Date: 15-03-2017 Time: 13:47:58 Message [[2] Четене от XML файла] - com.main.Main
+Date: 15-03-2017 Time: 13:47:58 Message [[3] Четене от базата данни] - com.main.Main
+Date: 15-03-2017 Time: 13:47:58 Message [[4] Изход] - com.main.Main
+Date: 15-03-2017 Time: 13:47:58 Message [Избор: ] - com.main.Main
+Date: 15-03-2017 Time: 13:48:04 Message [Въведете пътя до файла, който ще се чете: ] - com.main.Main
+Date: 15-03-2017 Time: 13:48:19 Message [Избрахте 1:] - com.main.Main
+Date: 15-03-2017 Time: 13:48:19 Message [Въведете типа на търсения разход (Пр. bira): ] - com.main.Main
+Date: 15-03-2017 Time: 13:48:22 Message [Резултата ще бъде прочетен с: ] - com.files.SourceForUse
+Date: 15-03-2017 Time: 13:48:22 Message [Логика от Класа /ReadFromTxtFile/ за посочен разход ==> bira] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 13:48:22 Message [Прочетена стойност: 165] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 13:48:22 Message [Прочетена стойност: 10] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 13:48:22 Message [Прочетена стойност: 11] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 13:48:36 Message [Въведете тип на изходните данни(txt, xml, dtb):] - com.main.Main
+Date: 15-03-2017 Time: 13:48:36 Message [[1] Запис в текстов файл] - com.main.Main
+Date: 15-03-2017 Time: 13:48:36 Message [[2] Запис в xml файл] - com.main.Main
+Date: 15-03-2017 Time: 13:48:36 Message [[3] Запис в база данни] - com.main.Main
+Date: 15-03-2017 Time: 13:48:36 Message [[4] Запис в PDF файл] - com.main.Main
+Date: 15-03-2017 Time: 13:48:36 Message [Избор: ] - com.main.Main
+Date: 15-03-2017 Time: 13:48:36 Message [Резултата ще бъде записан във] - com.files.SourceForUse
+Date: 15-03-2017 Time: 13:48:36 Message [ файлa ResultFiles/CostTXTout.txt.] - com.writelogic.WriteToTXT
+Date: 15-03-2017 Time: 13:48:36 Message [Въведете пътя до изходния файл: ] - com.main.Main
+Date: 15-03-2017 Time: 13:52:11 Message [===========Начало============] - com.main.Main
+Date: 15-03-2017 Time: 13:52:11 Message [Добре дошли в програмата на Пешо!!!] - com.main.Main
+Date: 15-03-2017 Time: 13:52:11 Message [Изберете мястото от където ще извличате данни:] - com.main.Main
+Date: 15-03-2017 Time: 13:52:11 Message [[1] Четене от текстовият файл] - com.main.Main
+Date: 15-03-2017 Time: 13:52:11 Message [[2] Четене от XML файла] - com.main.Main
+Date: 15-03-2017 Time: 13:52:11 Message [[3] Четене от базата данни] - com.main.Main
+Date: 15-03-2017 Time: 13:52:11 Message [[4] Изход] - com.main.Main
+Date: 15-03-2017 Time: 13:52:11 Message [Избор: ] - com.main.Main
+Date: 15-03-2017 Time: 13:52:15 Message [Въведете пътя до файла, който ще се чете: ] - com.main.Main
+Date: 15-03-2017 Time: 13:52:26 Message [Избрахте 1:] - com.main.Main
+Date: 15-03-2017 Time: 13:52:26 Message [Въведете типа на търсения разход (Пр. bira): ] - com.main.Main
+Date: 15-03-2017 Time: 13:52:29 Message [Резултата ще бъде прочетен с: ] - com.files.SourceForUse
+Date: 15-03-2017 Time: 13:52:29 Message [Логика от Класа /ReadFromTxtFile/ за посочен разход ==> bira] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 13:52:29 Message [Прочетена стойност: 165] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 13:52:29 Message [Прочетена стойност: 10] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 13:52:29 Message [Прочетена стойност: 11] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 13:52:29 Message [[1] Запис в текстов файл] - com.main.Main
+Date: 15-03-2017 Time: 13:52:29 Message [[2] Запис в xml файл] - com.main.Main
+Date: 15-03-2017 Time: 13:52:29 Message [[3] Запис в база данни] - com.main.Main
+Date: 15-03-2017 Time: 13:52:29 Message [[4] Запис в PDF файл] - com.main.Main
+Date: 15-03-2017 Time: 13:52:29 Message [Избор: ] - com.main.Main
+Date: 15-03-2017 Time: 13:52:58 Message [Резултата ще бъде записан във] - com.files.SourceForUse
+Date: 15-03-2017 Time: 13:52:58 Message [ файлa ResultFiles/CostTXTout.txt.] - com.writelogic.WriteToTXT
+Date: 15-03-2017 Time: 13:52:58 Message [Въведете пътя до изходния файл: ] - com.main.Main
+Date: 15-03-2017 Time: 13:54:00 Message [===========Начало============] - com.main.Main
+Date: 15-03-2017 Time: 13:54:00 Message [Добре дошли в програмата на Пешо!!!] - com.main.Main
+Date: 15-03-2017 Time: 13:54:00 Message [Изберете мястото от където ще извличате данни:] - com.main.Main
+Date: 15-03-2017 Time: 13:54:00 Message [[1] Четене от текстовият файл] - com.main.Main
+Date: 15-03-2017 Time: 13:54:00 Message [[2] Четене от XML файла] - com.main.Main
+Date: 15-03-2017 Time: 13:54:00 Message [[3] Четене от базата данни] - com.main.Main
+Date: 15-03-2017 Time: 13:54:00 Message [[4] Изход] - com.main.Main
+Date: 15-03-2017 Time: 13:54:00 Message [Избор: ] - com.main.Main
+Date: 15-03-2017 Time: 13:54:05 Message [Въведете пътя до файла, който ще се чете: ] - com.main.Main
+Date: 15-03-2017 Time: 13:54:28 Message [Избрахте 1:] - com.main.Main
+Date: 15-03-2017 Time: 13:54:28 Message [Въведете типа на търсения разход (Пр. bira): ] - com.main.Main
+Date: 15-03-2017 Time: 13:54:30 Message [Резултата ще бъде прочетен с: ] - com.files.SourceForUse
+Date: 15-03-2017 Time: 13:54:30 Message [Логика от Класа /ReadFromTxtFile/ за посочен разход ==> bira] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 13:54:30 Message [Прочетена стойност: 165] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 13:54:30 Message [Прочетена стойност: 10] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 13:54:30 Message [Прочетена стойност: 11] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 13:54:30 Message [Въведете тип на изходните данни(txt, xml, dtb):] - com.main.Main
+Date: 15-03-2017 Time: 13:54:30 Message [[1] Запис в текстов файл] - com.main.Main
+Date: 15-03-2017 Time: 13:54:30 Message [[2] Запис в xml файл] - com.main.Main
+Date: 15-03-2017 Time: 13:54:30 Message [[3] Запис в база данни] - com.main.Main
+Date: 15-03-2017 Time: 13:54:30 Message [[4] Запис в PDF файл] - com.main.Main
+Date: 15-03-2017 Time: 13:54:30 Message [Избор: ] - com.main.Main
+Date: 15-03-2017 Time: 13:54:35 Message [Резултата ще бъде записан във] - com.files.SourceForUse
+Date: 15-03-2017 Time: 13:54:35 Message [ файлa ResultFiles/CostTXTout.txt.] - com.writelogic.WriteToTXT
+Date: 15-03-2017 Time: 13:54:35 Message [Въведете пътя до изходния файл: ] - com.main.Main
+Date: 15-03-2017 Time: 13:56:27 Message [===========Начало============] - com.main.Main
+Date: 15-03-2017 Time: 13:56:27 Message [Добре дошли в програмата на Пешо!!!] - com.main.Main
+Date: 15-03-2017 Time: 13:56:27 Message [Изберете мястото от където ще извличате данни:] - com.main.Main
+Date: 15-03-2017 Time: 13:56:27 Message [[1] Четене от текстовият файл] - com.main.Main
+Date: 15-03-2017 Time: 13:56:27 Message [[2] Четене от XML файла] - com.main.Main
+Date: 15-03-2017 Time: 13:56:27 Message [[3] Четене от базата данни] - com.main.Main
+Date: 15-03-2017 Time: 13:56:27 Message [[4] Изход] - com.main.Main
+Date: 15-03-2017 Time: 13:56:27 Message [Избор: ] - com.main.Main
+Date: 15-03-2017 Time: 13:56:30 Message [Въведете пътя до файла, който ще се чете: ] - com.main.Main
+Date: 15-03-2017 Time: 13:56:33 Message [Избрахте 1:] - com.main.Main
+Date: 15-03-2017 Time: 13:56:33 Message [Въведете типа на търсения разход (Пр. bira): ] - com.main.Main
+Date: 15-03-2017 Time: 13:56:39 Message [Резултата ще бъде прочетен с: ] - com.files.SourceForUse
+Date: 15-03-2017 Time: 13:56:39 Message [Логика от Класа /ReadFromTxtFile/ за посочен разход ==> bira] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 13:56:39 Message [Прочетена стойност: 165] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 13:56:39 Message [Прочетена стойност: 10] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 13:56:39 Message [Прочетена стойност: 11] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 13:56:39 Message [Въведете тип на изходните данни(txt, xml, dtb):] - com.main.Main
+Date: 15-03-2017 Time: 13:56:39 Message [[1] Запис в текстов файл] - com.main.Main
+Date: 15-03-2017 Time: 13:56:39 Message [[2] Запис в xml файл] - com.main.Main
+Date: 15-03-2017 Time: 13:56:39 Message [[3] Запис в база данни] - com.main.Main
+Date: 15-03-2017 Time: 13:56:39 Message [[4] Запис в PDF файл] - com.main.Main
+Date: 15-03-2017 Time: 13:56:39 Message [Избор: ] - com.main.Main
+Date: 15-03-2017 Time: 13:56:46 Message [Резултата ще бъде записан във] - com.files.SourceForUse
+Date: 15-03-2017 Time: 13:56:46 Message [файлa Files/CostTXT.txt] - com.writelogic.WriteToTXT
+Date: 15-03-2017 Time: 13:56:46 Message [Въведете пътя до изходния файл: ] - com.main.Main
+Date: 15-03-2017 Time: 13:57:57 Message [Програмата завърши хода си!] - com.main.Main
+Date: 15-03-2017 Time: 13:57:57 Message [===========Край============] - com.main.Main
+Date: 15-03-2017 Time: 14:02:23 Message [===========Начало============] - com.main.Main
+Date: 15-03-2017 Time: 14:02:23 Message [Добре дошли в програмата на Пешо!!!] - com.main.Main
+Date: 15-03-2017 Time: 14:02:23 Message [Изберете мястото от където ще извличате данни:] - com.main.Main
+Date: 15-03-2017 Time: 14:02:23 Message [[1] Четене от текстовият файл] - com.main.Main
+Date: 15-03-2017 Time: 14:02:23 Message [[2] Четене от XML файла] - com.main.Main
+Date: 15-03-2017 Time: 14:02:23 Message [[3] Четене от базата данни] - com.main.Main
+Date: 15-03-2017 Time: 14:02:23 Message [[4] Изход] - com.main.Main
+Date: 15-03-2017 Time: 14:02:23 Message [Избор: ] - com.main.Main
+Date: 15-03-2017 Time: 14:02:32 Message [Въведете пътя до файла, който ще се чете: ] - com.main.Main
+Date: 15-03-2017 Time: 14:02:49 Message [Избрахте 1:] - com.main.Main
+Date: 15-03-2017 Time: 14:02:49 Message [Въведете типа на търсения разход (Пр. bira): ] - com.main.Main
+Date: 15-03-2017 Time: 14:02:51 Message [Резултата ще бъде прочетен с: ] - com.files.SourceForUse
+Date: 15-03-2017 Time: 14:02:51 Message [Логика от Класа /ReadFromTxtFile/ за посочен разход ==> bira] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 14:02:51 Message [Прочетена стойност: 165] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 14:02:51 Message [Прочетена стойност: 10] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 14:02:51 Message [Прочетена стойност: 11] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 14:02:51 Message [Въведете тип на изходните данни(txt, xml, dtb):] - com.main.Main
+Date: 15-03-2017 Time: 14:02:51 Message [[1] Запис в текстов файл] - com.main.Main
+Date: 15-03-2017 Time: 14:02:51 Message [[2] Запис в xml файл] - com.main.Main
+Date: 15-03-2017 Time: 14:02:51 Message [[3] Запис в база данни] - com.main.Main
+Date: 15-03-2017 Time: 14:02:51 Message [[4] Запис в PDF файл] - com.main.Main
+Date: 15-03-2017 Time: 14:02:51 Message [Избор: ] - com.main.Main
+Date: 15-03-2017 Time: 14:03:07 Message [Резултата ще бъде записан във] - com.files.SourceForUse
+Date: 15-03-2017 Time: 14:03:07 Message [Въведете пътя до изходния файл: ] - com.main.Main
+Date: 15-03-2017 Time: 14:03:43 Message [Програмата завърши хода си!] - com.main.Main
+Date: 15-03-2017 Time: 14:03:43 Message [===========Край============] - com.main.Main

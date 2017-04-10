@@ -1,0 +1,10 @@
+Date: 16-03-2017 Time: 13:06:45 Message [class org.h2.jdbc.JdbcSQLException Invalid value "1" for parameter "parameterIndex" [90008-193]] - com.readlogic.ReadFromDB
+Date: 16-03-2017 Time: 13:07:00 Message [class org.h2.jdbc.JdbcSQLException Invalid value "1" for parameter "parameterIndex" [90008-193]] - com.readlogic.ReadFromDB
+Date: 16-03-2017 Time: 13:57:13 Message [class java.awt.event.ActionEvent null] - com.GUI.GUIlogic$3
+Date: 16-03-2017 Time: 13:57:33 Message [class java.awt.event.ActionEvent null] - com.GUI.GUIlogic$3
+Date: 16-03-2017 Time: 13:59:08 Message [class java.awt.event.ActionEvent null] - com.GUI.GUIlogic$3
+Date: 16-03-2017 Time: 14:28:05 Message [class java.awt.event.ActionEvent null] - com.GUI.GUIlogic$3
+Date: 16-03-2017 Time: 14:42:13 Message [class java.awt.event.ActionEvent null [Ljava.lang.StackTraceElement;@6674c3dc] - com.GUI.GUIlogic$3
+Date: 16-03-2017 Time: 14:42:45 Message [class java.awt.event.ActionEvent null null] - com.GUI.GUIlogic$3
+Date: 16-03-2017 Time: 14:43:41 Message [class java.awt.event.ActionEvent null java.lang.NullPointerException] - com.GUI.GUIlogic$3
+Date: 16-03-2017 Time: 14:48:29 Message [class java.awt.event.ActionEvent null java.lang.NullPointerException] - com.GUI.GUIlogic$3

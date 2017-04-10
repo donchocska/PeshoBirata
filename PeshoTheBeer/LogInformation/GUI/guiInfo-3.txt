@@ -1,0 +1,47 @@
+Date: 23-03-2017 Time: 17:15:37 Message [Изходен файл: C:\Users\d.balamdzhiev\Documents\123.txt] - com.GUI.GUIlogic$2
+Date: 23-03-2017 Time: 17:15:39 Message [От: TXT До: TXT Тип разход: bira] - com.GUI.GUIlogic$3
+Date: 23-03-2017 Time: 17:15:39 Message [========== Край =============] - com.GUI.GUIlogic$3
+Date: 23-03-2017 Time: 17:15:54 Message [От: TXT До: TXT Тип разход: asdasdad] - com.GUI.GUIlogic$3
+Date: 23-03-2017 Time: 17:15:54 Message [========== Край =============] - com.GUI.GUIlogic$3
+Date: 23-03-2017 Time: 17:16:01 Message [От: TXT До: TXT Тип разход: meze] - com.GUI.GUIlogic$3
+Date: 23-03-2017 Time: 17:16:01 Message [========== Край =============] - com.GUI.GUIlogic$3
+Date: 23-03-2017 Time: 17:16:21 Message [========== Начало =============] - com.GUI.GUIlogic
+Date: 23-03-2017 Time: 17:16:32 Message [Входен файл: C:\Users\d.balamdzhiev\Documents\Pesho Birata\Files\CostTXT.txt] - com.GUI.GUIlogic$1
+Date: 23-03-2017 Time: 17:16:35 Message [Изходен файл: C:\Users\d.balamdzhiev\Documents\123.txt] - com.GUI.GUIlogic$2
+Date: 23-03-2017 Time: 17:16:48 Message [От: TXT До: TXT Тип разход: bira] - com.GUI.GUIlogic$3
+Date: 23-03-2017 Time: 17:16:48 Message [========== Край =============] - com.GUI.GUIlogic$3
+Date: 23-03-2017 Time: 17:17:51 Message [========== Начало =============] - com.GUI.GUIlogic
+Date: 23-03-2017 Time: 17:18:14 Message [Входен файл: C:\Users\d.balamdzhiev\Documents\Pesho Birata\Files\CostTXT.txt] - com.GUI.GUIlogic$1
+Date: 23-03-2017 Time: 17:18:21 Message [Изходен файл: C:\Users\d.balamdzhiev\Documents\ChartEN.pdf] - com.GUI.GUIlogic$2
+Date: 23-03-2017 Time: 17:18:27 Message [От: TXT До: PDF Тип разход: meze] - com.GUI.GUIlogic$3
+Date: 23-03-2017 Time: 17:18:27 Message [========== Край =============] - com.GUI.GUIlogic$3
+Date: 23-03-2017 Time: 17:18:50 Message [От: TXT До: PDF Тип разход: mezeaa] - com.GUI.GUIlogic$3
+Date: 23-03-2017 Time: 17:18:50 Message [========== Край =============] - com.GUI.GUIlogic$3
+Date: 23-03-2017 Time: 17:20:35 Message [========== Начало =============] - com.GUI.GUIlogic
+Date: 23-03-2017 Time: 17:21:01 Message [Входен файл: C:\Users\d.balamdzhiev\Documents\Pesho Birata\Files\CostTXT.txt] - com.GUI.GUIlogic$1
+Date: 23-03-2017 Time: 17:21:07 Message [Изходен файл: C:\Users\d.balamdzhiev\Documents\123.txt] - com.GUI.GUIlogic$2
+Date: 23-03-2017 Time: 17:21:46 Message [========== Начало =============] - com.GUI.GUIlogic
+Date: 23-03-2017 Time: 17:21:57 Message [Входен файл: C:\Users\d.balamdzhiev\Documents\Pesho Birata\Files\CostTXT.txt] - com.GUI.GUIlogic$1
+Date: 23-03-2017 Time: 17:21:58 Message [Изходен файл: C:\Users\d.balamdzhiev\Documents\123.txt] - com.GUI.GUIlogic$2
+Date: 23-03-2017 Time: 17:22:01 Message [От: TXT До: TXT Тип разход: asdasd] - com.GUI.GUIlogic$3
+Date: 23-03-2017 Time: 17:22:01 Message [========== Край =============] - com.GUI.GUIlogic$3
+Date: 24-03-2017 Time: 08:52:17 Message [========== Начало =============] - com.GUI.GUIlogic
+Date: 24-03-2017 Time: 09:14:57 Message [========== Начало =============] - com.GUI.GUIlogic
+Date: 24-03-2017 Time: 09:15:56 Message [========== Начало =============] - com.GUI.GUIlogic
+Date: 24-03-2017 Time: 09:16:33 Message [========== Начало =============] - com.GUI.GUIlogic
+Date: 24-03-2017 Time: 09:17:14 Message [========== Начало =============] - com.GUI.GUIlogic
+Date: 24-03-2017 Time: 09:17:44 Message [========== Начало =============] - com.GUI.GUIlogic
+Date: 24-03-2017 Time: 10:23:26 Message [========== Начало =============] - com.GUI.GUIlogic
+Date: 24-03-2017 Time: 10:23:40 Message [========== Начало =============] - com.GUI.GUIlogic
+Date: 24-03-2017 Time: 10:24:13 Message [========== Начало =============] - com.GUI.GUIlogic
+Date: 24-03-2017 Time: 10:24:37 Message [========== Начало =============] - com.GUI.GUIlogic
+Date: 24-03-2017 Time: 11:08:11 Message [========== Начало =============] - com.GUI.GUIlogic
+Date: 24-03-2017 Time: 11:08:19 Message [========== Начало =============] - com.GUI.GUIlogic
+Date: 24-03-2017 Time: 11:08:36 Message [========== Начало =============] - com.GUI.GUIlogic
+Date: 24-03-2017 Time: 11:28:34 Message [========== Начало =============] - com.GUI.GUIlogic
+Date: 24-03-2017 Time: 11:30:02 Message [========== Начало =============] - com.GUI.GUIlogic
+Date: 24-03-2017 Time: 12:20:53 Message [========== Начало =============] - com.GUI.GUIlogic
+Date: 24-03-2017 Time: 12:21:31 Message [Изходен файл: C:\Users\d.balamdzhiev\Documents\Chart.pdf] - com.GUI.GUIlogic$2
+Date: 24-03-2017 Time: 12:21:34 Message [От: DataBase До: PDF Тип разход: bira] - com.GUI.GUIlogic$3
+Date: 24-03-2017 Time: 12:21:34 Message [========== Край =============] - com.GUI.GUIlogic$3
+Date: 24-03-2017 Time: 12:23:35 Message [========== Начало =============] - com.GUI.GUIlogic

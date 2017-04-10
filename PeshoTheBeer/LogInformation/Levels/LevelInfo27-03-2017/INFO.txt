@@ -1,0 +1,67 @@
+Date: 27-03-2017 Time: 09:09:43 Message [========== Начало =============] - com.GUI.GUIlogic
+Date: 27-03-2017 Time: 09:09:51 Message [Входен файл: C:\Users\d.balamdzhiev\Documents\Pesho Birata\Files\CostTXT.txt] - com.GUI.GUIlogic$1
+Date: 27-03-2017 Time: 09:09:54 Message [Изходен файл: C:\Users\d.balamdzhiev\Documents\123.txt] - com.GUI.GUIlogic$2
+Date: 27-03-2017 Time: 09:10:07 Message [Извърши се прочитане на текстов файл C:\Users\d.balamdzhiev\Documents\Pesho Birata\Files\CostTXT.txt за посочен разход  A5] - com.readlogic.ReadFromTxtFile
+Date: 27-03-2017 Time: 09:10:09 Message [Запис на данни в текстов файл: C:\Users\d.balamdzhiev\Documents\123.txt] - com.writelogic.WriteToTXT
+Date: 27-03-2017 Time: 09:10:09 Message [От: TXT До: TXT Тип разход: A5] - com.GUI.GUIlogic$3
+Date: 27-03-2017 Time: 09:10:09 Message [========== Край =============] - com.GUI.GUIlogic$3
+Date: 27-03-2017 Time: 09:10:16 Message [Извърши се прочитане на текстов файл C:\Users\d.balamdzhiev\Documents\Pesho Birata\Files\CostTXT.txt за посочен разход  A] - com.readlogic.ReadFromTxtFile
+Date: 27-03-2017 Time: 09:10:17 Message [Запис на данни в текстов файл: C:\Users\d.balamdzhiev\Documents\123.txt] - com.writelogic.WriteToTXT
+Date: 27-03-2017 Time: 09:10:17 Message [От: TXT До: TXT Тип разход: A] - com.GUI.GUIlogic$3
+Date: 27-03-2017 Time: 09:10:17 Message [========== Край =============] - com.GUI.GUIlogic$3
+Date: 27-03-2017 Time: 09:10:47 Message [Извърши се прочитане на текстов файл C:\Users\d.balamdzhiev\Documents\Pesho Birata\Files\CostTXT.txt за посочен разход  A] - com.readlogic.ReadFromTxtFile
+Date: 27-03-2017 Time: 09:10:48 Message [Запис на данни в текстов файл: C:\Users\d.balamdzhiev\Documents\123.txt] - com.writelogic.WriteToTXT
+Date: 27-03-2017 Time: 09:10:48 Message [От: TXT До: TXT Тип разход: A] - com.GUI.GUIlogic$3
+Date: 27-03-2017 Time: 09:10:48 Message [========== Край =============] - com.GUI.GUIlogic$3
+Date: 27-03-2017 Time: 09:12:37 Message [========== Начало =============] - com.GUI.GUIlogic
+Date: 27-03-2017 Time: 09:12:58 Message [Входен файл: C:\Users\d.balamdzhiev\Documents\Pesho Birata\Files\CostTXT.txt] - com.GUI.GUIlogic$1
+Date: 27-03-2017 Time: 09:13:01 Message [Изходен файл: C:\Users\d.balamdzhiev\Documents\123.txt] - com.GUI.GUIlogic$2
+Date: 27-03-2017 Time: 09:13:02 Message [Извърши се прочитане на текстов файл C:\Users\d.balamdzhiev\Documents\Pesho Birata\Files\CostTXT.txt за посочен разход  A] - com.readlogic.ReadFromTxtFile
+Date: 27-03-2017 Time: 09:13:05 Message [Запис на данни в текстов файл: C:\Users\d.balamdzhiev\Documents\123.txt] - com.writelogic.WriteToTXT
+Date: 27-03-2017 Time: 09:13:05 Message [От: TXT До: TXT Тип разход: A] - com.GUI.GUIlogic$3
+Date: 27-03-2017 Time: 09:13:05 Message [========== Край =============] - com.GUI.GUIlogic$3
+Date: 27-03-2017 Time: 09:13:47 Message [========== Начало =============] - com.GUI.GUIlogic
+Date: 27-03-2017 Time: 09:15:23 Message [Входен файл: C:\Users\d.balamdzhiev\Documents\Pesho Birata\Files\CostTXT.txt] - com.GUI.GUIlogic$1
+Date: 27-03-2017 Time: 09:15:25 Message [Изходен файл: C:\Users\d.balamdzhiev\Documents\123.txt] - com.GUI.GUIlogic$2
+Date: 27-03-2017 Time: 09:15:29 Message [Извърши се прочитане на текстов файл C:\Users\d.balamdzhiev\Documents\Pesho Birata\Files\CostTXT.txt за посочен разход  A] - com.readlogic.ReadFromTxtFile
+Date: 27-03-2017 Time: 09:19:25 Message [========== Начало =============] - com.GUI.GUIlogic
+Date: 27-03-2017 Time: 09:19:35 Message [Входен файл: C:\Users\d.balamdzhiev\Documents\Pesho Birata\Files\CostTXT.txt] - com.GUI.GUIlogic$1
+Date: 27-03-2017 Time: 09:19:37 Message [Изходен файл: C:\Users\d.balamdzhiev\Documents\123.txt] - com.GUI.GUIlogic$2
+Date: 27-03-2017 Time: 09:19:41 Message [Извърши се прочитане на текстов файл C:\Users\d.balamdzhiev\Documents\Pesho Birata\Files\CostTXT.txt за посочен разход  A] - com.readlogic.ReadFromTxtFile
+Date: 27-03-2017 Time: 09:21:42 Message [========== Начало =============] - com.GUI.GUIlogic
+Date: 27-03-2017 Time: 09:21:58 Message [Входен файл: C:\Users\d.balamdzhiev\Documents\Pesho Birata\Files\CostTXT.txt] - com.GUI.GUIlogic$1
+Date: 27-03-2017 Time: 09:22:01 Message [Изходен файл: C:\Users\d.balamdzhiev\Documents\123.txt] - com.GUI.GUIlogic$2
+Date: 27-03-2017 Time: 09:22:05 Message [Извърши се прочитане на текстов файл C:\Users\d.balamdzhiev\Documents\Pesho Birata\Files\CostTXT.txt за посочен разход  bira] - com.readlogic.ReadFromTxtFile
+Date: 27-03-2017 Time: 09:23:31 Message [========== Начало =============] - com.GUI.GUIlogic
+Date: 27-03-2017 Time: 09:33:22 Message [Входен файл: C:\Users\d.balamdzhiev\Documents\ChartEN.pdf] - com.GUI.GUIlogic$1
+Date: 27-03-2017 Time: 09:35:55 Message [Входен файл: C:\Users\d.balamdzhiev\Documents\Pesho Birata\Files\CostXML.xml] - com.GUI.GUIlogic$1
+Date: 27-03-2017 Time: 09:36:00 Message [Изходен файл: C:\Users\d.balamdzhiev\Documents\Chart.pdf] - com.GUI.GUIlogic$2
+Date: 27-03-2017 Time: 09:36:08 Message [Записани стойности: Разход- meze Стойност: 10111] - com.writelogic.WriteToPDF
+Date: 27-03-2017 Time: 09:36:08 Message [Записани стойности: Разход- meze Стойност: 11010001] - com.writelogic.WriteToPDF
+Date: 27-03-2017 Time: 09:36:08 Message [Запис на данни в PDF файл в ДиректорияC:\Users\d.balamdzhiev\Documents\Chart.pdf] - com.writelogic.WriteToPDF
+Date: 27-03-2017 Time: 09:36:08 Message [От: JAXB До: PDF Тип разход: meze] - com.GUI.GUIlogic$3
+Date: 27-03-2017 Time: 09:36:08 Message [========== Край =============] - com.GUI.GUIlogic$3
+Date: 27-03-2017 Time: 09:37:02 Message [От: JAXB До: PDF Тип разход: meze] - com.GUI.GUIlogic$3
+Date: 27-03-2017 Time: 09:37:02 Message [========== Край =============] - com.GUI.GUIlogic$3
+Date: 27-03-2017 Time: 09:37:09 Message [Входен файл: C:\Users\d.balamdzhiev\Documents\Pesho Birata\Files\CostTXT.txt] - com.GUI.GUIlogic$1
+Date: 27-03-2017 Time: 09:37:14 Message [Входен файл: C:\Users\d.balamdzhiev\Documents\Pesho Birata\Files\CostXML.xml] - com.GUI.GUIlogic$1
+Date: 27-03-2017 Time: 09:37:18 Message [Изходен файл: C:\Users\d.balamdzhiev\Documents\Chart.pdf] - com.GUI.GUIlogic$2
+Date: 27-03-2017 Time: 09:37:21 Message [От: JAXB До: PDF Тип разход: meze] - com.GUI.GUIlogic$3
+Date: 27-03-2017 Time: 09:37:21 Message [========== Край =============] - com.GUI.GUIlogic$3
+Date: 27-03-2017 Time: 09:37:42 Message [Записани стойности: Разход- meze Стойност: 11010001] - com.writelogic.WriteToPDF
+Date: 27-03-2017 Time: 09:37:42 Message [Записани стойности: Разход- meze Стойност: 10111] - com.writelogic.WriteToPDF
+Date: 27-03-2017 Time: 09:37:42 Message [Запис на данни в PDF файл в ДиректорияC:\Users\d.balamdzhiev\Documents\Chart.pdf] - com.writelogic.WriteToPDF
+Date: 27-03-2017 Time: 09:37:42 Message [От: JAXB До: PDF Тип разход: meze] - com.GUI.GUIlogic$3
+Date: 27-03-2017 Time: 09:37:42 Message [========== Край =============] - com.GUI.GUIlogic$3
+Date: 27-03-2017 Time: 09:40:42 Message [От: JAXB До: PDF Тип разход: ] - com.GUI.GUIlogic$3
+Date: 27-03-2017 Time: 09:40:42 Message [========== Край =============] - com.GUI.GUIlogic$3
+Date: 27-03-2017 Time: 09:41:16 Message [========== Начало =============] - com.GUI.GUIlogic
+Date: 27-03-2017 Time: 09:41:21 Message [От: TXT До: TXT Тип разход: Стойност на филтриране] - com.GUI.GUIlogic$3
+Date: 27-03-2017 Time: 09:41:21 Message [========== Край =============] - com.GUI.GUIlogic$3
+Date: 27-03-2017 Time: 10:32:40 Message [========== Начало =============] - com.GUI.GUIlogic
+Date: 27-03-2017 Time: 10:35:13 Message [========== Начало =============] - com.GUI.GUIlogic
+Date: 27-03-2017 Time: 10:39:34 Message [========== Начало =============] - com.GUI.GUIlogic
+Date: 27-03-2017 Time: 10:48:23 Message [========== Начало =============] - com.GUI.GUIlogic
+Date: 27-03-2017 Time: 10:51:04 Message [========== Начало =============] - com.GUI.GUIlogic
+Date: 27-03-2017 Time: 10:56:14 Message [========== Начало =============] - com.GUI.GUIlogic
+Date: 27-03-2017 Time: 10:56:36 Message [========== Начало =============] - com.GUI.GUIlogic

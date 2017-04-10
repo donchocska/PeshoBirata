@@ -1,0 +1,7 @@
+Date: 23-03-2017 Time: 17:21:59 Message [Извърши се прочитане на текстов файл C:\Users\d.balamdzhiev\Documents\Pesho Birata\Files\CostTXT.txt за посочен разход  asdasd] - com.readlogic.ReadFromTxtFile
+Date: 24-03-2017 Time: 12:21:32 Message [Прочит на данни от база данни H2 за посочен разход ==> bira] - com.readlogic.ReadFromDB
+Date: 24-03-2017 Time: 12:21:32 Message [Прочетена стойност: 3] - com.readlogic.ReadFromDB
+Date: 24-03-2017 Time: 12:21:32 Message [Прочетена стойност: AE] - com.readlogic.ReadFromDB
+Date: 24-03-2017 Time: 12:21:32 Message [Прочетена стойност: 2] - com.readlogic.ReadFromDB
+Date: 24-03-2017 Time: 12:26:47 Message [Извърши се прочитане на текстов файл Files\CostTXT.txt за посочен разход  bira] - com.readlogic.ReadFromTxtFile
+Date: 24-03-2017 Time: 12:26:47 Message [Прочетена стойност: 165] - com.readlogic.ReadFromTxtFile

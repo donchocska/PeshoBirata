@@ -1,0 +1,423 @@
+Date: 15-03-2017 Time: 09:14:19 Message [Извърши се прочит на xml файл чрез DOM Parser.Files\CostXML.xml за посочен разход ==> meze] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 09:14:19 Message [Прочетена стойност: 209] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 09:14:19 Message [Прочетена стойност: 23] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 09:14:21 Message [Запис на данни в PDF файл в ДиректорияResultFiles\CostsPDFout.pdf] - com.writelogic.WriteToPDF
+Date: 15-03-2017 Time: 09:14:21 Message [Записани стойности: Разход- meze  Стойност: 23] - com.writelogic.WriteToPDF
+Date: 15-03-2017 Time: 09:14:21 Message [Записани стойности: Разход- meze  Стойност: 209] - com.writelogic.WriteToPDF
+Date: 15-03-2017 Time: 10:37:11 Message [Извърши се прочитане на текстов файл Files\CostTXT.txt за посочен разход  bira] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 10:37:11 Message [Прочетена стойност: 165] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 10:37:11 Message [Прочетена стойност: 10] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 10:37:11 Message [Прочетена стойност: 11] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 10:47:27 Message [Извърши се прочитане на текстов файл Files\CostTXT.txt за посочен разход  meze] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 10:47:39 Message [Извърши се прочитане на текстов файл Files\CostTXT.txt за посочен разход  bira] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 10:47:39 Message [Прочетена стойност: 165] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 10:47:39 Message [Прочетена стойност: 10] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 10:47:39 Message [Прочетена стойност: 11] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 10:48:06 Message [Извърши се прочитане на текстов файл Files\CostTXT.txt за посочен разход  salata] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 10:48:06 Message [Прочетена стойност: 186] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 10:48:17 Message [Извърши се прочитане на текстов файл Files\CostTXT.txt за посочен разход  фитнес] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 10:48:17 Message [Прочетена стойност: 13] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 10:49:27 Message [Извърши се прочитане на текстов файл Files\CostTXT.txt за посочен разход  фитнес] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 10:49:27 Message [Прочетена стойност: 13] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 10:49:34 Message [Извърши се прочитане на текстов файл Files\CostTXT.txt за посочен разход  фъстъци] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 10:49:34 Message [Прочетена стойност: 12] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 10:49:34 Message [Прочетена стойност: 5] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 10:56:04 Message [Извърши се прочит на xml файл чрез DOM Parser.Files\CostXML.xml за посочен разход ==> meze] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 10:56:04 Message [Прочетена стойност: 209] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 10:56:04 Message [Прочетена стойност: 23] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 10:57:15 Message [Извърши се прочит на xml файл чрез DOM Parser.Files\CostXML.xml за посочен разход ==> meze] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 10:57:15 Message [Прочетена стойност: 209] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 10:57:15 Message [Прочетена стойност: 23] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 10:57:39 Message [Извърши се прочитане на текстов файл Files\CostTXT.txt за посочен разход  bira] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 10:57:39 Message [Прочетена стойност: 165] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 10:57:39 Message [Прочетена стойност: 10] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 10:57:39 Message [Прочетена стойност: 11] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 10:57:44 Message [Извърши се прочит на xml файл чрез DOM Parser.Files\CostXML.xml за посочен разход ==> bira] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 10:57:44 Message [Прочетена стойност: 170] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 10:57:44 Message [Прочетена стойност: 172] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 10:57:44 Message [Прочетена стойност: 5] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 10:59:22 Message [Извърши се прочит на xml файл чрез DOM Parser.Files\CostXML.xml за посочен разход ==> meze] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 10:59:22 Message [Прочетена стойност: 209] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 10:59:22 Message [Прочетена стойност: 23] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 10:59:30 Message [Извърши се прочитане на текстов файл Files\CostTXT.txt за посочен разход  фитнес] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 10:59:30 Message [Прочетена стойност: 13] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 11:11:06 Message [Извърши се прочит на xml файл чрез DOM Parser.Files\CostXML.xml за посочен разход ==> meze] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:11:06 Message [Прочетена стойност: 209] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:11:06 Message [Прочетена стойност: 23] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:11:38 Message [Извърши се прочит на xml файл чрез DOM Parser.Files\CostXML.xml за посочен разход ==> meze] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:11:38 Message [Прочетена стойност: 209] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:11:38 Message [Прочетена стойност: 23] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:18:59 Message [Извърши се прочит на xml файл чрез DOM Parser.Files\CostXML.xml за посочен разход ==> meze] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:18:59 Message [Прочетена стойност: 209] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:18:59 Message [Прочетена стойност: 23] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:19:03 Message [Извърши се прочит на xml файл чрез DOM Parser.Files\CostXML.xml за посочен разход ==> meze] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:19:03 Message [Прочетена стойност: 209] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:19:03 Message [Прочетена стойност: 23] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:28:35 Message [Прочит на xml файл чрез SAX ParserFiles\CostXML.xml за посочен разход ==> meze] - com.readlogic.ReadXMLwithSAX
+Date: 15-03-2017 Time: 11:28:35 Message [Прочетени стойности: 209] - com.readlogic.ReadXMLwithSAXhandler
+Date: 15-03-2017 Time: 11:28:35 Message [Прочетени стойности: 23] - com.readlogic.ReadXMLwithSAXhandler
+Date: 15-03-2017 Time: 11:28:54 Message [Извърши се прочит на xml файл чрез DOM Parser.Files\CostXML.xml за посочен разход ==> meze] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:28:54 Message [Прочетена стойност: 209] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:28:54 Message [Прочетена стойност: 23] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:28:58 Message [Прочит на xml файл чрез SAX ParserFiles\CostXML.xml за посочен разход ==> meze] - com.readlogic.ReadXMLwithSAX
+Date: 15-03-2017 Time: 11:28:58 Message [Прочетени стойности: 209] - com.readlogic.ReadXMLwithSAXhandler
+Date: 15-03-2017 Time: 11:28:58 Message [Прочетени стойности: 23] - com.readlogic.ReadXMLwithSAXhandler
+Date: 15-03-2017 Time: 11:30:45 Message [Извърши се прочит на xml файл чрез DOM Parser.Files\CostXML.xml за посочен разход ==> meze] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:30:45 Message [Прочетена стойност: 209] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:30:45 Message [Прочетена стойност: 23] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:30:48 Message [Прочит на xml файл чрез SAX ParserFiles\CostXML.xml за посочен разход ==> meze] - com.readlogic.ReadXMLwithSAX
+Date: 15-03-2017 Time: 11:30:48 Message [Прочетени стойности: 209] - com.readlogic.ReadXMLwithSAXhandler
+Date: 15-03-2017 Time: 11:30:48 Message [Прочетени стойности: 23] - com.readlogic.ReadXMLwithSAXhandler
+Date: 15-03-2017 Time: 11:31:27 Message [Извърши се прочит на xml файл чрез DOM Parser.Files\CostXML.xml за посочен разход ==> meze] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:31:27 Message [Прочетена стойност: 209] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:31:27 Message [Прочетена стойност: 23] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:31:30 Message [Прочит на xml файл чрез SAX ParserFiles\CostXML.xml за посочен разход ==> meze] - com.readlogic.ReadXMLwithSAX
+Date: 15-03-2017 Time: 11:31:30 Message [Прочетени стойности: 209] - com.readlogic.ReadXMLwithSAXhandler
+Date: 15-03-2017 Time: 11:31:30 Message [Прочетени стойности: 23] - com.readlogic.ReadXMLwithSAXhandler
+Date: 15-03-2017 Time: 11:31:58 Message [Извърши се прочит на xml файл чрез DOM Parser.Files\CostXML.xml за посочен разход ==> meze] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:31:58 Message [Прочетена стойност: 209] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:31:58 Message [Прочетена стойност: 23] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:32:01 Message [Прочит на xml файл чрез SAX ParserFiles\CostXML.xml за посочен разход ==> meze] - com.readlogic.ReadXMLwithSAX
+Date: 15-03-2017 Time: 11:32:01 Message [Прочетени стойности: 209] - com.readlogic.ReadXMLwithSAXhandler
+Date: 15-03-2017 Time: 11:32:01 Message [Прочетени стойности: 23] - com.readlogic.ReadXMLwithSAXhandler
+Date: 15-03-2017 Time: 11:32:31 Message [Извърши се прочитане на текстов файл Files\CostTXT.txt за посочен разход  bira] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 11:32:31 Message [Прочетена стойност: 165] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 11:32:31 Message [Прочетена стойност: 10] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 11:32:31 Message [Прочетена стойност: 11] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 11:32:43 Message [Извърши се прочитане на текстов файл Files\CostTXT.txt за посочен разход  fitnes] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 11:32:48 Message [Извърши се прочитане на текстов файл Files\CostTXT.txt за посочен разход  фитнес] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 11:32:48 Message [Прочетена стойност: 13] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 11:32:52 Message [Извърши се прочитане на текстов файл Files\CostTXT.txt за посочен разход  фъстъци] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 11:32:52 Message [Прочетена стойност: 12] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 11:32:52 Message [Прочетена стойност: 5] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 11:33:01 Message [Извърши се прочитане на текстов файл Files\CostTXT.txt за посочен разход  bira] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 11:33:01 Message [Прочетена стойност: 165] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 11:33:01 Message [Прочетена стойност: 10] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 11:33:01 Message [Прочетена стойност: 11] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 11:33:03 Message [Извърши се прочитане на текстов файл Files\CostTXT.txt за посочен разход  bira] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 11:33:03 Message [Прочетена стойност: 165] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 11:33:03 Message [Прочетена стойност: 10] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 11:33:03 Message [Прочетена стойност: 11] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 11:33:04 Message [Извърши се прочитане на текстов файл Files\CostTXT.txt за посочен разход  bira] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 11:33:04 Message [Прочетена стойност: 165] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 11:33:04 Message [Прочетена стойност: 10] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 11:33:04 Message [Прочетена стойност: 11] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 11:33:04 Message [Извърши се прочитане на текстов файл Files\CostTXT.txt за посочен разход  bira] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 11:33:04 Message [Прочетена стойност: 165] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 11:33:04 Message [Прочетена стойност: 10] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 11:33:04 Message [Прочетена стойност: 11] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 11:33:05 Message [Извърши се прочитане на текстов файл Files\CostTXT.txt за посочен разход  bira] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 11:33:05 Message [Прочетена стойност: 165] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 11:33:05 Message [Прочетена стойност: 10] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 11:33:05 Message [Прочетена стойност: 11] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 11:33:05 Message [Извърши се прочитане на текстов файл Files\CostTXT.txt за посочен разход  bira] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 11:33:05 Message [Прочетена стойност: 165] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 11:33:05 Message [Прочетена стойност: 10] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 11:33:05 Message [Прочетена стойност: 11] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 11:33:06 Message [Извърши се прочитане на текстов файл Files\CostTXT.txt за посочен разход  bira] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 11:33:06 Message [Прочетена стойност: 165] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 11:33:06 Message [Прочетена стойност: 10] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 11:33:06 Message [Прочетена стойност: 11] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 11:33:06 Message [Извърши се прочитане на текстов файл Files\CostTXT.txt за посочен разход  bira] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 11:33:06 Message [Прочетена стойност: 165] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 11:33:06 Message [Прочетена стойност: 10] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 11:33:06 Message [Прочетена стойност: 11] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 11:33:10 Message [Извърши се прочит на xml файл чрез DOM Parser.Files\CostXML.xml за посочен разход ==> bira] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:33:10 Message [Прочетена стойност: 170] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:33:10 Message [Прочетена стойност: 172] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:33:10 Message [Прочетена стойност: 5] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:33:16 Message [Прочит на xml файл чрез SAX ParserFiles\CostXML.xml за посочен разход ==> bira] - com.readlogic.ReadXMLwithSAX
+Date: 15-03-2017 Time: 11:33:16 Message [Прочетени стойности: 170] - com.readlogic.ReadXMLwithSAXhandler
+Date: 15-03-2017 Time: 11:33:16 Message [Прочетени стойности: 172] - com.readlogic.ReadXMLwithSAXhandler
+Date: 15-03-2017 Time: 11:33:16 Message [Прочетени стойности: 5] - com.readlogic.ReadXMLwithSAXhandler
+Date: 15-03-2017 Time: 11:38:10 Message [Извърши се прочитане на текстов файл Files\CostTXT.txt за посочен разход  bira] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 11:38:10 Message [Прочетена стойност: 165] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 11:38:10 Message [Прочетена стойност: 10] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 11:38:10 Message [Прочетена стойност: 11] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 11:38:57 Message [Извърши се прочитане на текстов файл Files\CostTXT.txt за посочен разход  bira] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 11:38:57 Message [Прочетена стойност: 165] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 11:38:57 Message [Прочетена стойност: 10] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 11:38:57 Message [Прочетена стойност: 11] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 11:39:04 Message [Прочит на xml файл чрез SAX ParserFiles\CostXML.xml за посочен разход ==> bira] - com.readlogic.ReadXMLwithSAX
+Date: 15-03-2017 Time: 11:39:04 Message [Прочетени стойности: 170] - com.readlogic.ReadXMLwithSAXhandler
+Date: 15-03-2017 Time: 11:39:04 Message [Прочетени стойности: 172] - com.readlogic.ReadXMLwithSAXhandler
+Date: 15-03-2017 Time: 11:39:04 Message [Прочетени стойности: 5] - com.readlogic.ReadXMLwithSAXhandler
+Date: 15-03-2017 Time: 11:39:55 Message [Прочит на xml файл чрез SAX ParserFiles\CostXML.xml за посочен разход ==> meze] - com.readlogic.ReadXMLwithSAX
+Date: 15-03-2017 Time: 11:39:55 Message [Прочетени стойности: 209] - com.readlogic.ReadXMLwithSAXhandler
+Date: 15-03-2017 Time: 11:39:55 Message [Прочетени стойности: 23] - com.readlogic.ReadXMLwithSAXhandler
+Date: 15-03-2017 Time: 11:42:26 Message [Извърши се прочит на xml файл чрез DOM Parser.Files\CostXML.xml за посочен разход ==> meze] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:42:26 Message [Прочетена стойност: 209] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:42:26 Message [Прочетена стойност: 23] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:42:27 Message [Извърши се прочит на xml файл чрез DOM Parser.Files\CostXML.xml за посочен разход ==> meze] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:42:27 Message [Прочетена стойност: 209] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:42:27 Message [Прочетена стойност: 23] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:42:28 Message [Извърши се прочит на xml файл чрез DOM Parser.Files\CostXML.xml за посочен разход ==> meze] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:42:28 Message [Прочетена стойност: 209] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:42:28 Message [Прочетена стойност: 23] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:42:29 Message [Извърши се прочит на xml файл чрез DOM Parser.Files\CostXML.xml за посочен разход ==> meze] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:42:29 Message [Прочетена стойност: 209] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:42:29 Message [Прочетена стойност: 23] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:42:29 Message [Извърши се прочит на xml файл чрез DOM Parser.Files\CostXML.xml за посочен разход ==> meze] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:42:29 Message [Прочетена стойност: 209] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:42:29 Message [Прочетена стойност: 23] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:42:29 Message [Извърши се прочит на xml файл чрез DOM Parser.Files\CostXML.xml за посочен разход ==> meze] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:42:29 Message [Прочетена стойност: 209] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:42:29 Message [Прочетена стойност: 23] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:42:29 Message [Извърши се прочит на xml файл чрез DOM Parser.Files\CostXML.xml за посочен разход ==> meze] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:42:29 Message [Прочетена стойност: 209] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:42:29 Message [Прочетена стойност: 23] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:42:30 Message [Извърши се прочит на xml файл чрез DOM Parser.Files\CostXML.xml за посочен разход ==> meze] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:42:30 Message [Прочетена стойност: 209] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:42:30 Message [Прочетена стойност: 23] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:42:30 Message [Извърши се прочит на xml файл чрез DOM Parser.Files\CostXML.xml за посочен разход ==> meze] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:42:30 Message [Прочетена стойност: 209] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:42:30 Message [Прочетена стойност: 23] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:42:37 Message [Извърши се прочит на xml файл чрез DOM Parser.Files\CostXML.xml за посочен разход ==> meze] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:42:37 Message [Прочетена стойност: 209] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:42:37 Message [Прочетена стойност: 23] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:42:37 Message [Извърши се прочит на xml файл чрез DOM Parser.Files\CostXML.xml за посочен разход ==> meze] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:42:37 Message [Прочетена стойност: 209] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:42:37 Message [Прочетена стойност: 23] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:42:38 Message [Извърши се прочит на xml файл чрез DOM Parser.Files\CostXML.xml за посочен разход ==> meze] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:42:38 Message [Прочетена стойност: 209] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:42:38 Message [Прочетена стойност: 23] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:42:38 Message [Извърши се прочит на xml файл чрез DOM Parser.Files\CostXML.xml за посочен разход ==> meze] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:42:38 Message [Прочетена стойност: 209] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:42:38 Message [Прочетена стойност: 23] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:42:38 Message [Извърши се прочит на xml файл чрез DOM Parser.Files\CostXML.xml за посочен разход ==> meze] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:42:38 Message [Прочетена стойност: 209] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:42:38 Message [Прочетена стойност: 23] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:42:44 Message [Прочит на xml файл чрез SAX ParserFiles\CostXML.xml за посочен разход ==> meze] - com.readlogic.ReadXMLwithSAX
+Date: 15-03-2017 Time: 11:42:44 Message [Прочетени стойности: 209] - com.readlogic.ReadXMLwithSAXhandler
+Date: 15-03-2017 Time: 11:42:44 Message [Прочетени стойности: 23] - com.readlogic.ReadXMLwithSAXhandler
+Date: 15-03-2017 Time: 11:44:03 Message [Извърши се прочит на xml файл чрез DOM Parser.Files\CostXML.xml за посочен разход ==> meze] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:44:03 Message [Прочетена стойност: 209] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:44:03 Message [Прочетена стойност: 23] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:44:03 Message [Извърши се прочит на xml файл чрез DOM Parser.Files\CostXML.xml за посочен разход ==> meze] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:44:03 Message [Прочетена стойност: 209] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:44:03 Message [Прочетена стойност: 23] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:44:03 Message [Извърши се прочит на xml файл чрез DOM Parser.Files\CostXML.xml за посочен разход ==> meze] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:44:03 Message [Прочетена стойност: 209] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:44:03 Message [Прочетена стойност: 23] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:44:04 Message [Извърши се прочит на xml файл чрез DOM Parser.Files\CostXML.xml за посочен разход ==> meze] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:44:04 Message [Прочетена стойност: 209] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:44:04 Message [Прочетена стойност: 23] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:44:04 Message [Извърши се прочит на xml файл чрез DOM Parser.Files\CostXML.xml за посочен разход ==> meze] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:44:04 Message [Прочетена стойност: 209] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:44:04 Message [Прочетена стойност: 23] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:44:05 Message [Извърши се прочит на xml файл чрез DOM Parser.Files\CostXML.xml за посочен разход ==> meze] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:44:05 Message [Прочетена стойност: 209] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:44:05 Message [Прочетена стойност: 23] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:44:07 Message [Извърши се прочит на xml файл чрез StAX Parser.Files\CostXML.xml за посочен разход ==> meze] - com.readlogic.ReadXMLwithStAX
+Date: 15-03-2017 Time: 11:44:07 Message [Прочетена стойност: 209] - com.readlogic.ReadXMLwithStAX
+Date: 15-03-2017 Time: 11:44:07 Message [Прочетена стойност: 23] - com.readlogic.ReadXMLwithStAX
+Date: 15-03-2017 Time: 11:44:08 Message [Извърши се прочит на xml файл чрез StAX Parser.Files\CostXML.xml за посочен разход ==> meze] - com.readlogic.ReadXMLwithStAX
+Date: 15-03-2017 Time: 11:44:08 Message [Прочетена стойност: 209] - com.readlogic.ReadXMLwithStAX
+Date: 15-03-2017 Time: 11:44:08 Message [Прочетена стойност: 23] - com.readlogic.ReadXMLwithStAX
+Date: 15-03-2017 Time: 11:44:09 Message [Извърши се прочит на xml файл чрез StAX Parser.Files\CostXML.xml за посочен разход ==> meze] - com.readlogic.ReadXMLwithStAX
+Date: 15-03-2017 Time: 11:44:09 Message [Прочетена стойност: 209] - com.readlogic.ReadXMLwithStAX
+Date: 15-03-2017 Time: 11:44:09 Message [Прочетена стойност: 23] - com.readlogic.ReadXMLwithStAX
+Date: 15-03-2017 Time: 11:44:09 Message [Извърши се прочит на xml файл чрез StAX Parser.Files\CostXML.xml за посочен разход ==> meze] - com.readlogic.ReadXMLwithStAX
+Date: 15-03-2017 Time: 11:44:09 Message [Прочетена стойност: 209] - com.readlogic.ReadXMLwithStAX
+Date: 15-03-2017 Time: 11:44:09 Message [Прочетена стойност: 23] - com.readlogic.ReadXMLwithStAX
+Date: 15-03-2017 Time: 11:44:09 Message [Извърши се прочит на xml файл чрез StAX Parser.Files\CostXML.xml за посочен разход ==> meze] - com.readlogic.ReadXMLwithStAX
+Date: 15-03-2017 Time: 11:44:09 Message [Прочетена стойност: 209] - com.readlogic.ReadXMLwithStAX
+Date: 15-03-2017 Time: 11:44:09 Message [Прочетена стойност: 23] - com.readlogic.ReadXMLwithStAX
+Date: 15-03-2017 Time: 11:44:10 Message [Извърши се прочит на xml файл чрез StAX Parser.Files\CostXML.xml за посочен разход ==> meze] - com.readlogic.ReadXMLwithStAX
+Date: 15-03-2017 Time: 11:44:10 Message [Прочетена стойност: 209] - com.readlogic.ReadXMLwithStAX
+Date: 15-03-2017 Time: 11:44:10 Message [Прочетена стойност: 23] - com.readlogic.ReadXMLwithStAX
+Date: 15-03-2017 Time: 11:44:10 Message [Извърши се прочит на xml файл чрез StAX Parser.Files\CostXML.xml за посочен разход ==> meze] - com.readlogic.ReadXMLwithStAX
+Date: 15-03-2017 Time: 11:44:10 Message [Прочетена стойност: 209] - com.readlogic.ReadXMLwithStAX
+Date: 15-03-2017 Time: 11:44:10 Message [Прочетена стойност: 23] - com.readlogic.ReadXMLwithStAX
+Date: 15-03-2017 Time: 11:44:12 Message [Прочит на xml файл чрез SAX ParserFiles\CostXML.xml за посочен разход ==> meze] - com.readlogic.ReadXMLwithSAX
+Date: 15-03-2017 Time: 11:44:12 Message [Прочетени стойности: 209] - com.readlogic.ReadXMLwithSAXhandler
+Date: 15-03-2017 Time: 11:44:12 Message [Прочетени стойности: 23] - com.readlogic.ReadXMLwithSAXhandler
+Date: 15-03-2017 Time: 11:45:34 Message [Извърши се прочит на xml файл чрез DOM Parser.Files\CostXML.xml за посочен разход ==> meze] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:45:34 Message [Прочетена стойност: 209] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:45:34 Message [Прочетена стойност: 23] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:45:34 Message [Извърши се прочит на xml файл чрез DOM Parser.Files\CostXML.xml за посочен разход ==> meze] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:45:34 Message [Прочетена стойност: 209] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:45:34 Message [Прочетена стойност: 23] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:45:35 Message [Извърши се прочит на xml файл чрез DOM Parser.Files\CostXML.xml за посочен разход ==> meze] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:45:35 Message [Прочетена стойност: 209] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:45:35 Message [Прочетена стойност: 23] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:45:35 Message [Извърши се прочит на xml файл чрез DOM Parser.Files\CostXML.xml за посочен разход ==> meze] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:45:35 Message [Прочетена стойност: 209] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:45:35 Message [Прочетена стойност: 23] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:45:35 Message [Извърши се прочит на xml файл чрез DOM Parser.Files\CostXML.xml за посочен разход ==> meze] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:45:35 Message [Прочетена стойност: 209] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:45:35 Message [Прочетена стойност: 23] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:45:35 Message [Извърши се прочит на xml файл чрез DOM Parser.Files\CostXML.xml за посочен разход ==> meze] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:45:35 Message [Прочетена стойност: 209] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:45:35 Message [Прочетена стойност: 23] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:45:37 Message [Прочит на xml файл чрез SAX ParserFiles\CostXML.xml за посочен разход ==> meze] - com.readlogic.ReadXMLwithSAX
+Date: 15-03-2017 Time: 11:45:37 Message [Прочетени стойности: 209] - com.readlogic.ReadXMLwithSAXhandler
+Date: 15-03-2017 Time: 11:45:37 Message [Прочетени стойности: 23] - com.readlogic.ReadXMLwithSAXhandler
+Date: 15-03-2017 Time: 11:45:37 Message [Прочит на xml файл чрез SAX ParserFiles\CostXML.xml за посочен разход ==> meze] - com.readlogic.ReadXMLwithSAX
+Date: 15-03-2017 Time: 11:45:37 Message [Прочетени стойности: 209] - com.readlogic.ReadXMLwithSAXhandler
+Date: 15-03-2017 Time: 11:45:37 Message [Прочетени стойности: 23] - com.readlogic.ReadXMLwithSAXhandler
+Date: 15-03-2017 Time: 11:45:38 Message [Прочит на xml файл чрез SAX ParserFiles\CostXML.xml за посочен разход ==> meze] - com.readlogic.ReadXMLwithSAX
+Date: 15-03-2017 Time: 11:45:38 Message [Прочетени стойности: 209] - com.readlogic.ReadXMLwithSAXhandler
+Date: 15-03-2017 Time: 11:45:38 Message [Прочетени стойности: 23] - com.readlogic.ReadXMLwithSAXhandler
+Date: 15-03-2017 Time: 11:45:38 Message [Прочит на xml файл чрез SAX ParserFiles\CostXML.xml за посочен разход ==> meze] - com.readlogic.ReadXMLwithSAX
+Date: 15-03-2017 Time: 11:45:38 Message [Прочетени стойности: 209] - com.readlogic.ReadXMLwithSAXhandler
+Date: 15-03-2017 Time: 11:45:38 Message [Прочетени стойности: 23] - com.readlogic.ReadXMLwithSAXhandler
+Date: 15-03-2017 Time: 11:45:38 Message [Прочит на xml файл чрез SAX ParserFiles\CostXML.xml за посочен разход ==> meze] - com.readlogic.ReadXMLwithSAX
+Date: 15-03-2017 Time: 11:45:38 Message [Прочетени стойности: 209] - com.readlogic.ReadXMLwithSAXhandler
+Date: 15-03-2017 Time: 11:45:38 Message [Прочетени стойности: 23] - com.readlogic.ReadXMLwithSAXhandler
+Date: 15-03-2017 Time: 11:45:39 Message [Прочит на xml файл чрез SAX ParserFiles\CostXML.xml за посочен разход ==> meze] - com.readlogic.ReadXMLwithSAX
+Date: 15-03-2017 Time: 11:45:39 Message [Прочетени стойности: 209] - com.readlogic.ReadXMLwithSAXhandler
+Date: 15-03-2017 Time: 11:45:39 Message [Прочетени стойности: 23] - com.readlogic.ReadXMLwithSAXhandler
+Date: 15-03-2017 Time: 11:45:43 Message [Извърши се прочит на xml файл чрез StAX Parser.Files\CostXML.xml за посочен разход ==> bira] - com.readlogic.ReadXMLwithStAX
+Date: 15-03-2017 Time: 11:45:43 Message [Прочетена стойност: 170] - com.readlogic.ReadXMLwithStAX
+Date: 15-03-2017 Time: 11:45:43 Message [Прочетена стойност: 172] - com.readlogic.ReadXMLwithStAX
+Date: 15-03-2017 Time: 11:45:43 Message [Прочетена стойност: 5] - com.readlogic.ReadXMLwithStAX
+Date: 15-03-2017 Time: 11:45:43 Message [Извърши се прочит на xml файл чрез StAX Parser.Files\CostXML.xml за посочен разход ==> bira] - com.readlogic.ReadXMLwithStAX
+Date: 15-03-2017 Time: 11:45:43 Message [Прочетена стойност: 170] - com.readlogic.ReadXMLwithStAX
+Date: 15-03-2017 Time: 11:45:44 Message [Прочетена стойност: 172] - com.readlogic.ReadXMLwithStAX
+Date: 15-03-2017 Time: 11:45:44 Message [Прочетена стойност: 5] - com.readlogic.ReadXMLwithStAX
+Date: 15-03-2017 Time: 11:45:44 Message [Извърши се прочит на xml файл чрез StAX Parser.Files\CostXML.xml за посочен разход ==> bira] - com.readlogic.ReadXMLwithStAX
+Date: 15-03-2017 Time: 11:45:44 Message [Прочетена стойност: 170] - com.readlogic.ReadXMLwithStAX
+Date: 15-03-2017 Time: 11:45:44 Message [Прочетена стойност: 172] - com.readlogic.ReadXMLwithStAX
+Date: 15-03-2017 Time: 11:45:44 Message [Прочетена стойност: 5] - com.readlogic.ReadXMLwithStAX
+Date: 15-03-2017 Time: 11:45:45 Message [Извърши се прочит на xml файл чрез StAX Parser.Files\CostXML.xml за посочен разход ==> bira] - com.readlogic.ReadXMLwithStAX
+Date: 15-03-2017 Time: 11:45:45 Message [Прочетена стойност: 170] - com.readlogic.ReadXMLwithStAX
+Date: 15-03-2017 Time: 11:45:45 Message [Прочетена стойност: 172] - com.readlogic.ReadXMLwithStAX
+Date: 15-03-2017 Time: 11:45:45 Message [Прочетена стойност: 5] - com.readlogic.ReadXMLwithStAX
+Date: 15-03-2017 Time: 11:45:47 Message [Прочит на xml файл чрез SAX ParserFiles\CostXML.xml за посочен разход ==> bira] - com.readlogic.ReadXMLwithSAX
+Date: 15-03-2017 Time: 11:45:47 Message [Прочетени стойности: 170] - com.readlogic.ReadXMLwithSAXhandler
+Date: 15-03-2017 Time: 11:45:47 Message [Прочетени стойности: 172] - com.readlogic.ReadXMLwithSAXhandler
+Date: 15-03-2017 Time: 11:45:47 Message [Прочетени стойности: 5] - com.readlogic.ReadXMLwithSAXhandler
+Date: 15-03-2017 Time: 11:45:48 Message [Прочит на xml файл чрез SAX ParserFiles\CostXML.xml за посочен разход ==> bira] - com.readlogic.ReadXMLwithSAX
+Date: 15-03-2017 Time: 11:45:48 Message [Прочетени стойности: 170] - com.readlogic.ReadXMLwithSAXhandler
+Date: 15-03-2017 Time: 11:45:48 Message [Прочетени стойности: 172] - com.readlogic.ReadXMLwithSAXhandler
+Date: 15-03-2017 Time: 11:45:48 Message [Прочетени стойности: 5] - com.readlogic.ReadXMLwithSAXhandler
+Date: 15-03-2017 Time: 11:45:48 Message [Прочит на xml файл чрез SAX ParserFiles\CostXML.xml за посочен разход ==> bira] - com.readlogic.ReadXMLwithSAX
+Date: 15-03-2017 Time: 11:45:48 Message [Прочетени стойности: 170] - com.readlogic.ReadXMLwithSAXhandler
+Date: 15-03-2017 Time: 11:45:48 Message [Прочетени стойности: 172] - com.readlogic.ReadXMLwithSAXhandler
+Date: 15-03-2017 Time: 11:45:48 Message [Прочетени стойности: 5] - com.readlogic.ReadXMLwithSAXhandler
+Date: 15-03-2017 Time: 11:45:55 Message [Прочит на данни от база данни H2 за посочен разход ==> bira] - com.readlogic.ReadFromDB
+Date: 15-03-2017 Time: 11:45:55 Message [Прочетена стойност: 336] - com.readlogic.ReadFromDB
+Date: 15-03-2017 Time: 11:45:55 Message [Прочетена стойност: 10] - com.readlogic.ReadFromDB
+Date: 15-03-2017 Time: 11:46:12 Message [Прочит на данни от база данни H2 за посочен разход ==> meze] - com.readlogic.ReadFromDB
+Date: 15-03-2017 Time: 11:46:12 Message [Прочетена стойност: 170] - com.readlogic.ReadFromDB
+Date: 15-03-2017 Time: 11:46:12 Message [Прочетена стойност: 12] - com.readlogic.ReadFromDB
+Date: 15-03-2017 Time: 11:46:12 Message [Прочетена стойност: 16] - com.readlogic.ReadFromDB
+Date: 15-03-2017 Time: 11:46:20 Message [Прочит на данни от база данни H2 за посочен разход ==> вино] - com.readlogic.ReadFromDB
+Date: 15-03-2017 Time: 11:46:20 Message [Прочетена стойност: 10] - com.readlogic.ReadFromDB
+Date: 15-03-2017 Time: 11:47:36 Message [Извърши се прочит на xml файл чрез DOM Parser.Files\CostXML.xml за посочен разход ==> meze] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:47:36 Message [Прочетена стойност: 209] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:47:36 Message [Прочетена стойност: 23] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:47:38 Message [Прочит на xml файл чрез SAX ParserFiles\CostXML.xml за посочен разход ==> meze] - com.readlogic.ReadXMLwithSAX
+Date: 15-03-2017 Time: 11:47:38 Message [Прочетени стойности: 209] - com.readlogic.ReadXMLwithSAXhandler
+Date: 15-03-2017 Time: 11:47:38 Message [Прочетени стойности: 23] - com.readlogic.ReadXMLwithSAXhandler
+Date: 15-03-2017 Time: 11:47:43 Message [Извърши се прочит на xml файл чрез StAX Parser.Files\CostXML.xml за посочен разход ==> meze] - com.readlogic.ReadXMLwithStAX
+Date: 15-03-2017 Time: 11:47:43 Message [Прочетена стойност: 209] - com.readlogic.ReadXMLwithStAX
+Date: 15-03-2017 Time: 11:47:43 Message [Прочетена стойност: 23] - com.readlogic.ReadXMLwithStAX
+Date: 15-03-2017 Time: 11:48:00 Message [Прочит на данни от база данни H2 за посочен разход ==> вино] - com.readlogic.ReadFromDB
+Date: 15-03-2017 Time: 11:48:00 Message [Прочетена стойност: 10] - com.readlogic.ReadFromDB
+Date: 15-03-2017 Time: 11:49:08 Message [Извърши се прочит на xml файл чрез DOM Parser.Files\CostXML.xml за посочен разход ==> meze] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:49:08 Message [Прочетена стойност: 209] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:49:08 Message [Прочетена стойност: 23] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:49:12 Message [Извърши се прочит на xml файл чрез StAX Parser.Files\CostXML.xml за посочен разход ==> meze] - com.readlogic.ReadXMLwithStAX
+Date: 15-03-2017 Time: 11:49:12 Message [Прочетена стойност: 209] - com.readlogic.ReadXMLwithStAX
+Date: 15-03-2017 Time: 11:49:12 Message [Прочетена стойност: 23] - com.readlogic.ReadXMLwithStAX
+Date: 15-03-2017 Time: 11:49:14 Message [Прочит на xml файл чрез SAX ParserFiles\CostXML.xml за посочен разход ==> meze] - com.readlogic.ReadXMLwithSAX
+Date: 15-03-2017 Time: 11:49:15 Message [Прочетени стойности: 209] - com.readlogic.ReadXMLwithSAXhandler
+Date: 15-03-2017 Time: 11:49:15 Message [Прочетени стойности: 23] - com.readlogic.ReadXMLwithSAXhandler
+Date: 15-03-2017 Time: 11:49:40 Message [Извърши се прочит на xml файл чрез DOM Parser.Files\CostXML.xml за посочен разход ==> meze] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:49:40 Message [Прочетена стойност: 209] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:49:40 Message [Прочетена стойност: 23] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:49:41 Message [Извърши се прочит на xml файл чрез DOM Parser.Files\CostXML.xml за посочен разход ==> meze] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:49:41 Message [Прочетена стойност: 209] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:49:41 Message [Прочетена стойност: 23] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:49:41 Message [Извърши се прочит на xml файл чрез DOM Parser.Files\CostXML.xml за посочен разход ==> meze] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:49:41 Message [Прочетена стойност: 209] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:49:41 Message [Прочетена стойност: 23] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:49:50 Message [Извърши се прочит на xml файл чрез DOM Parser.Files\CostXML.xml за посочен разход ==> фъстъци] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:50:06 Message [Извърши се прочит на xml файл чрез DOM Parser.Files\CostXML.xml за посочен разход ==> fitnes] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:50:06 Message [Прочетена стойност: 29] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:50:11 Message [Извърши се прочит на xml файл чрез DOM Parser.Files\CostXML.xml за посочен разход ==> fitnes] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:50:11 Message [Прочетена стойност: 29] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:50:11 Message [Извърши се прочит на xml файл чрез DOM Parser.Files\CostXML.xml за посочен разход ==> fitnes] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:50:11 Message [Прочетена стойност: 29] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:50:11 Message [Извърши се прочит на xml файл чрез DOM Parser.Files\CostXML.xml за посочен разход ==> fitnes] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 11:50:11 Message [Прочетена стойност: 29] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 12:55:45 Message [Прочит на xml файл чрез SAX ParserFiles\CostXML.xml за посочен разход ==> bira] - com.readlogic.ReadXMLwithSAX
+Date: 15-03-2017 Time: 12:55:45 Message [Прочетени стойности: 170] - com.readlogic.ReadXMLwithSAXhandler
+Date: 15-03-2017 Time: 12:55:45 Message [Прочетени стойности: 172] - com.readlogic.ReadXMLwithSAXhandler
+Date: 15-03-2017 Time: 12:55:45 Message [Прочетени стойности: 5] - com.readlogic.ReadXMLwithSAXhandler
+Date: 15-03-2017 Time: 12:55:52 Message [Прочит на xml файл чрез SAX ParserFiles\CostXML.xml за посочен разход ==> meze] - com.readlogic.ReadXMLwithSAX
+Date: 15-03-2017 Time: 12:55:52 Message [Прочетени стойности: 209] - com.readlogic.ReadXMLwithSAXhandler
+Date: 15-03-2017 Time: 12:55:52 Message [Прочетени стойности: 23] - com.readlogic.ReadXMLwithSAXhandler
+Date: 15-03-2017 Time: 12:55:54 Message [Извърши се прочит на xml файл чрез DOM Parser.Files\CostXML.xml за посочен разход ==> meze] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 12:55:54 Message [Прочетена стойност: 209] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 12:55:54 Message [Прочетена стойност: 23] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 12:55:57 Message [Извърши се прочитане на текстов файл Files\CostTXT.txt за посочен разход  meze] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 12:56:07 Message [Извърши се прочит на xml файл чрез StAX Parser.Files\CostXML.xml за посочен разход ==> meze] - com.readlogic.ReadXMLwithStAX
+Date: 15-03-2017 Time: 12:56:07 Message [Прочетена стойност: 209] - com.readlogic.ReadXMLwithStAX
+Date: 15-03-2017 Time: 12:56:07 Message [Прочетена стойност: 23] - com.readlogic.ReadXMLwithStAX
+Date: 15-03-2017 Time: 12:56:28 Message [Извърши се прочит на xml файл чрез StAX Parser.Files\CostXML.xml за посочен разход ==> meze] - com.readlogic.ReadXMLwithStAX
+Date: 15-03-2017 Time: 12:56:28 Message [Прочетена стойност: 209] - com.readlogic.ReadXMLwithStAX
+Date: 15-03-2017 Time: 12:56:28 Message [Прочетена стойност: 23] - com.readlogic.ReadXMLwithStAX
+Date: 15-03-2017 Time: 13:10:09 Message [Извърши се прочитане на текстов файл  за посочен разход  asd] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 13:11:16 Message [Извърши се прочитане на текстов файл Files\CostTXT.txt за посочен разход  bira] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 13:11:16 Message [Прочетена стойност: 165] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 13:11:16 Message [Прочетена стойност: 10] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 13:11:16 Message [Прочетена стойност: 11] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 13:11:23 Message [Запис на данни в текстов файл: ResultFiles\CostTXTout.txt] - com.writelogic.WriteToTXT
+Date: 15-03-2017 Time: 13:11:23 Message [Записана стойност: ResultFiles\CostTXTout.txt] - com.writelogic.WriteToTXT
+Date: 15-03-2017 Time: 13:11:23 Message [Записана стойност: ResultFiles\CostTXTout.txt] - com.writelogic.WriteToTXT
+Date: 15-03-2017 Time: 13:11:23 Message [Записана стойност: ResultFiles\CostTXTout.txt] - com.writelogic.WriteToTXT
+Date: 15-03-2017 Time: 13:30:25 Message [Извърши се прочитане на текстов файл Files\CostTXT.txt за посочен разход  bira] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 13:30:25 Message [Прочетена стойност: 165] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 13:30:25 Message [Прочетена стойност: 10] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 13:30:25 Message [Прочетена стойност: 11] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 13:31:23 Message [Запис на данни в текстов файл: D:\testtt123.txt] - com.writelogic.WriteToTXT
+Date: 15-03-2017 Time: 13:31:23 Message [Записана стойност: D:\testtt123.txt] - com.writelogic.WriteToTXT
+Date: 15-03-2017 Time: 13:31:23 Message [Записана стойност: D:\testtt123.txt] - com.writelogic.WriteToTXT
+Date: 15-03-2017 Time: 13:31:23 Message [Записана стойност: D:\testtt123.txt] - com.writelogic.WriteToTXT
+Date: 15-03-2017 Time: 13:39:39 Message [Извърши се прочит на xml файл чрез DOM Parser.Files\CostXML.xml за посочен разход ==> meze] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 13:39:39 Message [Прочетена стойност: 209] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 13:39:39 Message [Прочетена стойност: 23] - com.readlogic.ReadXMLwithDOM
+Date: 15-03-2017 Time: 13:39:43 Message [Запис на данни в база данни H2 таблица PESHOBIRATAOUT] - com.writelogic.WriteToDB
+Date: 15-03-2017 Time: 13:48:22 Message [Извърши се прочитане на текстов файл Files\CostTXT.txt за посочен разход  bira] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 13:48:22 Message [Прочетена стойност: 165] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 13:48:22 Message [Прочетена стойност: 10] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 13:48:22 Message [Прочетена стойност: 11] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 13:48:36 Message [Запис на данни в текстов файл: Files\CostTXT.txt] - com.writelogic.WriteToTXT
+Date: 15-03-2017 Time: 13:48:36 Message [Записана стойност: Files\CostTXT.txt] - com.writelogic.WriteToTXT
+Date: 15-03-2017 Time: 13:48:36 Message [Записана стойност: Files\CostTXT.txt] - com.writelogic.WriteToTXT
+Date: 15-03-2017 Time: 13:48:36 Message [Записана стойност: Files\CostTXT.txt] - com.writelogic.WriteToTXT
+Date: 15-03-2017 Time: 13:52:29 Message [Извърши се прочитане на текстов файл Files\CostTXT.txt за посочен разход  bira] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 13:52:29 Message [Прочетена стойност: 165] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 13:52:29 Message [Прочетена стойност: 10] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 13:52:29 Message [Прочетена стойност: 11] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 13:52:58 Message [Запис на данни в текстов файл: Files\CostTXT.txt] - com.writelogic.WriteToTXT
+Date: 15-03-2017 Time: 13:52:58 Message [Записана стойност: Files\CostTXT.txt] - com.writelogic.WriteToTXT
+Date: 15-03-2017 Time: 13:52:58 Message [Записана стойност: Files\CostTXT.txt] - com.writelogic.WriteToTXT
+Date: 15-03-2017 Time: 13:52:58 Message [Записана стойност: Files\CostTXT.txt] - com.writelogic.WriteToTXT
+Date: 15-03-2017 Time: 13:54:30 Message [Извърши се прочитане на текстов файл Files\CostTXT.txt за посочен разход  bira] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 13:54:30 Message [Прочетена стойност: 165] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 13:54:30 Message [Прочетена стойност: 10] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 13:54:30 Message [Прочетена стойност: 11] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 13:54:35 Message [Запис на данни в текстов файл: Files\CostTXT.txt] - com.writelogic.WriteToTXT
+Date: 15-03-2017 Time: 13:54:35 Message [Записана стойност: Files\CostTXT.txt] - com.writelogic.WriteToTXT
+Date: 15-03-2017 Time: 13:54:35 Message [Записана стойност: Files\CostTXT.txt] - com.writelogic.WriteToTXT
+Date: 15-03-2017 Time: 13:54:35 Message [Записана стойност: Files\CostTXT.txt] - com.writelogic.WriteToTXT
+Date: 15-03-2017 Time: 13:56:39 Message [Извърши се прочитане на текстов файл Files\CostTXT.txt за посочен разход  bira] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 13:56:39 Message [Прочетена стойност: 165] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 13:56:39 Message [Прочетена стойност: 10] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 13:56:39 Message [Прочетена стойност: 11] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 13:56:46 Message [Запис на данни в текстов файл: Files\CostTXT.txt] - com.writelogic.WriteToTXT
+Date: 15-03-2017 Time: 13:56:46 Message [Записана стойност: Files\CostTXT.txt] - com.writelogic.WriteToTXT
+Date: 15-03-2017 Time: 13:56:46 Message [Записана стойност: Files\CostTXT.txt] - com.writelogic.WriteToTXT
+Date: 15-03-2017 Time: 13:56:46 Message [Записана стойност: Files\CostTXT.txt] - com.writelogic.WriteToTXT
+Date: 15-03-2017 Time: 14:02:51 Message [Извърши се прочитане на текстов файл Files\CostTXT.txt за посочен разход  bira] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 14:02:51 Message [Прочетена стойност: 165] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 14:02:51 Message [Прочетена стойност: 10] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 14:02:51 Message [Прочетена стойност: 11] - com.readlogic.ReadFromTxtFile
+Date: 15-03-2017 Time: 14:03:07 Message [Запис на данни в текстов файл: Files\CostTXT.txt] - com.writelogic.WriteToTXT
+Date: 15-03-2017 Time: 14:03:07 Message [Записана стойност: Files\CostTXT.txt] - com.writelogic.WriteToTXT
+Date: 15-03-2017 Time: 14:03:07 Message [Записана стойност: Files\CostTXT.txt] - com.writelogic.WriteToTXT
+Date: 15-03-2017 Time: 14:03:07 Message [Записана стойност: Files\CostTXT.txt] - com.writelogic.WriteToTXT

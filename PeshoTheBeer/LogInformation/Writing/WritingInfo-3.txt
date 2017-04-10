@@ -1,0 +1,7 @@
+Date: 23-03-2017 Time: 17:18:27 Message [Записани стойности: Разход- meze Стойност: 1010] - com.writelogic.WriteToPDF
+Date: 23-03-2017 Time: 17:18:27 Message [Запис на данни в PDF файл в ДиректорияC:\Users\d.balamdzhiev\Documents\ChartEN.pdf] - com.writelogic.WriteToPDF
+Date: 23-03-2017 Time: 17:18:50 Message [Запис на данни в PDF файл в ДиректорияC:\Users\d.balamdzhiev\Documents\ChartEN.pdf] - com.writelogic.WriteToPDF
+Date: 23-03-2017 Time: 17:22:01 Message [Запис на данни в текстов файл: C:\Users\d.balamdzhiev\Documents\123.txt] - com.writelogic.WriteToTXT
+Date: 24-03-2017 Time: 12:21:33 Message [Записани стойности: Разход- bira Стойност: 3] - com.writelogic.WriteToPDF
+Date: 24-03-2017 Time: 12:21:33 Message [Записани стойности: Разход- bira Стойност: AE] - com.writelogic.WriteToPDF
+Date: 24-03-2017 Time: 12:21:33 Message [Записани стойности: Разход- bira Стойност: 2] - com.writelogic.WriteToPDF

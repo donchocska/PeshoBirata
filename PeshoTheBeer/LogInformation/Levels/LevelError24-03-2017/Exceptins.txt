@@ -1,0 +1,2 @@
+Date: 24-03-2017 Time: 15:57:54 Message [class java.lang.IllegalMonitorStateException null java.lang.IllegalMonitorStateException] - com.GUI.GUIlogic$7
+Date: 24-03-2017 Time: 15:59:33 Message [class java.lang.IllegalMonitorStateException null java.lang.IllegalMonitorStateException] - com.GUI.GUIlogic$7

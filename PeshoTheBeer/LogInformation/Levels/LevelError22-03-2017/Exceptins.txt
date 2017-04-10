@@ -1,0 +1,16 @@
+Date: 22-03-2017 Time: 09:55:11 Message [class org.h2.jdbc.JdbcSQLException Database may be already in use: null. Possible solutions: close all other connection(s); use the server mode [90020-193]] - com.readlogic.ReadFromDB
+Date: 22-03-2017 Time: 12:05:44 Message [class java.sql.SQLException The url cannot be null] - com.readlogic.ReadFromDB
+Date: 22-03-2017 Time: 12:06:12 Message [class java.sql.SQLException The url cannot be null] - com.readlogic.ReadFromDB
+Date: 22-03-2017 Time: 12:07:48 Message [class java.sql.SQLException The url cannot be null] - com.readlogic.ReadFromDB
+Date: 22-03-2017 Time: 12:09:29 Message [class java.sql.SQLException The url cannot be null] - com.readlogic.ReadFromDB
+Date: 22-03-2017 Time: 13:42:24 Message [class org.h2.jdbc.JdbcSQLException Database may be already in use: null. Possible solutions: close all other connection(s); use the server mode [90020-193]] - com.readlogic.ReadFromDB
+Date: 22-03-2017 Time: 13:51:33 Message [class java.lang.NullPointerException null java.lang.NullPointerException] - com.GUI.GUIlogic$3
+Date: 22-03-2017 Time: 13:54:45 Message [class java.lang.NullPointerException null java.lang.NullPointerException] - com.GUI.GUIlogic$3
+Date: 22-03-2017 Time: 14:14:29 Message [class java.lang.NullPointerException null java.lang.NullPointerException] - com.GUI.GUIlogic$3
+Date: 22-03-2017 Time: 14:14:33 Message [class java.lang.NullPointerException null java.lang.NullPointerException] - com.GUI.GUIlogic$3
+Date: 22-03-2017 Time: 14:24:04 Message [class org.h2.jdbc.JdbcSQLException Wrong user name or password [28000-193]] - com.readlogic.ReadFromDB
+Date: 22-03-2017 Time: 14:27:01 Message [class org.h2.jdbc.JdbcSQLException Wrong user name or password [28000-193]] - com.readlogic.ReadFromDB
+Date: 22-03-2017 Time: 14:27:21 Message [class org.h2.jdbc.JdbcSQLException Wrong user name or password [28000-193]] - com.readlogic.ReadFromDB
+Date: 22-03-2017 Time: 14:30:50 Message [class org.h2.jdbc.JdbcSQLException Database may be already in use: null. Possible solutions: close all other connection(s); use the server mode [90020-193]] - com.readlogic.ReadFromDB
+Date: 22-03-2017 Time: 14:31:08 Message [class org.h2.jdbc.JdbcSQLException Database may be already in use: null. Possible solutions: close all other connection(s); use the server mode [90020-193]] - com.readlogic.ReadFromDB
+Date: 22-03-2017 Time: 14:31:33 Message [class java.lang.NullPointerException null java.lang.NullPointerException] - com.GUI.GUIlogic$3

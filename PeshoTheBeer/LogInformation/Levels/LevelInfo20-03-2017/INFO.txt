@@ -1,0 +1,533 @@
+Date: 20-03-2017 Time: 08:27:22 Message [==========Начало=============] - com.GUI.GUIlogic
+Date: 20-03-2017 Time: 09:03:20 Message [==========Начало=============] - com.GUI.GUIlogic
+Date: 20-03-2017 Time: 09:04:35 Message [==========Начало=============] - com.GUI.GUIlogic
+Date: 20-03-2017 Time: 09:05:17 Message [==========Начало=============] - com.GUI.GUIlogic
+Date: 20-03-2017 Time: 09:06:49 Message [==========Начало=============] - com.GUI.GUIlogic
+Date: 20-03-2017 Time: 09:07:00 Message [==========Начало=============] - com.GUI.GUIlogic
+Date: 20-03-2017 Time: 09:09:13 Message [==========Начало=============] - com.GUI.GUIlogic
+Date: 20-03-2017 Time: 09:10:20 Message [==========Начало=============] - com.GUI.GUIlogic
+Date: 20-03-2017 Time: 09:10:31 Message [Извърши се прочит на xml файл чрез DOM Parser.Files\CostXML.xml за посочен разход ==> meze] - com.readlogic.ReadXMLwithDOM
+Date: 20-03-2017 Time: 09:10:31 Message [Прочетена стойност: 209] - com.readlogic.ReadXMLwithDOM
+Date: 20-03-2017 Time: 09:10:31 Message [Прочетена стойност: 23] - com.readlogic.ReadXMLwithDOM
+Date: 20-03-2017 Time: 09:15:24 Message [==========Начало=============] - com.GUI.GUIlogic
+Date: 20-03-2017 Time: 09:15:42 Message [Извърши се прочит на xml файл чрез DOM Parser.Files\CostXML.xml за посочен разход ==> meze] - com.readlogic.ReadXMLwithDOM
+Date: 20-03-2017 Time: 09:15:42 Message [Прочетена стойност: 209] - com.readlogic.ReadXMLwithDOM
+Date: 20-03-2017 Time: 09:15:42 Message [Прочетена стойност: 23] - com.readlogic.ReadXMLwithDOM
+Date: 20-03-2017 Time: 09:15:51 Message [Запис на данни в текстов файл: Files\CostXML.xml] - com.writelogic.WriteToTXT
+Date: 20-03-2017 Time: 09:15:51 Message [Записана стойност: Files\CostXML.xml] - com.writelogic.WriteToTXT
+Date: 20-03-2017 Time: 09:15:51 Message [Записана стойност: Files\CostXML.xml] - com.writelogic.WriteToTXT
+Date: 20-03-2017 Time: 09:16:42 Message [==========Начало=============] - com.GUI.GUIlogic
+Date: 20-03-2017 Time: 09:16:52 Message [==========Начало=============] - com.GUI.GUIlogic
+Date: 20-03-2017 Time: 09:17:38 Message [Извърши се прочит на xml файл чрез DOM Parser.Files\CostXML.xml за посочен разход ==> meze] - com.readlogic.ReadXMLwithDOM
+Date: 20-03-2017 Time: 09:17:38 Message [Прочетена стойност: 209] - com.readlogic.ReadXMLwithDOM
+Date: 20-03-2017 Time: 09:17:38 Message [Прочетена стойност: 23] - com.readlogic.ReadXMLwithDOM
+Date: 20-03-2017 Time: 09:17:41 Message [Запис на данни в текстов файл: Files\CostXML.xml] - com.writelogic.WriteToTXT
+Date: 20-03-2017 Time: 09:17:41 Message [Записана стойност: Files\CostXML.xml] - com.writelogic.WriteToTXT
+Date: 20-03-2017 Time: 09:17:41 Message [Записана стойност: Files\CostXML.xml] - com.writelogic.WriteToTXT
+Date: 20-03-2017 Time: 09:19:43 Message [==========Начало=============] - com.GUI.GUIlogic
+Date: 20-03-2017 Time: 09:20:04 Message [Извърши се прочит на xml файл чрез DOM Parser.Files\CostXML.xml за посочен разход ==> meze] - com.readlogic.ReadXMLwithDOM
+Date: 20-03-2017 Time: 09:20:04 Message [Прочетена стойност: 209] - com.readlogic.ReadXMLwithDOM
+Date: 20-03-2017 Time: 09:20:04 Message [Прочетена стойност: 23] - com.readlogic.ReadXMLwithDOM
+Date: 20-03-2017 Time: 09:20:09 Message [Запис на данни в текстов файл: Files\CostXML.xml] - com.writelogic.WriteToTXT
+Date: 20-03-2017 Time: 09:20:09 Message [Записана стойност: Files\CostXML.xml] - com.writelogic.WriteToTXT
+Date: 20-03-2017 Time: 09:21:37 Message [==========Начало=============] - com.GUI.GUIlogic
+Date: 20-03-2017 Time: 09:21:52 Message [Входен файл: C:\Users\d.balamdzhiev\Documents\Pesho Birata\Files\CostTXT.txt] - com.GUI.GUIlogic$1
+Date: 20-03-2017 Time: 09:22:02 Message [Изходен файл: C:\Users\d.balamdzhiev\Documents\asd.txt] - com.GUI.GUIlogic$2
+Date: 20-03-2017 Time: 09:22:04 Message [Извърши се прочитане на текстов файл C:\Users\d.balamdzhiev\Documents\Pesho Birata\Files\CostTXT.txt за посочен разход  bira] - com.readlogic.ReadFromTxtFile
+Date: 20-03-2017 Time: 09:22:05 Message [Запис на данни в текстов файл: C:\Users\d.balamdzhiev\Documents\asd.txt] - com.writelogic.WriteToTXT
+Date: 20-03-2017 Time: 09:22:05 Message [От: TXT До: TXT Тип разход: bira] - com.GUI.GUIlogic$3
+Date: 20-03-2017 Time: 09:22:35 Message [==========Начало=============] - com.GUI.GUIlogic
+Date: 20-03-2017 Time: 09:22:53 Message [Извърши се прочитане на текстов файл Files\CostTXT.txt за посочен разход  bira] - com.readlogic.ReadFromTxtFile
+Date: 20-03-2017 Time: 09:22:53 Message [Прочетена стойност: 165] - com.readlogic.ReadFromTxtFile
+Date: 20-03-2017 Time: 09:22:53 Message [Прочетена стойност: 10] - com.readlogic.ReadFromTxtFile
+Date: 20-03-2017 Time: 09:22:53 Message [Прочетена стойност: 11] - com.readlogic.ReadFromTxtFile
+Date: 20-03-2017 Time: 09:22:53 Message [Прочетена стойност: 368] - com.readlogic.ReadFromTxtFile
+Date: 20-03-2017 Time: 09:22:59 Message [Запис на данни в текстов файл: Files\CostTXT.txt] - com.writelogic.WriteToTXT
+Date: 20-03-2017 Time: 09:22:59 Message [Записана стойност: Files\CostTXT.txt] - com.writelogic.WriteToTXT
+Date: 20-03-2017 Time: 09:22:59 Message [Записана стойност: Files\CostTXT.txt] - com.writelogic.WriteToTXT
+Date: 20-03-2017 Time: 09:22:59 Message [Записана стойност: Files\CostTXT.txt] - com.writelogic.WriteToTXT
+Date: 20-03-2017 Time: 09:22:59 Message [Записана стойност: Files\CostTXT.txt] - com.writelogic.WriteToTXT
+Date: 20-03-2017 Time: 09:30:12 Message [==========Начало=============] - com.GUI.GUIlogic
+Date: 20-03-2017 Time: 09:30:40 Message [Извърши се прочитане на текстов файл Files\CostTXT.txt за посочен разход  bira] - com.readlogic.ReadFromTxtFile
+Date: 20-03-2017 Time: 09:30:40 Message [Прочетена стойност: 165] - com.readlogic.ReadFromTxtFile
+Date: 20-03-2017 Time: 09:30:40 Message [Прочетена стойност: 10] - com.readlogic.ReadFromTxtFile
+Date: 20-03-2017 Time: 09:30:40 Message [Прочетена стойност: 11] - com.readlogic.ReadFromTxtFile
+Date: 20-03-2017 Time: 09:31:43 Message [==========Начало=============] - com.GUI.GUIlogic
+Date: 20-03-2017 Time: 09:31:48 Message [==========Начало=============] - com.GUI.GUIlogic
+Date: 20-03-2017 Time: 09:31:58 Message [Извърши се прочитане на текстов файл Files\CostTXT.txt за посочен разход  bira] - com.readlogic.ReadFromTxtFile
+Date: 20-03-2017 Time: 09:31:58 Message [Прочетена стойност: 165] - com.readlogic.ReadFromTxtFile
+Date: 20-03-2017 Time: 09:31:58 Message [Прочетена стойност: 10] - com.readlogic.ReadFromTxtFile
+Date: 20-03-2017 Time: 09:31:58 Message [Прочетена стойност: 11] - com.readlogic.ReadFromTxtFile
+Date: 20-03-2017 Time: 09:35:02 Message [==========Начало=============] - com.GUI.GUIlogic
+Date: 20-03-2017 Time: 09:35:10 Message [Извърши се прочитане на текстов файл Files\CostTXT.txt за посочен разход  bira] - com.readlogic.ReadFromTxtFile
+Date: 20-03-2017 Time: 09:35:10 Message [Прочетена стойност: 165] - com.readlogic.ReadFromTxtFile
+Date: 20-03-2017 Time: 09:35:10 Message [Прочетена стойност: 10] - com.readlogic.ReadFromTxtFile
+Date: 20-03-2017 Time: 09:35:10 Message [Прочетена стойност: 11] - com.readlogic.ReadFromTxtFile
+Date: 20-03-2017 Time: 09:35:39 Message [Запис на данни в текстов файл: Files\CostTXT123123.txt] - com.writelogic.WriteToTXT
+Date: 20-03-2017 Time: 09:35:39 Message [Записана стойност: Files\CostTXT123123.txt] - com.writelogic.WriteToTXT
+Date: 20-03-2017 Time: 09:35:39 Message [Записана стойност: Files\CostTXT123123.txt] - com.writelogic.WriteToTXT
+Date: 20-03-2017 Time: 09:35:39 Message [Записана стойност: Files\CostTXT123123.txt] - com.writelogic.WriteToTXT
+Date: 20-03-2017 Time: 09:36:35 Message [==========Начало=============] - com.GUI.GUIlogic
+Date: 20-03-2017 Time: 09:36:51 Message [Извърши се прочитане на текстов файл Files\CostTXT.txt за посочен разход  bira] - com.readlogic.ReadFromTxtFile
+Date: 20-03-2017 Time: 09:36:51 Message [Прочетена стойност: 165] - com.readlogic.ReadFromTxtFile
+Date: 20-03-2017 Time: 09:36:51 Message [Прочетена стойност: 10] - com.readlogic.ReadFromTxtFile
+Date: 20-03-2017 Time: 09:36:51 Message [Прочетена стойност: 11] - com.readlogic.ReadFromTxtFile
+Date: 20-03-2017 Time: 09:37:11 Message [Запис на данни в текстов файл: 1] - com.writelogic.WriteToTXT
+Date: 20-03-2017 Time: 09:37:11 Message [Записана стойност: 1] - com.writelogic.WriteToTXT
+Date: 20-03-2017 Time: 09:37:11 Message [Записана стойност: 1] - com.writelogic.WriteToTXT
+Date: 20-03-2017 Time: 09:37:11 Message [Записана стойност: 1] - com.writelogic.WriteToTXT
+Date: 20-03-2017 Time: 09:42:13 Message [==========Начало=============] - com.GUI.GUIlogic
+Date: 20-03-2017 Time: 09:42:22 Message [==========Начало=============] - com.GUI.GUIlogic
+Date: 20-03-2017 Time: 09:42:39 Message [Извърши се прочитане на текстов файл Files\CostTXT.txt за посочен разход  bira] - com.readlogic.ReadFromTxtFile
+Date: 20-03-2017 Time: 09:42:39 Message [Прочетена стойност: 165] - com.readlogic.ReadFromTxtFile
+Date: 20-03-2017 Time: 09:42:39 Message [Прочетена стойност: 10] - com.readlogic.ReadFromTxtFile
+Date: 20-03-2017 Time: 09:42:39 Message [Прочетена стойност: 11] - com.readlogic.ReadFromTxtFile
+Date: 20-03-2017 Time: 09:42:48 Message [Запис на данни в текстов файл: Files\CostTXT123123.txt] - com.writelogic.WriteToTXT
+Date: 20-03-2017 Time: 09:42:48 Message [Записана стойност: Files\CostTXT123123.txt] - com.writelogic.WriteToTXT
+Date: 20-03-2017 Time: 09:42:48 Message [Записана стойност: Files\CostTXT123123.txt] - com.writelogic.WriteToTXT
+Date: 20-03-2017 Time: 09:42:48 Message [Записана стойност: Files\CostTXT123123.txt] - com.writelogic.WriteToTXT
+Date: 20-03-2017 Time: 09:44:13 Message [==========Начало=============] - com.GUI.GUIlogic
+Date: 20-03-2017 Time: 09:44:34 Message [Извърши се прочит на xml файл чрез DOM Parser.Files\CostXML.xml за посочен разход ==> meze] - com.readlogic.ReadXMLwithDOM
+Date: 20-03-2017 Time: 09:44:34 Message [Прочетена стойност: 209] - com.readlogic.ReadXMLwithDOM
+Date: 20-03-2017 Time: 09:44:34 Message [Прочетена стойност: 23] - com.readlogic.ReadXMLwithDOM
+Date: 20-03-2017 Time: 09:44:46 Message [Запис на данни в xml файл: Files\CostXML123123.xml] - com.writelogic.WriteToXML
+Date: 20-03-2017 Time: 09:44:46 Message [Записaни данни: {meze=23}] - com.writelogic.WriteToXML
+Date: 20-03-2017 Time: 09:46:36 Message [==========Начало=============] - com.GUI.GUIlogic
+Date: 20-03-2017 Time: 09:46:58 Message [Извърши се прочит на xml файл чрез DOM Parser.Files\CostXML.xml за посочен разход ==> meze] - com.readlogic.ReadXMLwithDOM
+Date: 20-03-2017 Time: 09:46:58 Message [Прочетена стойност: 209] - com.readlogic.ReadXMLwithDOM
+Date: 20-03-2017 Time: 09:46:58 Message [Прочетена стойност: 23] - com.readlogic.ReadXMLwithDOM
+Date: 20-03-2017 Time: 09:47:10 Message [Запис на данни в текстов файл: Files\CostXML1231211111.txt] - com.writelogic.WriteToTXT
+Date: 20-03-2017 Time: 09:47:10 Message [Записана стойност: Files\CostXML1231211111.txt] - com.writelogic.WriteToTXT
+Date: 20-03-2017 Time: 09:47:30 Message [==========Начало=============] - com.GUI.GUIlogic
+Date: 20-03-2017 Time: 09:47:51 Message [Извърши се прочит на xml файл чрез DOM Parser.Files\CostXML.xml за посочен разход ==> meze] - com.readlogic.ReadXMLwithDOM
+Date: 20-03-2017 Time: 09:47:51 Message [Прочетена стойност: 209] - com.readlogic.ReadXMLwithDOM
+Date: 20-03-2017 Time: 09:47:51 Message [Прочетена стойност: 23] - com.readlogic.ReadXMLwithDOM
+Date: 20-03-2017 Time: 09:50:36 Message [==========Начало=============] - com.GUI.GUIlogic
+Date: 20-03-2017 Time: 09:50:56 Message [==========Начало=============] - com.GUI.GUIlogic
+Date: 20-03-2017 Time: 09:51:09 Message [Извърши се прочит на xml файл чрез DOM Parser.Files\CostXML.xml за посочен разход ==> meze] - com.readlogic.ReadXMLwithDOM
+Date: 20-03-2017 Time: 09:51:09 Message [Прочетена стойност: 209] - com.readlogic.ReadXMLwithDOM
+Date: 20-03-2017 Time: 09:51:09 Message [Прочетена стойност: 23] - com.readlogic.ReadXMLwithDOM
+Date: 20-03-2017 Time: 09:51:22 Message [Запис на данни в текстов файл: Files\Cost11111.txt] - com.writelogic.WriteToTXT
+Date: 20-03-2017 Time: 09:51:22 Message [Записана стойност: Files\Cost11111.txt] - com.writelogic.WriteToTXT
+Date: 20-03-2017 Time: 09:51:22 Message [Записана стойност: Files\Cost11111.txt] - com.writelogic.WriteToTXT
+Date: 20-03-2017 Time: 09:51:34 Message [==========Начало=============] - com.GUI.GUIlogic
+Date: 20-03-2017 Time: 09:51:52 Message [Извърши се прочит на xml файл чрез StAX Parser.Files\CostXML.xml за посочен разход ==> bira] - com.readlogic.ReadXMLwithStAX
+Date: 20-03-2017 Time: 09:51:52 Message [Прочетена стойност: 170] - com.readlogic.ReadXMLwithStAX
+Date: 20-03-2017 Time: 09:51:52 Message [Прочетена стойност: 172] - com.readlogic.ReadXMLwithStAX
+Date: 20-03-2017 Time: 09:51:52 Message [Прочетена стойност: 5] - com.readlogic.ReadXMLwithStAX
+Date: 20-03-2017 Time: 09:52:01 Message [Запис на данни в xml файл: Files\CostXML11111.xml] - com.writelogic.WriteToXML
+Date: 20-03-2017 Time: 09:52:01 Message [Записaни данни: {bira=5, bira=172, bira=170}] - com.writelogic.WriteToXML
+Date: 20-03-2017 Time: 09:52:42 Message [==========Начало=============] - com.GUI.GUIlogic
+Date: 20-03-2017 Time: 09:52:59 Message [Входен файл: C:\Users\d.balamdzhiev\Documents\Pesho Birata\Files\CostTXT.txt] - com.GUI.GUIlogic$1
+Date: 20-03-2017 Time: 09:53:13 Message [Изходен файл: C:\Users\d.balamdzhiev\Documents\123.txt] - com.GUI.GUIlogic$2
+Date: 20-03-2017 Time: 09:53:16 Message [Извърши се прочитане на текстов файл C:\Users\d.balamdzhiev\Documents\Pesho Birata\Files\CostTXT.txt за посочен разход  bira] - com.readlogic.ReadFromTxtFile
+Date: 20-03-2017 Time: 09:53:16 Message [Запис на данни в текстов файл: C:\Users\d.balamdzhiev\Documents\123.txt] - com.writelogic.WriteToTXT
+Date: 20-03-2017 Time: 09:53:16 Message [От: TXT До: TXT Тип разход: bira] - com.GUI.GUIlogic$3
+Date: 20-03-2017 Time: 09:54:08 Message [==========Начало=============] - com.GUI.GUIlogic
+Date: 20-03-2017 Time: 09:54:25 Message [Входен файл: C:\Users\d.balamdzhiev\Documents\Pesho Birata\Files\CostTXT.txt] - com.GUI.GUIlogic$1
+Date: 20-03-2017 Time: 09:54:30 Message [Изходен файл: C:\Users\d.balamdzhiev\Documents\123.txt] - com.GUI.GUIlogic$2
+Date: 20-03-2017 Time: 09:54:33 Message [Извърши се прочитане на текстов файл C:\Users\d.balamdzhiev\Documents\Pesho Birata\Files\CostTXT.txt за посочен разход  bira] - com.readlogic.ReadFromTxtFile
+Date: 20-03-2017 Time: 09:54:33 Message [Прочетена стойност: 165] - com.readlogic.ReadFromTxtFile
+Date: 20-03-2017 Time: 09:54:33 Message [Прочетена стойност: 10] - com.readlogic.ReadFromTxtFile
+Date: 20-03-2017 Time: 09:54:33 Message [Прочетена стойност: 11] - com.readlogic.ReadFromTxtFile
+Date: 20-03-2017 Time: 09:54:33 Message [Запис на данни в текстов файл: C:\Users\d.balamdzhiev\Documents\123.txt] - com.writelogic.WriteToTXT
+Date: 20-03-2017 Time: 09:54:33 Message [Записана стойност: C:\Users\d.balamdzhiev\Documents\123.txt] - com.writelogic.WriteToTXT
+Date: 20-03-2017 Time: 09:54:33 Message [Записана стойност: C:\Users\d.balamdzhiev\Documents\123.txt] - com.writelogic.WriteToTXT
+Date: 20-03-2017 Time: 09:54:33 Message [Записана стойност: C:\Users\d.balamdzhiev\Documents\123.txt] - com.writelogic.WriteToTXT
+Date: 20-03-2017 Time: 09:54:33 Message [От: TXT До: TXT Тип разход: bira] - com.GUI.GUIlogic$3
+Date: 20-03-2017 Time: 09:54:52 Message [==========Начало=============] - com.GUI.GUIlogic
+Date: 20-03-2017 Time: 09:55:29 Message [Запис на данни в xml файл: Files\CostXMLasasdasdas.xml] - com.writelogic.WriteToXML
+Date: 20-03-2017 Time: 09:55:29 Message [Записaни данни: {}] - com.writelogic.WriteToXML
+Date: 20-03-2017 Time: 09:57:13 Message [==========Начало=============] - com.GUI.GUIlogic
+Date: 20-03-2017 Time: 09:57:39 Message [==========Начало=============] - com.GUI.GUIlogic
+Date: 20-03-2017 Time: 09:57:56 Message [Запис на данни в xml файл: Files\CostXMLasdasdas123213.xml] - com.writelogic.WriteToXML
+Date: 20-03-2017 Time: 09:57:56 Message [Записaни данни: {type=29, meze=23, bira=172, bira=170, bira=5, fitnes=29, meze=209}] - com.writelogic.WriteToXML
+Date: 20-03-2017 Time: 10:02:55 Message [==========Начало=============] - com.GUI.GUIlogic
+Date: 20-03-2017 Time: 10:03:21 Message [Извърши се прочит на xml файл чрез DOM Parser.Files\CostXML.xml за посочен разход ==> meze] - com.readlogic.ReadXMLwithDOM
+Date: 20-03-2017 Time: 10:03:21 Message [Прочетена стойност: 209] - com.readlogic.ReadXMLwithDOM
+Date: 20-03-2017 Time: 10:03:21 Message [Прочетена стойност: 23] - com.readlogic.ReadXMLwithDOM
+Date: 20-03-2017 Time: 10:03:33 Message [Запис на данни в xml файл: Files\CostXML1111.xml] - com.writelogic.WriteToXML
+Date: 20-03-2017 Time: 10:03:33 Message [Записaни данни: {meze=23, meze=209}] - com.writelogic.WriteToXML
+Date: 20-03-2017 Time: 10:08:14 Message [==========Начало=============] - com.GUI.GUIlogic
+Date: 20-03-2017 Time: 10:14:55 Message [==========Начало=============] - com.GUI.GUIlogic
+Date: 20-03-2017 Time: 10:15:29 Message [==========Начало=============] - com.GUI.GUIlogic
+Date: 20-03-2017 Time: 10:52:05 Message [==========Начало=============] - com.GUI.GUIlogic
+Date: 20-03-2017 Time: 10:52:29 Message [Извърши се прочитане на текстов файл Files\CostTXT.txt за посочен разход  bira] - com.readlogic.ReadFromTxtFile
+Date: 20-03-2017 Time: 10:52:29 Message [Прочетена стойност: 165] - com.readlogic.ReadFromTxtFile
+Date: 20-03-2017 Time: 10:52:29 Message [Прочетена стойност: 10] - com.readlogic.ReadFromTxtFile
+Date: 20-03-2017 Time: 10:52:29 Message [Прочетена стойност: 11] - com.readlogic.ReadFromTxtFile
+Date: 20-03-2017 Time: 15:03:55 Message [==========Начало=============] - com.GUI.GUIlogic
+Date: 20-03-2017 Time: 15:04:18 Message [Извърши се прочитане на текстов файл Files\CostTXT.txt за посочен разход  bira] - com.readlogic.ReadFromTxtFile
+Date: 20-03-2017 Time: 15:04:18 Message [Прочетена стойност: 165] - com.readlogic.ReadFromTxtFile
+Date: 20-03-2017 Time: 15:04:18 Message [Прочетена стойност: 10] - com.readlogic.ReadFromTxtFile
+Date: 20-03-2017 Time: 15:04:18 Message [Прочетена стойност: 11] - com.readlogic.ReadFromTxtFile
+Date: 20-03-2017 Time: 15:04:30 Message [Запис на данни в база данни H2 таблица PESHOBIRATAOUT] - com.writelogic.WriteToDB
+Date: 20-03-2017 Time: 15:07:03 Message [==========Начало=============] - com.GUI.GUIlogic
+Date: 20-03-2017 Time: 15:07:37 Message [Извърши се прочит на xml файл чрез DOM Parser.Files\CostXML.xml за посочен разход ==> zele] - com.readlogic.ReadXMLwithDOM
+Date: 20-03-2017 Time: 15:07:37 Message [Прочетена стойност: 5] - com.readlogic.ReadXMLwithDOM
+Date: 20-03-2017 Time: 15:07:37 Message [Прочетена стойност: 19] - com.readlogic.ReadXMLwithDOM
+Date: 20-03-2017 Time: 15:07:37 Message [Прочетена стойност: 15] - com.readlogic.ReadXMLwithDOM
+Date: 20-03-2017 Time: 15:07:59 Message [Запис на данни в xml файл: Files\CostZele123.xml] - com.writelogic.WriteToXML
+Date: 20-03-2017 Time: 15:07:59 Message [Записaни данни: {zele=15}] - com.writelogic.WriteToXML
+Date: 20-03-2017 Time: 15:11:39 Message [==========Начало=============] - com.GUI.GUIlogic
+Date: 20-03-2017 Time: 15:12:01 Message [Извърши се прочит на xml файл чрез StAX Parser.Files\CostXML.xml за посочен разход ==> zele] - com.readlogic.ReadXMLwithStAX
+Date: 20-03-2017 Time: 15:12:01 Message [Прочетена стойност: 5] - com.readlogic.ReadXMLwithStAX
+Date: 20-03-2017 Time: 15:12:01 Message [Прочетена стойност: 19] - com.readlogic.ReadXMLwithStAX
+Date: 20-03-2017 Time: 15:12:01 Message [Прочетена стойност: 15] - com.readlogic.ReadXMLwithStAX
+Date: 20-03-2017 Time: 15:12:25 Message [Запис на данни в текстов файл: Files\CostZeleTXT123.txt] - com.writelogic.WriteToTXT
+Date: 20-03-2017 Time: 15:12:25 Message [Записана стойност: Files\CostZeleTXT123.txt] - com.writelogic.WriteToTXT
+Date: 20-03-2017 Time: 15:12:25 Message [Записана стойност: Files\CostZeleTXT123.txt] - com.writelogic.WriteToTXT
+Date: 20-03-2017 Time: 15:12:25 Message [Записана стойност: Files\CostZeleTXT123.txt] - com.writelogic.WriteToTXT
+Date: 20-03-2017 Time: 15:13:18 Message [==========Начало=============] - com.GUI.GUIlogic
+Date: 20-03-2017 Time: 15:14:11 Message [Запис на данни в xml файл: Files\CostsJAXB123.xml] - com.writelogic.WriteToXML
+Date: 20-03-2017 Time: 15:14:11 Message [Записaни данни: {zele=13, zele=f, zele=5}] - com.writelogic.WriteToXML
+Date: 20-03-2017 Time: 15:23:08 Message [==========Начало=============] - com.GUI.GUIlogic
+Date: 20-03-2017 Time: 15:24:39 Message [==========Начало=============] - com.GUI.GUIlogic
+Date: 20-03-2017 Time: 15:25:06 Message [Входен файл: C:\Users\d.balamdzhiev\Documents\Pesho Birata\Files\CostXML.xml] - com.GUI.GUIlogic$1
+Date: 20-03-2017 Time: 15:25:18 Message [Изходен файл: C:\Users\d.balamdzhiev\Documents\123.txt] - com.GUI.GUIlogic$2
+Date: 20-03-2017 Time: 15:25:20 Message [Запис на данни в база данни H2 таблица PESHOBIRATAOUT] - com.writelogic.WriteToDB
+Date: 20-03-2017 Time: 15:25:20 Message [От: JAXB До: DB Тип разход: zele] - com.GUI.GUIlogic$3
+Date: 20-03-2017 Time: 15:27:03 Message [==========Начало=============] - com.GUI.GUIlogic
+Date: 20-03-2017 Time: 15:27:30 Message [Входен файл: C:\Users\d.balamdzhiev\Documents\Pesho Birata\Files\CostXML.xml] - com.GUI.GUIlogic$1
+Date: 20-03-2017 Time: 15:27:34 Message [Изходен файл: C:\Users\d.balamdzhiev\Documents\123.txt] - com.GUI.GUIlogic$2
+Date: 20-03-2017 Time: 15:27:37 Message [Извърши се прочит на xml файл чрез DOM Parser.C:\Users\d.balamdzhiev\Documents\Pesho Birata\Files\CostXML.xml за посочен разход ==> zele] - com.readlogic.ReadXMLwithDOM
+Date: 20-03-2017 Time: 15:27:37 Message [Прочетена стойност: 5] - com.readlogic.ReadXMLwithDOM
+Date: 20-03-2017 Time: 15:27:37 Message [Прочетена стойност: 13] - com.readlogic.ReadXMLwithDOM
+Date: 20-03-2017 Time: 15:27:37 Message [Прочетена стойност: F] - com.readlogic.ReadXMLwithDOM
+Date: 20-03-2017 Time: 15:27:37 Message [Запис на данни в база данни H2 таблица PESHOBIRATAOUT] - com.writelogic.WriteToDB
+Date: 20-03-2017 Time: 15:27:37 Message [От: DOM До: DB Тип разход: zele] - com.GUI.GUIlogic$3
+Date: 20-03-2017 Time: 15:27:51 Message [Изходен файл: C:\Users\d.balamdzhiev\Documents\Pesho Birata\CostsPDFout.pdf] - com.GUI.GUIlogic$2
+Date: 20-03-2017 Time: 15:27:53 Message [Извърши се прочит на xml файл чрез DOM Parser.C:\Users\d.balamdzhiev\Documents\Pesho Birata\Files\CostXML.xml за посочен разход ==> zele] - com.readlogic.ReadXMLwithDOM
+Date: 20-03-2017 Time: 15:27:53 Message [Прочетена стойност: 5] - com.readlogic.ReadXMLwithDOM
+Date: 20-03-2017 Time: 15:27:53 Message [Прочетена стойност: 19] - com.readlogic.ReadXMLwithDOM
+Date: 20-03-2017 Time: 15:27:53 Message [Прочетена стойност: 15] - com.readlogic.ReadXMLwithDOM
+Date: 20-03-2017 Time: 15:27:53 Message [Запис на данни в PDF файл в ДиректорияC:\Users\d.balamdzhiev\Documents\Pesho Birata\CostsPDFout.pdf] - com.writelogic.WriteToPDF
+Date: 20-03-2017 Time: 15:27:53 Message [Записани стойности: Разход- zele Стойност: 19] - com.writelogic.WriteToPDF
+Date: 20-03-2017 Time: 15:27:53 Message [Записани стойности: Разход- zele Стойност: 15] - com.writelogic.WriteToPDF
+Date: 20-03-2017 Time: 15:27:53 Message [Записани стойности: Разход- zele Стойност: 5] - com.writelogic.WriteToPDF
+Date: 20-03-2017 Time: 15:27:53 Message [От: DOM До: PDF Тип разход: zele] - com.GUI.GUIlogic$3
+Date: 20-03-2017 Time: 15:31:17 Message [==========Начало=============] - com.GUI.GUIlogic
+Date: 20-03-2017 Time: 15:31:47 Message [==========Начало=============] - com.GUI.GUIlogic
+Date: 20-03-2017 Time: 15:32:34 Message [==========Начало=============] - com.GUI.GUIlogic
+Date: 20-03-2017 Time: 15:34:10 Message [==========Начало=============] - com.GUI.GUIlogic
+Date: 20-03-2017 Time: 15:37:49 Message [==========Начало=============] - com.GUI.GUIlogic
+Date: 20-03-2017 Time: 15:38:10 Message [Прочит на данни от база данни H2 за посочен разход ==> вино] - com.readlogic.ReadFromDB
+Date: 20-03-2017 Time: 15:38:10 Message [Прочетена стойност: 10] - com.readlogic.ReadFromDB
+Date: 20-03-2017 Time: 15:38:41 Message [==========Начало=============] - com.GUI.GUIlogic
+Date: 20-03-2017 Time: 15:38:53 Message [Прочит на данни от база данни H2 за посочен разход ==> вино] - com.readlogic.ReadFromDB
+Date: 20-03-2017 Time: 15:39:05 Message [==========Начало=============] - com.GUI.GUIlogic
+Date: 20-03-2017 Time: 15:39:32 Message [==========Начало=============] - com.GUI.GUIlogic
+Date: 20-03-2017 Time: 15:39:52 Message [Прочит на данни от база данни H2 за посочен разход ==> meze] - com.readlogic.ReadFromDB
+Date: 20-03-2017 Time: 15:39:53 Message [Прочетена стойност: 10101010] - com.readlogic.ReadFromDB
+Date: 20-03-2017 Time: 15:39:53 Message [Прочетена стойност: 1100] - com.readlogic.ReadFromDB
+Date: 20-03-2017 Time: 15:39:53 Message [Прочетена стойност: 10000] - com.readlogic.ReadFromDB
+Date: 20-03-2017 Time: 15:40:42 Message [==========Начало=============] - com.GUI.GUIlogic
+Date: 20-03-2017 Time: 15:41:05 Message [Входен файл: C:\Users\d.balamdzhiev\Documents\Pesho Birata\Files\CostXML.xml] - com.GUI.GUIlogic$1
+Date: 20-03-2017 Time: 15:41:15 Message [Извърши се прочит на xml файл чрез DOM Parser.C:\Users\d.balamdzhiev\Documents\Pesho Birata\Files\CostXML.xml за посочен разход ==> bira] - com.readlogic.ReadXMLwithDOM
+Date: 20-03-2017 Time: 15:41:15 Message [Прочетена стойност: 10101010] - com.readlogic.ReadXMLwithDOM
+Date: 20-03-2017 Time: 15:41:15 Message [Прочетена стойност: 10101100] - com.readlogic.ReadXMLwithDOM
+Date: 20-03-2017 Time: 15:41:15 Message [Прочетена стойност: 101] - com.readlogic.ReadXMLwithDOM
+Date: 20-03-2017 Time: 15:41:42 Message [==========Начало=============] - com.GUI.GUIlogic
+Date: 20-03-2017 Time: 15:41:50 Message [Входен файл: C:\Users\d.balamdzhiev\Documents\Pesho Birata\Files\CostTXT.txt] - com.GUI.GUIlogic$1
+Date: 20-03-2017 Time: 15:42:10 Message [Изходен файл: C:\Users\d.balamdzhiev\Documents\asd.txt] - com.GUI.GUIlogic$2
+Date: 20-03-2017 Time: 15:42:11 Message [Прочит на данни от база данни H2 за посочен разход ==> bira] - com.readlogic.ReadFromDB
+Date: 20-03-2017 Time: 15:42:11 Message [Прочетена стойност: 101010000] - com.readlogic.ReadFromDB
+Date: 20-03-2017 Time: 15:42:11 Message [Прочетена стойност: 1010] - com.readlogic.ReadFromDB
+Date: 20-03-2017 Time: 15:42:11 Message [Запис на данни в база данни H2 таблица PESHOBIRATAOUT] - com.writelogic.WriteToDB
+Date: 20-03-2017 Time: 15:42:11 Message [От: DataBase До: DB Тип разход: bira] - com.GUI.GUIlogic$3
+Date: 20-03-2017 Time: 15:44:38 Message [==========Начало=============] - com.GUI.GUIlogic
+Date: 20-03-2017 Time: 15:45:13 Message [==========Начало=============] - com.GUI.GUIlogic
+Date: 20-03-2017 Time: 15:45:24 Message [Прочит на данни от база данни H2 за посочен разход ==> salata] - com.readlogic.ReadFromDB
+Date: 20-03-2017 Time: 15:45:24 Message [Прочетена стойност: 10010] - com.readlogic.ReadFromDB
+Date: 20-03-2017 Time: 15:45:24 Message [Прочетена стойност: 1010] - com.readlogic.ReadFromDB
+Date: 20-03-2017 Time: 15:45:24 Message [Прочетена стойност: 11011010] - com.readlogic.ReadFromDB
+Date: 20-03-2017 Time: 15:45:24 Message [Запис на данни в база данни H2 таблица PESHOBIRATAOUT] - com.writelogic.WriteToDB
+Date: 20-03-2017 Time: 15:45:24 Message [От: DataBase До: DB Тип разход: salata] - com.GUI.GUIlogic$3
+Date: 20-03-2017 Time: 15:45:34 Message [Прочит на данни от база данни H2 за посочен разход ==> salata] - com.readlogic.ReadFromDB
+Date: 20-03-2017 Time: 15:45:34 Message [Прочетена стойност: 10010] - com.readlogic.ReadFromDB
+Date: 20-03-2017 Time: 15:45:34 Message [Прочетена стойност: 1010] - com.readlogic.ReadFromDB
+Date: 20-03-2017 Time: 15:45:34 Message [Прочетена стойност: 11011010] - com.readlogic.ReadFromDB
+Date: 20-03-2017 Time: 15:45:34 Message [Запис на данни в PDF файл в Директория] - com.writelogic.WriteToPDF
+Date: 20-03-2017 Time: 15:45:42 Message [Изходен файл: C:\Users\d.balamdzhiev\Documents\Pesho Birata\CostsPDFout.pdf] - com.GUI.GUIlogic$2
+Date: 20-03-2017 Time: 15:45:44 Message [Прочит на данни от база данни H2 за посочен разход ==> salata] - com.readlogic.ReadFromDB
+Date: 20-03-2017 Time: 15:45:44 Message [Прочетена стойност: 10010] - com.readlogic.ReadFromDB
+Date: 20-03-2017 Time: 15:45:44 Message [Прочетена стойност: 1010] - com.readlogic.ReadFromDB
+Date: 20-03-2017 Time: 15:45:44 Message [Прочетена стойност: 11011010] - com.readlogic.ReadFromDB
+Date: 20-03-2017 Time: 15:45:44 Message [Запис на данни в PDF файл в Директория] - com.writelogic.WriteToPDF
+Date: 20-03-2017 Time: 15:45:44 Message [От: DataBase До: PDF Тип разход: salata] - com.GUI.GUIlogic$3
+Date: 20-03-2017 Time: 15:46:00 Message [Прочит на данни от база данни H2 за посочен разход ==> salata] - com.readlogic.ReadFromDB
+Date: 20-03-2017 Time: 15:46:00 Message [Прочетена стойност: 10010] - com.readlogic.ReadFromDB
+Date: 20-03-2017 Time: 15:46:00 Message [Прочетена стойност: 1010] - com.readlogic.ReadFromDB
+Date: 20-03-2017 Time: 15:46:00 Message [Прочетена стойност: 11011010] - com.readlogic.ReadFromDB
+Date: 20-03-2017 Time: 15:46:00 Message [Запис на данни в PDF файл в Директория] - com.writelogic.WriteToPDF
+Date: 20-03-2017 Time: 15:46:00 Message [От: DataBase До: PDF Тип разход: salata] - com.GUI.GUIlogic$3
+Date: 20-03-2017 Time: 15:46:09 Message [Прочит на данни от база данни H2 за посочен разход ==> salata] - com.readlogic.ReadFromDB
+Date: 20-03-2017 Time: 15:46:09 Message [Прочетена стойност: 10010] - com.readlogic.ReadFromDB
+Date: 20-03-2017 Time: 15:46:09 Message [Прочетена стойност: 1010] - com.readlogic.ReadFromDB
+Date: 20-03-2017 Time: 15:46:09 Message [Прочетена стойност: 11011010] - com.readlogic.ReadFromDB
+Date: 20-03-2017 Time: 15:46:09 Message [Запис на данни в PDF файл в Директория] - com.writelogic.WriteToPDF
+Date: 20-03-2017 Time: 15:46:09 Message [От: DataBase До: PDF Тип разход: salata] - com.GUI.GUIlogic$3
+Date: 20-03-2017 Time: 15:47:07 Message [Прочит на данни от база данни H2 за посочен разход ==> salata] - com.readlogic.ReadFromDB
+Date: 20-03-2017 Time: 15:47:07 Message [Прочетена стойност: 18] - com.readlogic.ReadFromDB
+Date: 20-03-2017 Time: 15:47:07 Message [Прочетена стойност: 10] - com.readlogic.ReadFromDB
+Date: 20-03-2017 Time: 15:47:07 Message [Прочетена стойност: 218] - com.readlogic.ReadFromDB
+Date: 20-03-2017 Time: 15:47:07 Message [Запис на данни в PDF файл в Директория] - com.writelogic.WriteToPDF
+Date: 20-03-2017 Time: 15:47:07 Message [От: DataBase До: PDF Тип разход: salata] - com.GUI.GUIlogic$3
+Date: 20-03-2017 Time: 15:47:17 Message [Входен файл: C:\Users\d.balamdzhiev\Documents\123.txt] - com.GUI.GUIlogic$1
+Date: 20-03-2017 Time: 15:47:18 Message [Прочит на данни от база данни H2 за посочен разход ==> salata] - com.readlogic.ReadFromDB
+Date: 20-03-2017 Time: 15:47:18 Message [Прочетена стойност: 18] - com.readlogic.ReadFromDB
+Date: 20-03-2017 Time: 15:47:18 Message [Прочетена стойност: 10] - com.readlogic.ReadFromDB
+Date: 20-03-2017 Time: 15:47:18 Message [Прочетена стойност: 218] - com.readlogic.ReadFromDB
+Date: 20-03-2017 Time: 15:47:18 Message [Запис на данни в PDF файл в Директория] - com.writelogic.WriteToPDF
+Date: 20-03-2017 Time: 15:47:18 Message [От: DataBase До: PDF Тип разход: salata] - com.GUI.GUIlogic$3
+Date: 20-03-2017 Time: 15:49:17 Message [==========Начало=============] - com.GUI.GUIlogic
+Date: 20-03-2017 Time: 15:49:26 Message [Входен файл: C:\Users\d.balamdzhiev\Documents\Pesho Birata\Files\CostTXT.txt] - com.GUI.GUIlogic$1
+Date: 20-03-2017 Time: 15:49:40 Message [Изходен файл: C:\Users\d.balamdzhiev\Documents\Pesho Birata\CostsPDFout.pdf] - com.GUI.GUIlogic$2
+Date: 20-03-2017 Time: 15:49:42 Message [Извърши се прочитане на текстов файл C:\Users\d.balamdzhiev\Documents\Pesho Birata\Files\CostTXT.txt за посочен разход  bira] - com.readlogic.ReadFromTxtFile
+Date: 20-03-2017 Time: 15:49:42 Message [Прочетена стойност: 245] - com.readlogic.ReadFromTxtFile
+Date: 20-03-2017 Time: 15:49:42 Message [Прочетена стойност: 12] - com.readlogic.ReadFromTxtFile
+Date: 20-03-2017 Time: 15:49:42 Message [Прочетена стойност: 13] - com.readlogic.ReadFromTxtFile
+Date: 20-03-2017 Time: 15:49:42 Message [Запис на данни в PDF файл в ДиректорияC:\Users\d.balamdzhiev\Documents\Pesho Birata\CostsPDFout.pdf] - com.writelogic.WriteToPDF
+Date: 20-03-2017 Time: 15:49:42 Message [Записани стойности: Разход- bira Стойност: 245] - com.writelogic.WriteToPDF
+Date: 20-03-2017 Time: 15:49:42 Message [Записани стойности: Разход- bira Стойност: 12] - com.writelogic.WriteToPDF
+Date: 20-03-2017 Time: 15:49:42 Message [Записани стойности: Разход- bira Стойност: 13] - com.writelogic.WriteToPDF
+Date: 20-03-2017 Time: 15:49:42 Message [От: TXT До: PDF Тип разход: bira] - com.GUI.GUIlogic$3
+Date: 20-03-2017 Time: 15:50:03 Message [Входен файл: C:\Users\d.balamdzhiev\Documents\Pesho Birata\Files\CostXML.xml] - com.GUI.GUIlogic$1
+Date: 20-03-2017 Time: 15:50:05 Message [Извърши се прочит на xml файл чрез DOM Parser.C:\Users\d.balamdzhiev\Documents\Pesho Birata\Files\CostXML.xml за посочен разход ==> bira] - com.readlogic.ReadXMLwithDOM
+Date: 20-03-2017 Time: 15:50:05 Message [Прочетена стойност: 10101010] - com.readlogic.ReadXMLwithDOM
+Date: 20-03-2017 Time: 15:50:05 Message [Прочетена стойност: 10101100] - com.readlogic.ReadXMLwithDOM
+Date: 20-03-2017 Time: 15:50:05 Message [Прочетена стойност: 101] - com.readlogic.ReadXMLwithDOM
+Date: 20-03-2017 Time: 15:50:05 Message [Запис на данни в PDF файл в ДиректорияC:\Users\d.balamdzhiev\Documents\Pesho Birata\CostsPDFout.pdf] - com.writelogic.WriteToPDF
+Date: 20-03-2017 Time: 15:50:05 Message [Записани стойности: Разход- bira Стойност: 101] - com.writelogic.WriteToPDF
+Date: 20-03-2017 Time: 15:50:05 Message [Записани стойности: Разход- bira Стойност: 10101010] - com.writelogic.WriteToPDF
+Date: 20-03-2017 Time: 15:50:05 Message [Записани стойности: Разход- bira Стойност: 10101100] - com.writelogic.WriteToPDF
+Date: 20-03-2017 Time: 15:50:05 Message [От: DOM До: PDF Тип разход: bira] - com.GUI.GUIlogic$3
+Date: 20-03-2017 Time: 15:50:18 Message [Запис на данни в PDF файл в ДиректорияC:\Users\d.balamdzhiev\Documents\Pesho Birata\CostsPDFout.pdf] - com.writelogic.WriteToPDF
+Date: 20-03-2017 Time: 15:50:18 Message [От: JAXB До: PDF Тип разход: meze] - com.GUI.GUIlogic$3
+Date: 20-03-2017 Time: 15:50:41 Message [Запис на данни в PDF файл в ДиректорияC:\Users\d.balamdzhiev\Documents\Pesho Birata\CostsPDFout.pdf] - com.writelogic.WriteToPDF
+Date: 20-03-2017 Time: 15:50:41 Message [Записани стойности: Разход- zele Стойност: 1000100010001] - com.writelogic.WriteToPDF
+Date: 20-03-2017 Time: 15:50:41 Message [Записани стойности: Разход- bira Стойност: 101] - com.writelogic.WriteToPDF
+Date: 20-03-2017 Time: 15:50:41 Message [Записани стойности: Разход- bira Стойност: 10101010] - com.writelogic.WriteToPDF
+Date: 20-03-2017 Time: 15:50:41 Message [Записани стойности: Разход- meze Стойност: 11010001] - com.writelogic.WriteToPDF
+Date: 20-03-2017 Time: 15:50:41 Message [Записани стойности: Разход- meze Стойност: 10111] - com.writelogic.WriteToPDF
+Date: 20-03-2017 Time: 15:50:41 Message [Записани стойности: Разход- fitnes Стойност: 11101] - com.writelogic.WriteToPDF
+Date: 20-03-2017 Time: 15:50:41 Message [Записани стойности: Разход- bira Стойност: 10101100] - com.writelogic.WriteToPDF
+Date: 20-03-2017 Time: 15:50:41 Message [Записани стойности: Разход- type Стойност: 11101] - com.writelogic.WriteToPDF
+Date: 20-03-2017 Time: 15:50:41 Message [Записани стойности: Разход- zele Стойност: 100000001] - com.writelogic.WriteToPDF
+Date: 20-03-2017 Time: 15:50:41 Message [Записани стойности: Разход- zele Стойност: 10000000000010001] - com.writelogic.WriteToPDF
+Date: 20-03-2017 Time: 15:50:41 Message [От: JAXB До: PDF Тип разход: meze] - com.GUI.GUIlogic$3
+Date: 20-03-2017 Time: 15:52:02 Message [Запис на данни в PDF файл в ДиректорияC:\Users\d.balamdzhiev\Documents\Pesho Birata\CostsPDFout.pdf] - com.writelogic.WriteToPDF
+Date: 20-03-2017 Time: 15:52:02 Message [Записани стойности: Разход- zele Стойност: 401] - com.writelogic.WriteToPDF
+Date: 20-03-2017 Time: 15:52:02 Message [Записани стойности: Разход- fitnes Стойност: 35] - com.writelogic.WriteToPDF
+Date: 20-03-2017 Time: 15:52:02 Message [Записани стойности: Разход- type Стойност: 35] - com.writelogic.WriteToPDF
+Date: 20-03-2017 Time: 15:52:02 Message [Записани стойности: Разход- zele Стойност: 10421] - com.writelogic.WriteToPDF
+Date: 20-03-2017 Time: 15:52:02 Message [Записани стойности: Разход- zele Стойност: 200021] - com.writelogic.WriteToPDF
+Date: 20-03-2017 Time: 15:52:02 Message [Записани стойности: Разход- bira Стойност: 254] - com.writelogic.WriteToPDF
+Date: 20-03-2017 Time: 15:52:02 Message [Записани стойности: Разход- bira Стойност: 5] - com.writelogic.WriteToPDF
+Date: 20-03-2017 Time: 15:52:02 Message [Записани стойности: Разход- meze Стойност: 27] - com.writelogic.WriteToPDF
+Date: 20-03-2017 Time: 15:52:02 Message [Записани стойности: Разход- meze Стойност: 321] - com.writelogic.WriteToPDF
+Date: 20-03-2017 Time: 15:52:02 Message [Записани стойности: Разход- bira Стойност: 252] - com.writelogic.WriteToPDF
+Date: 20-03-2017 Time: 15:52:02 Message [От: JAXB До: PDF Тип разход: meze] - com.GUI.GUIlogic$3
+Date: 20-03-2017 Time: 15:52:45 Message [Извърши се прочит на xml файл чрез StAX Parser.Files\CostXML.xml за посочен разход ==> meze] - com.readlogic.ReadXMLwithStAX
+Date: 20-03-2017 Time: 15:52:45 Message [Прочетена стойност: 321] - com.readlogic.ReadXMLwithStAX
+Date: 20-03-2017 Time: 15:52:45 Message [Прочетена стойност: 27] - com.readlogic.ReadXMLwithStAX
+Date: 20-03-2017 Time: 15:52:45 Message [Запис на данни в PDF файл в ДиректорияC:\Users\d.balamdzhiev\Documents\Pesho Birata\CostsPDFout.pdf] - com.writelogic.WriteToPDF
+Date: 20-03-2017 Time: 15:52:45 Message [Записани стойности: Разход- meze Стойност: 321] - com.writelogic.WriteToPDF
+Date: 20-03-2017 Time: 15:52:45 Message [Записани стойности: Разход- meze Стойност: 27] - com.writelogic.WriteToPDF
+Date: 20-03-2017 Time: 15:52:45 Message [От: StAX До: PDF Тип разход: meze] - com.GUI.GUIlogic$3
+Date: 20-03-2017 Time: 15:53:22 Message [Входен файл: C:\Users\d.balamdzhiev\Documents\Pesho Birata\Files\CostXML.xml] - com.GUI.GUIlogic$1
+Date: 20-03-2017 Time: 15:53:27 Message [Запис на данни в PDF файл в ДиректорияC:\Users\d.balamdzhiev\Documents\Pesho Birata\CostsPDFout.pdf] - com.writelogic.WriteToPDF
+Date: 20-03-2017 Time: 15:53:27 Message [Записани стойности: Разход- meze Стойност: 10111] - com.writelogic.WriteToPDF
+Date: 20-03-2017 Time: 15:53:27 Message [Записани стойности: Разход- bira Стойност: 101] - com.writelogic.WriteToPDF
+Date: 20-03-2017 Time: 15:53:27 Message [Записани стойности: Разход- zele Стойност: 1000100010001] - com.writelogic.WriteToPDF
+Date: 20-03-2017 Time: 15:53:27 Message [Записани стойности: Разход- type Стойност: 11101] - com.writelogic.WriteToPDF
+Date: 20-03-2017 Time: 15:53:27 Message [Записани стойности: Разход- fitnes Стойност: 11101] - com.writelogic.WriteToPDF
+Date: 20-03-2017 Time: 15:53:27 Message [Записани стойности: Разход- zele Стойност: 100000001] - com.writelogic.WriteToPDF
+Date: 20-03-2017 Time: 15:53:27 Message [Записани стойности: Разход- bira Стойност: 10101100] - com.writelogic.WriteToPDF
+Date: 20-03-2017 Time: 15:53:27 Message [Записани стойности: Разход- zele Стойност: 10000000000010001] - com.writelogic.WriteToPDF
+Date: 20-03-2017 Time: 15:53:27 Message [Записани стойности: Разход- bira Стойност: 10101010] - com.writelogic.WriteToPDF
+Date: 20-03-2017 Time: 15:53:27 Message [Записани стойности: Разход- meze Стойност: 11010001] - com.writelogic.WriteToPDF
+Date: 20-03-2017 Time: 15:53:27 Message [От: JAXB До: PDF Тип разход: meze] - com.GUI.GUIlogic$3
+Date: 20-03-2017 Time: 15:53:50 Message [Запис на данни в PDF файл в ДиректорияC:\Users\d.balamdzhiev\Documents\Pesho Birata\CostsPDFout.pdf] - com.writelogic.WriteToPDF
+Date: 20-03-2017 Time: 15:53:50 Message [Записани стойности: Разход- bira Стойност: 10101100] - com.writelogic.WriteToPDF
+Date: 20-03-2017 Time: 15:53:50 Message [Записани стойности: Разход- meze Стойност: 11010001] - com.writelogic.WriteToPDF
+Date: 20-03-2017 Time: 15:53:50 Message [Записани стойности: Разход- bira Стойност: 10101010] - com.writelogic.WriteToPDF
+Date: 20-03-2017 Time: 15:53:50 Message [Записани стойности: Разход- fitnes Стойност: 11101] - com.writelogic.WriteToPDF
+Date: 20-03-2017 Time: 15:53:50 Message [Записани стойности: Разход- bira Стойност: 101] - com.writelogic.WriteToPDF
+Date: 20-03-2017 Time: 15:53:50 Message [Записани стойности: Разход- zele Стойност: 100000001] - com.writelogic.WriteToPDF
+Date: 20-03-2017 Time: 15:53:50 Message [Записани стойности: Разход- type Стойност: 11101] - com.writelogic.WriteToPDF
+Date: 20-03-2017 Time: 15:53:50 Message [Записани стойности: Разход- zele Стойност: 1000100010001] - com.writelogic.WriteToPDF
+Date: 20-03-2017 Time: 15:53:50 Message [Записани стойности: Разход- zele Стойност: 10000000000010001] - com.writelogic.WriteToPDF
+Date: 20-03-2017 Time: 15:53:50 Message [Записани стойности: Разход- meze Стойност: 10111] - com.writelogic.WriteToPDF
+Date: 20-03-2017 Time: 15:53:50 Message [От: JAXB До: PDF Тип разход: zele] - com.GUI.GUIlogic$3
+Date: 20-03-2017 Time: 15:54:26 Message [==========Начало=============] - com.GUI.GUIlogic
+Date: 20-03-2017 Time: 15:54:38 Message [Входен файл: C:\Users\d.balamdzhiev\Documents\Pesho Birata\Files\CostXML.xml] - com.GUI.GUIlogic$1
+Date: 20-03-2017 Time: 15:54:43 Message [Изходен файл: C:\Users\d.balamdzhiev\Documents\123.txt] - com.GUI.GUIlogic$2
+Date: 20-03-2017 Time: 15:54:44 Message [Запис на данни в текстов файл: C:\Users\d.balamdzhiev\Documents\123.txt] - com.writelogic.WriteToTXT
+Date: 20-03-2017 Time: 15:54:44 Message [Записана стойност: C:\Users\d.balamdzhiev\Documents\123.txt] - com.writelogic.WriteToTXT
+Date: 20-03-2017 Time: 15:54:44 Message [Записана стойност: C:\Users\d.balamdzhiev\Documents\123.txt] - com.writelogic.WriteToTXT
+Date: 20-03-2017 Time: 15:54:44 Message [Записана стойност: C:\Users\d.balamdzhiev\Documents\123.txt] - com.writelogic.WriteToTXT
+Date: 20-03-2017 Time: 15:54:44 Message [Записана стойност: C:\Users\d.balamdzhiev\Documents\123.txt] - com.writelogic.WriteToTXT
+Date: 20-03-2017 Time: 15:54:44 Message [Записана стойност: C:\Users\d.balamdzhiev\Documents\123.txt] - com.writelogic.WriteToTXT
+Date: 20-03-2017 Time: 15:54:44 Message [Записана стойност: C:\Users\d.balamdzhiev\Documents\123.txt] - com.writelogic.WriteToTXT
+Date: 20-03-2017 Time: 15:54:44 Message [Записана стойност: C:\Users\d.balamdzhiev\Documents\123.txt] - com.writelogic.WriteToTXT
+Date: 20-03-2017 Time: 15:54:44 Message [Записана стойност: C:\Users\d.balamdzhiev\Documents\123.txt] - com.writelogic.WriteToTXT
+Date: 20-03-2017 Time: 15:54:44 Message [Записана стойност: C:\Users\d.balamdzhiev\Documents\123.txt] - com.writelogic.WriteToTXT
+Date: 20-03-2017 Time: 15:54:44 Message [Записана стойност: C:\Users\d.balamdzhiev\Documents\123.txt] - com.writelogic.WriteToTXT
+Date: 20-03-2017 Time: 15:54:45 Message [От: JAXB До: TXT Тип разход: zele] - com.GUI.GUIlogic$3
+Date: 20-03-2017 Time: 15:57:05 Message [==========Начало=============] - com.GUI.GUIlogic
+Date: 20-03-2017 Time: 15:57:13 Message [==========Начало=============] - com.GUI.GUIlogic
+Date: 20-03-2017 Time: 15:57:18 Message [==========Начало=============] - com.GUI.GUIlogic
+Date: 20-03-2017 Time: 15:57:57 Message [==========Начало=============] - com.GUI.GUIlogic
+Date: 20-03-2017 Time: 15:58:18 Message [Извърши се прочит на xml файл чрез DOM Parser.Files\CostXML.xml за посочен разход ==> zele] - com.readlogic.ReadXMLwithDOM
+Date: 20-03-2017 Time: 15:58:18 Message [Прочетена стойност: 5] - com.readlogic.ReadXMLwithDOM
+Date: 20-03-2017 Time: 15:58:18 Message [Прочетена стойност: 19] - com.readlogic.ReadXMLwithDOM
+Date: 20-03-2017 Time: 15:58:18 Message [Прочетена стойност: 15] - com.readlogic.ReadXMLwithDOM
+Date: 20-03-2017 Time: 15:58:26 Message [==========Начало=============] - com.GUI.GUIlogic
+Date: 20-03-2017 Time: 15:58:47 Message [==========Начало=============] - com.GUI.GUIlogic
+Date: 20-03-2017 Time: 15:59:05 Message [Входен файл: C:\Users\d.balamdzhiev\Documents\Pesho Birata\Files\CostXML.xml] - com.GUI.GUIlogic$1
+Date: 20-03-2017 Time: 15:59:08 Message [Изходен файл: C:\Users\d.balamdzhiev\Documents\123.txt] - com.GUI.GUIlogic$2
+Date: 20-03-2017 Time: 15:59:10 Message [Запис на данни в текстов файл: C:\Users\d.balamdzhiev\Documents\123.txt] - com.writelogic.WriteToTXT
+Date: 20-03-2017 Time: 15:59:10 Message [Записана стойност: C:\Users\d.balamdzhiev\Documents\123.txt] - com.writelogic.WriteToTXT
+Date: 20-03-2017 Time: 15:59:10 Message [Записана стойност: C:\Users\d.balamdzhiev\Documents\123.txt] - com.writelogic.WriteToTXT
+Date: 20-03-2017 Time: 15:59:10 Message [Записана стойност: C:\Users\d.balamdzhiev\Documents\123.txt] - com.writelogic.WriteToTXT
+Date: 20-03-2017 Time: 15:59:10 Message [От: JAXB До: TXT Тип разход: zele] - com.GUI.GUIlogic$3
+Date: 20-03-2017 Time: 15:59:19 Message [Запис на данни в текстов файл: C:\Users\d.balamdzhiev\Documents\123.txt] - com.writelogic.WriteToTXT
+Date: 20-03-2017 Time: 15:59:19 Message [Записана стойност: C:\Users\d.balamdzhiev\Documents\123.txt] - com.writelogic.WriteToTXT
+Date: 20-03-2017 Time: 15:59:19 Message [Записана стойност: C:\Users\d.balamdzhiev\Documents\123.txt] - com.writelogic.WriteToTXT
+Date: 20-03-2017 Time: 15:59:19 Message [Записана стойност: C:\Users\d.balamdzhiev\Documents\123.txt] - com.writelogic.WriteToTXT
+Date: 20-03-2017 Time: 15:59:19 Message [От: JAXB До: TXT Тип разход: zele] - com.GUI.GUIlogic$3
+Date: 20-03-2017 Time: 15:59:40 Message [Запис на данни в база данни H2 таблица PESHOBIRATAOUT] - com.writelogic.WriteToDB
+Date: 20-03-2017 Time: 15:59:40 Message [От: JAXB До: DB Тип разход: zele] - com.GUI.GUIlogic$3
+Date: 20-03-2017 Time: 15:59:54 Message [Прочит на данни от база данни H2 за посочен разход ==> вино] - com.readlogic.ReadFromDB
+Date: 20-03-2017 Time: 15:59:54 Message [Запис на данни в база данни H2 таблица PESHOBIRATAOUT] - com.writelogic.WriteToDB
+Date: 20-03-2017 Time: 15:59:54 Message [От: DataBase До: DB Тип разход: вино] - com.GUI.GUIlogic$3
+Date: 20-03-2017 Time: 16:00:02 Message [Прочит на данни от база данни H2 за посочен разход ==> вино] - com.readlogic.ReadFromDB
+Date: 20-03-2017 Time: 16:00:02 Message [Прочетена стойност: 12] - com.readlogic.ReadFromDB
+Date: 20-03-2017 Time: 16:00:02 Message [Запис на данни в база данни H2 таблица PESHOBIRATAOUT] - com.writelogic.WriteToDB
+Date: 20-03-2017 Time: 16:00:02 Message [От: DataBase До: DB Тип разход: вино] - com.GUI.GUIlogic$3
+Date: 20-03-2017 Time: 16:00:07 Message [Прочит на данни от база данни H2 за посочен разход ==> вино] - com.readlogic.ReadFromDB
+Date: 20-03-2017 Time: 16:00:07 Message [Прочетена стойност: 1010] - com.readlogic.ReadFromDB
+Date: 20-03-2017 Time: 16:00:07 Message [Запис на данни в база данни H2 таблица PESHOBIRATAOUT] - com.writelogic.WriteToDB
+Date: 20-03-2017 Time: 16:00:07 Message [От: DataBase До: DB Тип разход: вино] - com.GUI.GUIlogic$3
+Date: 20-03-2017 Time: 16:00:13 Message [Прочит на данни от база данни H2 за посочен разход ==> вино] - com.readlogic.ReadFromDB
+Date: 20-03-2017 Time: 16:00:13 Message [Прочетена стойност: A] - com.readlogic.ReadFromDB
+Date: 20-03-2017 Time: 16:00:13 Message [Запис на данни в база данни H2 таблица PESHOBIRATAOUT] - com.writelogic.WriteToDB
+Date: 20-03-2017 Time: 16:00:13 Message [От: DataBase До: DB Тип разход: вино] - com.GUI.GUIlogic$3
+Date: 20-03-2017 Time: 16:00:49 Message [==========Начало=============] - com.GUI.GUIlogic
+Date: 20-03-2017 Time: 16:01:09 Message [Прочит на данни от база данни H2 за посочен разход ==> вино] - com.readlogic.ReadFromDB
+Date: 20-03-2017 Time: 16:01:09 Message [Прочетена стойност: 10] - com.readlogic.ReadFromDB
+Date: 20-03-2017 Time: 16:01:09 Message [Запис на данни в база данни H2 таблица PESHOBIRATAOUT] - com.writelogic.WriteToDB
+Date: 20-03-2017 Time: 16:01:09 Message [От: DataBase До: DB Тип разход: вино] - com.GUI.GUIlogic$3
+Date: 20-03-2017 Time: 16:01:20 Message [Изходен файл: C:\Users\d.balamdzhiev\Documents\Pesho Birata\CostsPDFout.pdf] - com.GUI.GUIlogic$2
+Date: 20-03-2017 Time: 16:01:22 Message [Прочит на данни от база данни H2 за посочен разход ==> вино] - com.readlogic.ReadFromDB
+Date: 20-03-2017 Time: 16:01:22 Message [Прочетена стойност: 10] - com.readlogic.ReadFromDB
+Date: 20-03-2017 Time: 16:01:22 Message [Запис на данни в PDF файл в Директория] - com.writelogic.WriteToPDF
+Date: 20-03-2017 Time: 16:01:22 Message [От: DataBase До: PDF Тип разход: вино] - com.GUI.GUIlogic$3
+Date: 20-03-2017 Time: 16:01:34 Message [Входен файл: C:\Users\d.balamdzhiev\Documents\123.txt] - com.GUI.GUIlogic$1
+Date: 20-03-2017 Time: 16:01:37 Message [Прочит на данни от база данни H2 за посочен разход ==> вино] - com.readlogic.ReadFromDB
+Date: 20-03-2017 Time: 16:01:37 Message [Прочетена стойност: 10] - com.readlogic.ReadFromDB
+Date: 20-03-2017 Time: 16:01:37 Message [Запис на данни в PDF файл в Директория] - com.writelogic.WriteToPDF
+Date: 20-03-2017 Time: 16:01:37 Message [От: DataBase До: PDF Тип разход: вино] - com.GUI.GUIlogic$3
+Date: 20-03-2017 Time: 16:01:54 Message [==========Начало=============] - com.GUI.GUIlogic
+Date: 20-03-2017 Time: 16:02:04 Message [Изходен файл: C:\Users\d.balamdzhiev\Documents\Pesho Birata\CostsPDFout.pdf] - com.GUI.GUIlogic$2
+Date: 20-03-2017 Time: 16:02:06 Message [Входен файл: C:\Users\d.balamdzhiev\Documents\123.txt] - com.GUI.GUIlogic$1
+Date: 20-03-2017 Time: 16:02:08 Message [Прочит на данни от база данни H2 за посочен разход ==> вино] - com.readlogic.ReadFromDB
+Date: 20-03-2017 Time: 16:02:08 Message [Прочетена стойност: 10] - com.readlogic.ReadFromDB
+Date: 20-03-2017 Time: 16:02:08 Message [Запис на данни в PDF файл в Директория] - com.writelogic.WriteToPDF
+Date: 20-03-2017 Time: 16:02:08 Message [От: DataBase До: PDF Тип разход: вино] - com.GUI.GUIlogic$3
+Date: 20-03-2017 Time: 16:02:37 Message [Входен файл: C:\Users\d.balamdzhiev\Documents\Pesho Birata\Files\CostXML.xml] - com.GUI.GUIlogic$1
+Date: 20-03-2017 Time: 16:02:39 Message [Запис на данни в PDF файл в ДиректорияC:\Users\d.balamdzhiev\Documents\Pesho Birata\CostsPDFout.pdf] - com.writelogic.WriteToPDF
+Date: 20-03-2017 Time: 16:02:39 Message [Записани стойности: Разход- zele Стойност: 15] - com.writelogic.WriteToPDF
+Date: 20-03-2017 Time: 16:02:39 Message [Записани стойности: Разход- zele Стойност: 5] - com.writelogic.WriteToPDF
+Date: 20-03-2017 Time: 16:02:39 Message [Записани стойности: Разход- zele Стойност: 19] - com.writelogic.WriteToPDF
+Date: 20-03-2017 Time: 16:02:39 Message [От: JAXB До: PDF Тип разход: зеле] - com.GUI.GUIlogic$3
+Date: 20-03-2017 Time: 16:02:50 Message [Запис на данни в PDF файл в ДиректорияC:\Users\d.balamdzhiev\Documents\Pesho Birata\CostsPDFout.pdf] - com.writelogic.WriteToPDF
+Date: 20-03-2017 Time: 16:02:50 Message [Записани стойности: Разход- zele Стойност: 13] - com.writelogic.WriteToPDF
+Date: 20-03-2017 Time: 16:02:50 Message [Записани стойности: Разход- zele Стойност: F] - com.writelogic.WriteToPDF
+Date: 20-03-2017 Time: 16:02:50 Message [Записани стойности: Разход- zele Стойност: 5] - com.writelogic.WriteToPDF
+Date: 20-03-2017 Time: 16:02:50 Message [От: JAXB До: PDF Тип разход: зеле] - com.GUI.GUIlogic$3
+Date: 20-03-2017 Time: 16:03:44 Message [==========Начало=============] - com.GUI.GUIlogic
+Date: 20-03-2017 Time: 16:04:14 Message [Изходен файл: C:\Users\d.balamdzhiev\Documents\Pesho Birata\ResultFiles\CostXMLout.xml] - com.GUI.GUIlogic$2
+Date: 20-03-2017 Time: 16:04:16 Message [Прочит на данни от база данни H2 за посочен разход ==> meze] - com.readlogic.ReadFromDB
+Date: 20-03-2017 Time: 16:04:17 Message [Прочетена стойност: 10101010] - com.readlogic.ReadFromDB
+Date: 20-03-2017 Time: 16:04:17 Message [Прочетена стойност: 1100] - com.readlogic.ReadFromDB
+Date: 20-03-2017 Time: 16:04:17 Message [Прочетена стойност: 10000] - com.readlogic.ReadFromDB
+Date: 20-03-2017 Time: 16:04:17 Message [От: DataBase До: XML Тип разход: meze] - com.GUI.GUIlogic$3
+Date: 20-03-2017 Time: 16:06:05 Message [==========Начало=============] - com.GUI.GUIlogic
+Date: 20-03-2017 Time: 16:06:22 Message [Изходен файл: C:\Users\d.balamdzhiev\Documents\Pesho Birata\ResultFiles\CostXMLout.xml] - com.GUI.GUIlogic$2
+Date: 20-03-2017 Time: 16:06:22 Message [Прочит на данни от база данни H2 за посочен разход ==> meze] - com.readlogic.ReadFromDB
+Date: 20-03-2017 Time: 16:06:22 Message [Прочетена стойност: 10101010] - com.readlogic.ReadFromDB
+Date: 20-03-2017 Time: 16:06:22 Message [Прочетена стойност: 1100] - com.readlogic.ReadFromDB
+Date: 20-03-2017 Time: 16:06:22 Message [Прочетена стойност: 10000] - com.readlogic.ReadFromDB
+Date: 20-03-2017 Time: 16:06:22 Message [Запис на данни в xml файл: C:\Users\d.balamdzhiev\Documents\Pesho Birata\ResultFiles\CostXMLout.xml] - com.writelogic.WriteToXML
+Date: 20-03-2017 Time: 16:06:23 Message [Записaни данни: {meze=10101010, meze=1100, meze=10000}] - com.writelogic.WriteToXML
+Date: 20-03-2017 Time: 16:06:23 Message [От: DataBase До: XML Тип разход: meze] - com.GUI.GUIlogic$3
+Date: 20-03-2017 Time: 16:06:29 Message [Прочит на данни от база данни H2 за посочен разход ==> meze] - com.readlogic.ReadFromDB
+Date: 20-03-2017 Time: 16:06:29 Message [Прочетена стойност: 10101010] - com.readlogic.ReadFromDB
+Date: 20-03-2017 Time: 16:06:29 Message [Прочетена стойност: 1100] - com.readlogic.ReadFromDB
+Date: 20-03-2017 Time: 16:06:29 Message [Прочетена стойност: 10000] - com.readlogic.ReadFromDB
+Date: 20-03-2017 Time: 16:06:29 Message [Запис на данни в xml файл: C:\Users\d.balamdzhiev\Documents\Pesho Birata\ResultFiles\CostXMLout.xml] - com.writelogic.WriteToXML
+Date: 20-03-2017 Time: 16:06:29 Message [Записaни данни: {meze=10000, meze=1100, meze=10101010}] - com.writelogic.WriteToXML
+Date: 20-03-2017 Time: 16:06:29 Message [От: DataBase До: XML Тип разход: meze] - com.GUI.GUIlogic$3
+Date: 20-03-2017 Time: 16:06:52 Message [Изходен файл: C:\Users\d.balamdzhiev\Documents\Pesho Birata\ResultFiles\CostsPDFout.pdf] - com.GUI.GUIlogic$2
+Date: 20-03-2017 Time: 16:06:54 Message [Прочит на данни от база данни H2 за посочен разход ==> meze] - com.readlogic.ReadFromDB
+Date: 20-03-2017 Time: 16:06:54 Message [Прочетена стойност: 10101010] - com.readlogic.ReadFromDB
+Date: 20-03-2017 Time: 16:06:54 Message [Прочетена стойност: 1100] - com.readlogic.ReadFromDB
+Date: 20-03-2017 Time: 16:06:54 Message [Прочетена стойност: 10000] - com.readlogic.ReadFromDB
+Date: 20-03-2017 Time: 16:06:54 Message [Запис на данни в PDF файл в ДиректорияC:\Users\d.balamdzhiev\Documents\Pesho Birata\ResultFiles\CostsPDFout.pdf] - com.writelogic.WriteToPDF
+Date: 20-03-2017 Time: 16:06:54 Message [Записани стойности: Разход- meze Стойност: 10101010] - com.writelogic.WriteToPDF
+Date: 20-03-2017 Time: 16:06:54 Message [Записани стойности: Разход- meze Стойност: 1100] - com.writelogic.WriteToPDF
+Date: 20-03-2017 Time: 16:06:54 Message [Записани стойности: Разход- meze Стойност: 10000] - com.writelogic.WriteToPDF
+Date: 20-03-2017 Time: 16:06:55 Message [От: DataBase До: PDF Тип разход: meze] - com.GUI.GUIlogic$3
+Date: 20-03-2017 Time: 16:07:26 Message [Прочит на данни от база данни H2 за посочен разход ==> meze] - com.readlogic.ReadFromDB
+Date: 20-03-2017 Time: 16:07:26 Message [Прочетена стойност: 10101010] - com.readlogic.ReadFromDB
+Date: 20-03-2017 Time: 16:07:26 Message [Прочетена стойност: 1100] - com.readlogic.ReadFromDB
+Date: 20-03-2017 Time: 16:07:26 Message [Прочетена стойност: 10000] - com.readlogic.ReadFromDB
+Date: 20-03-2017 Time: 16:07:26 Message [Запис на данни в база данни H2 таблица PESHOBIRATAOUT] - com.writelogic.WriteToDB
+Date: 20-03-2017 Time: 16:07:26 Message [От: DataBase До: DB Тип разход: meze] - com.GUI.GUIlogic$3
+Date: 20-03-2017 Time: 16:07:57 Message [==========Начало=============] - com.GUI.GUIlogic
+Date: 20-03-2017 Time: 16:08:09 Message [Прочит на данни от база данни H2 за посочен разход ==> bira] - com.readlogic.ReadFromDB
+Date: 20-03-2017 Time: 16:08:09 Message [Прочетена стойност: 520] - com.readlogic.ReadFromDB
+Date: 20-03-2017 Time: 16:08:09 Message [Прочетена стойност: 12] - com.readlogic.ReadFromDB
+Date: 20-03-2017 Time: 16:08:32 Message [==========Начало=============] - com.GUI.GUIlogic
+Date: 20-03-2017 Time: 16:09:01 Message [Входен файл: C:\Users\d.balamdzhiev\Documents\Pesho Birata\Files\CostXML.xml] - com.GUI.GUIlogic$1
+Date: 20-03-2017 Time: 16:09:26 Message [Изходен файл: C:\Users\d.balamdzhiev\Documents\Pesho Birata\TestChart.pdf] - com.GUI.GUIlogic$2
+Date: 20-03-2017 Time: 16:09:29 Message [Запис на данни в PDF файл в ДиректорияC:\Users\d.balamdzhiev\Documents\Pesho Birata\TestChart.pdf] - com.writelogic.WriteToPDF
+Date: 20-03-2017 Time: 16:09:29 Message [Записани стойности: Разход- zele Стойност: 10011] - com.writelogic.WriteToPDF
+Date: 20-03-2017 Time: 16:09:29 Message [Записани стойности: Разход- zele Стойност: 101] - com.writelogic.WriteToPDF
+Date: 20-03-2017 Time: 16:09:29 Message [Записани стойности: Разход- zele Стойност: 1111] - com.writelogic.WriteToPDF
+Date: 20-03-2017 Time: 16:09:29 Message [От: JAXB До: PDF Тип разход: zele] - com.GUI.GUIlogic$3
+Date: 20-03-2017 Time: 16:20:05 Message [==========Начало=============] - com.GUI.GUIlogic
+Date: 20-03-2017 Time: 16:57:33 Message [==========Начало=============] - com.GUI.GUIlogic
+Date: 20-03-2017 Time: 16:57:57 Message [Входен файл: C:\Users\d.balamdzhiev\Documents\Pesho Birata\Files\CostXML.xml] - com.GUI.GUIlogic$1
+Date: 20-03-2017 Time: 16:58:04 Message [Изходен файл: C:\Users\d.balamdzhiev\Documents\asdasdas] - com.GUI.GUIlogic$2
+Date: 20-03-2017 Time: 16:58:12 Message [Извърши се прочит на xml файл чрез DOM Parser.C:\Users\d.balamdzhiev\Documents\Pesho Birata\Files\CostXML.xml за посочен разход ==> bira] - com.readlogic.ReadXMLwithDOM
+Date: 20-03-2017 Time: 16:58:12 Message [Прочетена стойност: 10101010] - com.readlogic.ReadXMLwithDOM
+Date: 20-03-2017 Time: 16:58:12 Message [Прочетена стойност: 10101100] - com.readlogic.ReadXMLwithDOM
+Date: 20-03-2017 Time: 16:58:12 Message [Прочетена стойност: 101] - com.readlogic.ReadXMLwithDOM
+Date: 20-03-2017 Time: 16:58:12 Message [Запис на данни в текстов файл: C:\Users\d.balamdzhiev\Documents\asdasdas] - com.writelogic.WriteToTXT
+Date: 20-03-2017 Time: 16:58:12 Message [Записана стойност: C:\Users\d.balamdzhiev\Documents\asdasdas] - com.writelogic.WriteToTXT
+Date: 20-03-2017 Time: 16:58:12 Message [Записана стойност: C:\Users\d.balamdzhiev\Documents\asdasdas] - com.writelogic.WriteToTXT
+Date: 20-03-2017 Time: 16:58:12 Message [Записана стойност: C:\Users\d.balamdzhiev\Documents\asdasdas] - com.writelogic.WriteToTXT
+Date: 20-03-2017 Time: 16:58:13 Message [От: DOM До: TXT Тип разход: bira] - com.GUI.GUIlogic$3
+Date: 20-03-2017 Time: 16:58:21 Message [Изходен файл: C:\Users\d.balamdzhiev\Documents\asdasdas.txt] - com.GUI.GUIlogic$2
+Date: 20-03-2017 Time: 16:58:23 Message [Извърши се прочит на xml файл чрез DOM Parser.C:\Users\d.balamdzhiev\Documents\Pesho Birata\Files\CostXML.xml за посочен разход ==> bira] - com.readlogic.ReadXMLwithDOM
+Date: 20-03-2017 Time: 16:58:23 Message [Прочетена стойност: 10101010] - com.readlogic.ReadXMLwithDOM
+Date: 20-03-2017 Time: 16:58:23 Message [Прочетена стойност: 10101100] - com.readlogic.ReadXMLwithDOM
+Date: 20-03-2017 Time: 16:58:23 Message [Прочетена стойност: 101] - com.readlogic.ReadXMLwithDOM
+Date: 20-03-2017 Time: 16:58:23 Message [Запис на данни в текстов файл: C:\Users\d.balamdzhiev\Documents\asdasdas.txt] - com.writelogic.WriteToTXT
+Date: 20-03-2017 Time: 16:58:23 Message [Записана стойност: C:\Users\d.balamdzhiev\Documents\asdasdas.txt] - com.writelogic.WriteToTXT
+Date: 20-03-2017 Time: 16:58:23 Message [Записана стойност: C:\Users\d.balamdzhiev\Documents\asdasdas.txt] - com.writelogic.WriteToTXT
+Date: 20-03-2017 Time: 16:58:23 Message [Записана стойност: C:\Users\d.balamdzhiev\Documents\asdasdas.txt] - com.writelogic.WriteToTXT
+Date: 20-03-2017 Time: 16:58:23 Message [От: DOM До: TXT Тип разход: bira] - com.GUI.GUIlogic$3
+Date: 20-03-2017 Time: 16:58:46 Message [Извърши се прочит на xml файл чрез DOM Parser.C:\Users\d.balamdzhiev\Documents\Pesho Birata\Files\CostXML.xml за посочен разход ==> zele] - com.readlogic.ReadXMLwithDOM
+Date: 20-03-2017 Time: 16:58:46 Message [Прочетена стойност: 5] - com.readlogic.ReadXMLwithDOM
+Date: 20-03-2017 Time: 16:58:46 Message [Прочетена стойност: 13] - com.readlogic.ReadXMLwithDOM
+Date: 20-03-2017 Time: 16:58:46 Message [Прочетена стойност: F] - com.readlogic.ReadXMLwithDOM
+Date: 20-03-2017 Time: 16:58:46 Message [Запис на данни в текстов файл: C:\Users\d.balamdzhiev\Documents\asdasdas.txt] - com.writelogic.WriteToTXT
+Date: 20-03-2017 Time: 16:58:46 Message [Записана стойност: C:\Users\d.balamdzhiev\Documents\asdasdas.txt] - com.writelogic.WriteToTXT
+Date: 20-03-2017 Time: 16:58:46 Message [Записана стойност: C:\Users\d.balamdzhiev\Documents\asdasdas.txt] - com.writelogic.WriteToTXT
+Date: 20-03-2017 Time: 16:58:46 Message [Записана стойност: C:\Users\d.balamdzhiev\Documents\asdasdas.txt] - com.writelogic.WriteToTXT
+Date: 20-03-2017 Time: 16:58:46 Message [От: DOM До: TXT Тип разход: zele] - com.GUI.GUIlogic$3
+Date: 20-03-2017 Time: 17:01:56 Message [==========Начало=============] - com.GUI.GUIlogic

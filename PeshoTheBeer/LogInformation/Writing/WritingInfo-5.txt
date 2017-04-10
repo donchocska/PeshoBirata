@@ -1,0 +1,7 @@
+Date: 23-03-2017 Time: 17:15:39 Message [Записана стойност: C:\Users\d.balamdzhiev\Documents\123.txt] - com.writelogic.WriteToTXT
+Date: 23-03-2017 Time: 17:15:39 Message [Записана стойност: C:\Users\d.balamdzhiev\Documents\123.txt] - com.writelogic.WriteToTXT
+Date: 23-03-2017 Time: 17:15:54 Message [Запис на данни в текстов файл: C:\Users\d.balamdzhiev\Documents\123.txt] - com.writelogic.WriteToTXT
+Date: 23-03-2017 Time: 17:16:01 Message [Запис на данни в текстов файл: C:\Users\d.balamdzhiev\Documents\123.txt] - com.writelogic.WriteToTXT
+Date: 23-03-2017 Time: 17:16:01 Message [Записана стойност: C:\Users\d.balamdzhiev\Documents\123.txt] - com.writelogic.WriteToTXT
+Date: 23-03-2017 Time: 17:16:01 Message [Записана стойност: C:\Users\d.balamdzhiev\Documents\123.txt] - com.writelogic.WriteToTXT
+Date: 23-03-2017 Time: 17:16:01 Message [Записана стойност: C:\Users\d.balamdzhiev\Documents\123.txt] - com.writelogic.WriteToTXT

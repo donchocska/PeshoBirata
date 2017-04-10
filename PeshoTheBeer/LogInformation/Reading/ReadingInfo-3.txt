@@ -1,0 +1,7 @@
+Date: 23-03-2017 Time: 17:18:27 Message [Прочетена стойност: 1010] - com.readlogic.ReadFromTxtFile
+Date: 23-03-2017 Time: 17:18:27 Message [Прочетена стойност: 10000] - com.readlogic.ReadFromTxtFile
+Date: 23-03-2017 Time: 17:18:27 Message [Прочетена стойност: 10110110] - com.readlogic.ReadFromTxtFile
+Date: 23-03-2017 Time: 17:18:27 Message [Прочетена стойност: 11] - com.readlogic.ReadFromTxtFile
+Date: 23-03-2017 Time: 17:18:27 Message [Прочетена стойност: 1010] - com.readlogic.ReadFromTxtFile
+Date: 23-03-2017 Time: 17:18:47 Message [Извърши се прочитане на текстов файл C:\Users\d.balamdzhiev\Documents\Pesho Birata\Files\CostTXT.txt за посочен разход  mezeaa] - com.readlogic.ReadFromTxtFile
+Date: 23-03-2017 Time: 17:21:13 Message [Извърши се прочитане на текстов файл C:\Users\d.balamdzhiev\Documents\Pesho Birata\Files\CostTXT.txt за посочен разход  asdasd] - com.readlogic.ReadFromTxtFile

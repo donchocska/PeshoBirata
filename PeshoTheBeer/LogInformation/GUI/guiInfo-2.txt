@@ -1,0 +1,50 @@
+Date: 24-03-2017 Time: 12:23:45 Message [========== Начало =============] - com.GUI.GUIlogic
+Date: 24-03-2017 Time: 12:24:25 Message [========== Начало =============] - com.GUI.GUIlogic
+Date: 24-03-2017 Time: 12:25:52 Message [========== Начало =============] - com.GUI.GUIlogic
+Date: 24-03-2017 Time: 12:26:14 Message [========== Начало =============] - com.GUI.GUIlogic
+Date: 24-03-2017 Time: 12:26:21 Message [========== Начало =============] - com.GUI.GUIlogic
+Date: 24-03-2017 Time: 13:31:57 Message [========== Начало =============] - com.GUI.GUIlogic
+Date: 24-03-2017 Time: 13:32:09 Message [========== Начало =============] - com.GUI.GUIlogic
+Date: 24-03-2017 Time: 13:39:47 Message [========== Начало =============] - com.GUI.GUIlogic
+Date: 24-03-2017 Time: 13:49:12 Message [========== Начало =============] - com.GUI.GUIlogic
+Date: 24-03-2017 Time: 13:51:49 Message [========== Начало =============] - com.GUI.GUIlogic
+Date: 24-03-2017 Time: 13:55:07 Message [========== Начало =============] - com.GUI.GUIlogic
+Date: 24-03-2017 Time: 14:05:31 Message [========== Начало =============] - com.GUI.GUIlogic
+Date: 24-03-2017 Time: 14:07:52 Message [========== Начало =============] - com.GUI.GUIlogic
+Date: 24-03-2017 Time: 14:09:39 Message [========== Начало =============] - com.GUI.GUIlogic
+Date: 24-03-2017 Time: 14:10:06 Message [========== Начало =============] - com.GUI.GUIlogic
+Date: 24-03-2017 Time: 14:11:32 Message [========== Начало =============] - com.GUI.GUIlogic
+Date: 24-03-2017 Time: 14:14:32 Message [========== Начало =============] - com.GUI.GUIlogic
+Date: 24-03-2017 Time: 14:26:22 Message [========== Начало =============] - com.GUI.GUIlogic
+Date: 24-03-2017 Time: 14:26:25 Message [========== Начало =============] - com.GUI.GUIlogic
+Date: 24-03-2017 Time: 14:26:25 Message [========== Начало =============] - com.GUI.GUIlogic
+Date: 24-03-2017 Time: 14:28:59 Message [========== Начало =============] - com.GUI.GUIlogic
+Date: 24-03-2017 Time: 14:29:00 Message [========== Начало =============] - com.GUI.GUIlogic
+Date: 24-03-2017 Time: 14:29:00 Message [========== Начало =============] - com.GUI.GUIlogic
+Date: 24-03-2017 Time: 14:29:42 Message [========== Начало =============] - com.GUI.GUIlogic
+Date: 24-03-2017 Time: 14:31:04 Message [========== Начало =============] - com.GUI.GUIlogic
+Date: 24-03-2017 Time: 14:34:10 Message [========== Начало =============] - com.GUI.GUIlogic
+Date: 24-03-2017 Time: 14:34:21 Message [========== Начало =============] - com.GUI.GUIlogic
+Date: 24-03-2017 Time: 14:34:21 Message [========== Начало =============] - com.GUI.GUIlogic
+Date: 24-03-2017 Time: 14:36:24 Message [========== Начало =============] - com.GUI.GUIlogic
+Date: 24-03-2017 Time: 14:59:02 Message [========== Начало =============] - com.GUI.GUIlogic
+Date: 24-03-2017 Time: 14:59:11 Message [От: TXT До: TXT Тип разход: Стойност на филтриране] - com.GUI.GUIlogic$3
+Date: 24-03-2017 Time: 14:59:11 Message [========== Край =============] - com.GUI.GUIlogic$3
+Date: 24-03-2017 Time: 14:59:19 Message [Входен файл: C:\Users\d.balamdzhiev\Documents\Pesho Birata\Files\CostTXT.txt] - com.GUI.GUIlogic$1
+Date: 24-03-2017 Time: 14:59:27 Message [Изходен файл: C:\Users\d.balamdzhiev\Documents\Chart.pdf] - com.GUI.GUIlogic$2
+Date: 24-03-2017 Time: 15:38:56 Message [========== Начало =============] - com.GUI.GUIlogic
+Date: 24-03-2017 Time: 15:39:18 Message [========== Начало =============] - com.GUI.GUIlogic
+Date: 24-03-2017 Time: 15:40:19 Message [========== Начало =============] - com.GUI.GUIlogic
+Date: 24-03-2017 Time: 15:40:41 Message [========== Начало =============] - com.GUI.GUIlogic
+Date: 24-03-2017 Time: 15:41:00 Message [========== Начало =============] - com.GUI.GUIlogic
+Date: 24-03-2017 Time: 15:42:37 Message [========== Начало =============] - com.GUI.GUIlogic
+Date: 24-03-2017 Time: 15:43:04 Message [========== Начало =============] - com.GUI.GUIlogic
+Date: 24-03-2017 Time: 15:43:23 Message [========== Начало =============] - com.GUI.GUIlogic
+Date: 24-03-2017 Time: 15:43:36 Message [========== Начало =============] - com.GUI.GUIlogic
+Date: 24-03-2017 Time: 15:48:07 Message [========== Начало =============] - com.GUI.GUIlogic
+Date: 24-03-2017 Time: 15:57:54 Message [========== Начало =============] - com.GUI.GUIlogic
+Date: 24-03-2017 Time: 15:57:54 Message [class java.lang.IllegalMonitorStateException null java.lang.IllegalMonitorStateException] - com.GUI.GUIlogic$7
+Date: 24-03-2017 Time: 15:58:37 Message [========== Начало =============] - com.GUI.GUIlogic
+Date: 24-03-2017 Time: 15:59:03 Message [========== Начало =============] - com.GUI.GUIlogic
+Date: 24-03-2017 Time: 15:59:32 Message [========== Начало =============] - com.GUI.GUIlogic
+Date: 24-03-2017 Time: 15:59:33 Message [class java.lang.IllegalMonitorStateException null java.lang.IllegalMonitorStateException] - com.GUI.GUIlogic$7

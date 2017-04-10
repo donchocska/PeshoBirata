@@ -1,0 +1,7 @@
+Date: 24-03-2017 Time: 12:21:33 Message [Запис на данни в PDF файл в ДиректорияC:\Users\d.balamdzhiev\Documents\Chart.pdf] - com.writelogic.WriteToPDF
+Date: 24-03-2017 Time: 12:27:06 Message [Запис на данни в текстов файл: Files\Няманужда.txt] - com.writelogic.WriteToTXT
+Date: 24-03-2017 Time: 12:27:06 Message [Записана стойност: Files\Няманужда.txt] - com.writelogic.WriteToTXT
+Date: 24-03-2017 Time: 12:27:06 Message [Записана стойност: Files\Няманужда.txt] - com.writelogic.WriteToTXT
+Date: 24-03-2017 Time: 12:27:06 Message [Записана стойност: Files\Няманужда.txt] - com.writelogic.WriteToTXT
+Date: 27-03-2017 Time: 09:10:09 Message [Запис на данни в текстов файл: C:\Users\d.balamdzhiev\Documents\123.txt] - com.writelogic.WriteToTXT
+Date: 27-03-2017 Time: 09:10:17 Message [Запис на данни в текстов файл: C:\Users\d.balamdzhiev\Documents\123.txt] - com.writelogic.WriteToTXT

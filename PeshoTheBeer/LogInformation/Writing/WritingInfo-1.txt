@@ -1,0 +1,7 @@
+Date: 27-03-2017 Time: 09:10:48 Message [Запис на данни в текстов файл: C:\Users\d.balamdzhiev\Documents\123.txt] - com.writelogic.WriteToTXT
+Date: 27-03-2017 Time: 09:13:05 Message [Запис на данни в текстов файл: C:\Users\d.balamdzhiev\Documents\123.txt] - com.writelogic.WriteToTXT
+Date: 27-03-2017 Time: 09:36:08 Message [Записани стойности: Разход- meze Стойност: 10111] - com.writelogic.WriteToPDF
+Date: 27-03-2017 Time: 09:36:08 Message [Записани стойности: Разход- meze Стойност: 11010001] - com.writelogic.WriteToPDF
+Date: 27-03-2017 Time: 09:36:08 Message [Запис на данни в PDF файл в ДиректорияC:\Users\d.balamdzhiev\Documents\Chart.pdf] - com.writelogic.WriteToPDF
+Date: 27-03-2017 Time: 09:37:42 Message [Записани стойности: Разход- meze Стойност: 11010001] - com.writelogic.WriteToPDF
+Date: 27-03-2017 Time: 09:37:42 Message [Записани стойности: Разход- meze Стойност: 10111] - com.writelogic.WriteToPDF

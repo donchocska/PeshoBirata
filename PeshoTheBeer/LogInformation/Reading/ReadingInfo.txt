@@ -1,0 +1,3 @@
+Date: 27-03-2017 Time: 09:15:29 Message [Извърши се прочитане на текстов файл C:\Users\d.balamdzhiev\Documents\Pesho Birata\Files\CostTXT.txt за посочен разход  A] - com.readlogic.ReadFromTxtFile
+Date: 27-03-2017 Time: 09:19:41 Message [Извърши се прочитане на текстов файл C:\Users\d.balamdzhiev\Documents\Pesho Birata\Files\CostTXT.txt за посочен разход  A] - com.readlogic.ReadFromTxtFile
+Date: 27-03-2017 Time: 09:22:05 Message [Извърши се прочитане на текстов файл C:\Users\d.balamdzhiev\Documents\Pesho Birata\Files\CostTXT.txt за посочен разход  bira] - com.readlogic.ReadFromTxtFile

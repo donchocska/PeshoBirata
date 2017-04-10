@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <map>
+        <pesho>
+            <bira>ракия</bira>
+            <bira>AA</bira>
+            <bira>AC</bira>
+            <meze>D1</meze>
+            <meze>17</meze>
+            <meze>луканка</meze>
+            <zele>0101</zele>
+            <bira>5</bira>
+            <meze>бирен фъстък</meze>
+            <fitnes>1D</fitnes>
+            <zele>010011</zele>
+            <type>1D</type>
+            <zele>01111</zele>
+        </pesho>
+    </map>
+</root>

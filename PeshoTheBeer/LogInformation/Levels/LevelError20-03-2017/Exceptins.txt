@@ -1,0 +1,6 @@
+Date: 20-03-2017 Time: 15:25:10 Message [class java.awt.event.ActionEvent null java.lang.NullPointerException] - com.GUI.GUIlogic$3
+Date: 20-03-2017 Time: 15:38:10 Message [class java.awt.event.ActionEvent null java.lang.NullPointerException] - com.GUI.GUIlogic$3
+Date: 20-03-2017 Time: 15:38:53 Message [class org.h2.jdbc.JdbcSQLException Database may be already in use: null. Possible solutions: close all other connection(s); use the server mode [90020-193]] - com.readlogic.ReadFromDB
+Date: 20-03-2017 Time: 15:40:54 Message [class java.awt.event.ActionEvent null java.lang.NullPointerException] - com.GUI.GUIlogic$3
+Date: 20-03-2017 Time: 15:41:15 Message [class java.awt.event.ActionEvent null java.lang.NullPointerException] - com.GUI.GUIlogic$3
+Date: 20-03-2017 Time: 15:45:34 Message [class java.awt.event.ActionEvent null java.lang.NullPointerException] - com.GUI.GUIlogic$3

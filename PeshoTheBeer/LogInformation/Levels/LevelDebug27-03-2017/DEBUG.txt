@@ -1,0 +1,169 @@
+Date: 27-03-2017 Time: 09:09:44 Message [===========Начало============] - com.main.Main
+Date: 27-03-2017 Time: 09:09:44 Message [Добре дошли в програмата на Пешо!!!] - com.main.Main
+Date: 27-03-2017 Time: 09:09:44 Message [Изберете мястото от където ще извличате данни:] - com.main.Main
+Date: 27-03-2017 Time: 09:09:44 Message [[1] Четене от текстовият файл] - com.main.Main
+Date: 27-03-2017 Time: 09:09:44 Message [[2] Четене от XML файла] - com.main.Main
+Date: 27-03-2017 Time: 09:09:44 Message [[3] Четене от базата данни] - com.main.Main
+Date: 27-03-2017 Time: 09:09:44 Message [[4] Изход] - com.main.Main
+Date: 27-03-2017 Time: 09:09:44 Message [Избор: ] - com.main.Main
+Date: 27-03-2017 Time: 09:10:07 Message [Резултата ще бъде прочетен с: ] - com.files.SourceForUse
+Date: 27-03-2017 Time: 09:10:07 Message [Логика от Класа /ReadFromTxtFile/ за посочен разход ==> A5] - com.readlogic.ReadFromTxtFile
+Date: 27-03-2017 Time: 09:10:09 Message [Резултата ще бъде записан във] - com.files.SourceForUse
+Date: 27-03-2017 Time: 09:10:09 Message [Текстов файл C:\Users\d.balamdzhiev\Documents\123.txt] - com.writelogic.WriteToTXT
+Date: 27-03-2017 Time: 09:10:09 Message [Четене от: TXT Запис в: TXT Тип разход: A5] - com.GUI.GUIlogic$3
+Date: 27-03-2017 Time: 09:10:16 Message [Резултата ще бъде прочетен с: ] - com.files.SourceForUse
+Date: 27-03-2017 Time: 09:10:16 Message [Логика от Класа /ReadFromTxtFile/ за посочен разход ==> A] - com.readlogic.ReadFromTxtFile
+Date: 27-03-2017 Time: 09:10:17 Message [Резултата ще бъде записан във] - com.files.SourceForUse
+Date: 27-03-2017 Time: 09:10:17 Message [Текстов файл C:\Users\d.balamdzhiev\Documents\123.txt] - com.writelogic.WriteToTXT
+Date: 27-03-2017 Time: 09:10:17 Message [Четене от: TXT Запис в: TXT Тип разход: A] - com.GUI.GUIlogic$3
+Date: 27-03-2017 Time: 09:10:47 Message [Резултата ще бъде прочетен с: ] - com.files.SourceForUse
+Date: 27-03-2017 Time: 09:10:47 Message [Логика от Класа /ReadFromTxtFile/ за посочен разход ==> A] - com.readlogic.ReadFromTxtFile
+Date: 27-03-2017 Time: 09:10:48 Message [Резултата ще бъде записан във] - com.files.SourceForUse
+Date: 27-03-2017 Time: 09:10:48 Message [Текстов файл C:\Users\d.balamdzhiev\Documents\123.txt] - com.writelogic.WriteToTXT
+Date: 27-03-2017 Time: 09:10:48 Message [Четене от: TXT Запис в: TXT Тип разход: A] - com.GUI.GUIlogic$3
+Date: 27-03-2017 Time: 09:12:37 Message [===========Начало============] - com.main.Main
+Date: 27-03-2017 Time: 09:12:37 Message [Добре дошли в програмата на Пешо!!!] - com.main.Main
+Date: 27-03-2017 Time: 09:12:37 Message [Изберете мястото от където ще извличате данни:] - com.main.Main
+Date: 27-03-2017 Time: 09:12:37 Message [[1] Четене от текстовият файл] - com.main.Main
+Date: 27-03-2017 Time: 09:12:37 Message [[2] Четене от XML файла] - com.main.Main
+Date: 27-03-2017 Time: 09:12:37 Message [[3] Четене от базата данни] - com.main.Main
+Date: 27-03-2017 Time: 09:12:37 Message [[4] Изход] - com.main.Main
+Date: 27-03-2017 Time: 09:12:37 Message [Избор: ] - com.main.Main
+Date: 27-03-2017 Time: 09:13:02 Message [Резултата ще бъде прочетен с: ] - com.files.SourceForUse
+Date: 27-03-2017 Time: 09:13:02 Message [Логика от Класа /ReadFromTxtFile/ за посочен разход ==> A] - com.readlogic.ReadFromTxtFile
+Date: 27-03-2017 Time: 09:13:05 Message [Резултата ще бъде записан във] - com.files.SourceForUse
+Date: 27-03-2017 Time: 09:13:05 Message [Текстов файл C:\Users\d.balamdzhiev\Documents\123.txt] - com.writelogic.WriteToTXT
+Date: 27-03-2017 Time: 09:13:05 Message [Четене от: TXT Запис в: TXT Тип разход: A] - com.GUI.GUIlogic$3
+Date: 27-03-2017 Time: 09:13:47 Message [===========Начало============] - com.main.Main
+Date: 27-03-2017 Time: 09:13:47 Message [Добре дошли в програмата на Пешо!!!] - com.main.Main
+Date: 27-03-2017 Time: 09:13:47 Message [Изберете мястото от където ще извличате данни:] - com.main.Main
+Date: 27-03-2017 Time: 09:13:47 Message [[1] Четене от текстовият файл] - com.main.Main
+Date: 27-03-2017 Time: 09:13:47 Message [[2] Четене от XML файла] - com.main.Main
+Date: 27-03-2017 Time: 09:13:47 Message [[3] Четене от базата данни] - com.main.Main
+Date: 27-03-2017 Time: 09:13:47 Message [[4] Изход] - com.main.Main
+Date: 27-03-2017 Time: 09:13:47 Message [Избор: ] - com.main.Main
+Date: 27-03-2017 Time: 09:15:29 Message [Резултата ще бъде прочетен с: ] - com.files.SourceForUse
+Date: 27-03-2017 Time: 09:15:29 Message [Логика от Класа /ReadFromTxtFile/ за посочен разход ==> A] - com.readlogic.ReadFromTxtFile
+Date: 27-03-2017 Time: 09:19:25 Message [===========Начало============] - com.main.Main
+Date: 27-03-2017 Time: 09:19:25 Message [Добре дошли в програмата на Пешо!!!] - com.main.Main
+Date: 27-03-2017 Time: 09:19:25 Message [Изберете мястото от където ще извличате данни:] - com.main.Main
+Date: 27-03-2017 Time: 09:19:25 Message [[1] Четене от текстовият файл] - com.main.Main
+Date: 27-03-2017 Time: 09:19:25 Message [[2] Четене от XML файла] - com.main.Main
+Date: 27-03-2017 Time: 09:19:25 Message [[3] Четене от базата данни] - com.main.Main
+Date: 27-03-2017 Time: 09:19:25 Message [[4] Изход] - com.main.Main
+Date: 27-03-2017 Time: 09:19:25 Message [Избор: ] - com.main.Main
+Date: 27-03-2017 Time: 09:19:41 Message [Резултата ще бъде прочетен с: ] - com.files.SourceForUse
+Date: 27-03-2017 Time: 09:19:41 Message [Логика от Класа /ReadFromTxtFile/ за посочен разход ==> A] - com.readlogic.ReadFromTxtFile
+Date: 27-03-2017 Time: 09:21:42 Message [===========Начало============] - com.main.Main
+Date: 27-03-2017 Time: 09:21:42 Message [Добре дошли в програмата на Пешо!!!] - com.main.Main
+Date: 27-03-2017 Time: 09:21:42 Message [Изберете мястото от където ще извличате данни:] - com.main.Main
+Date: 27-03-2017 Time: 09:21:42 Message [[1] Четене от текстовият файл] - com.main.Main
+Date: 27-03-2017 Time: 09:21:42 Message [[2] Четене от XML файла] - com.main.Main
+Date: 27-03-2017 Time: 09:21:42 Message [[3] Четене от базата данни] - com.main.Main
+Date: 27-03-2017 Time: 09:21:42 Message [[4] Изход] - com.main.Main
+Date: 27-03-2017 Time: 09:21:42 Message [Избор: ] - com.main.Main
+Date: 27-03-2017 Time: 09:22:05 Message [Резултата ще бъде прочетен с: ] - com.files.SourceForUse
+Date: 27-03-2017 Time: 09:22:05 Message [Логика от Класа /ReadFromTxtFile/ за посочен разход ==> bira] - com.readlogic.ReadFromTxtFile
+Date: 27-03-2017 Time: 09:23:31 Message [===========Начало============] - com.main.Main
+Date: 27-03-2017 Time: 09:23:31 Message [Добре дошли в програмата на Пешо!!!] - com.main.Main
+Date: 27-03-2017 Time: 09:23:31 Message [Изберете мястото от където ще извличате данни:] - com.main.Main
+Date: 27-03-2017 Time: 09:23:31 Message [[1] Четене от текстовият файл] - com.main.Main
+Date: 27-03-2017 Time: 09:23:31 Message [[2] Четене от XML файла] - com.main.Main
+Date: 27-03-2017 Time: 09:23:31 Message [[3] Четене от базата данни] - com.main.Main
+Date: 27-03-2017 Time: 09:23:31 Message [[4] Изход] - com.main.Main
+Date: 27-03-2017 Time: 09:23:31 Message [Избор: ] - com.main.Main
+Date: 27-03-2017 Time: 09:36:06 Message [Резултата ще бъде прочетен с: ] - com.files.SourceForUse
+Date: 27-03-2017 Time: 09:36:06 Message [JAXB] - com.readlogic.ReadXMLwithJAXB
+Date: 27-03-2017 Time: 09:36:07 Message [10111 meze] - com.readlogic.ReadXMLwithJAXB
+Date: 27-03-2017 Time: 09:36:07 Message [11010001 meze] - com.readlogic.ReadXMLwithJAXB
+Date: 27-03-2017 Time: 09:36:08 Message [PDF файл в Директория C:\Users\d.balamdzhiev\Documents\Chart.pdf] - com.writelogic.WriteToPDF
+Date: 27-03-2017 Time: 09:36:08 Message [Yes: 2.0 No: 2.0] - com.writelogic.WriteToPDF
+Date: 27-03-2017 Time: 09:36:08 Message [Четене от: JAXB Запис в: PDF Тип разход: meze] - com.GUI.GUIlogic$3
+Date: 27-03-2017 Time: 09:37:02 Message [Резултата ще бъде прочетен с: ] - com.files.SourceForUse
+Date: 27-03-2017 Time: 09:37:02 Message [JAXB] - com.readlogic.ReadXMLwithJAXB
+Date: 27-03-2017 Time: 09:37:02 Message [11010001 meze] - com.readlogic.ReadXMLwithJAXB
+Date: 27-03-2017 Time: 09:37:02 Message [10111 meze] - com.readlogic.ReadXMLwithJAXB
+Date: 27-03-2017 Time: 09:37:02 Message [class java.io.FileNotFoundException C:\Users\d.balamdzhiev\Documents\Chart.pdf (The process cannot access the file because it is being used by another process)] - com.writelogic.WriteToPDF
+Date: 27-03-2017 Time: 09:37:02 Message [Четене от: JAXB Запис в: PDF Тип разход: meze] - com.GUI.GUIlogic$3
+Date: 27-03-2017 Time: 09:37:21 Message [Резултата ще бъде прочетен с: ] - com.files.SourceForUse
+Date: 27-03-2017 Time: 09:37:21 Message [JAXB] - com.readlogic.ReadXMLwithJAXB
+Date: 27-03-2017 Time: 09:37:21 Message [10111 meze] - com.readlogic.ReadXMLwithJAXB
+Date: 27-03-2017 Time: 09:37:21 Message [11010001 meze] - com.readlogic.ReadXMLwithJAXB
+Date: 27-03-2017 Time: 09:37:21 Message [class java.io.FileNotFoundException C:\Users\d.balamdzhiev\Documents\Chart.pdf (The process cannot access the file because it is being used by another process)] - com.writelogic.WriteToPDF
+Date: 27-03-2017 Time: 09:37:21 Message [Четене от: JAXB Запис в: PDF Тип разход: meze] - com.GUI.GUIlogic$3
+Date: 27-03-2017 Time: 09:37:42 Message [Резултата ще бъде прочетен с: ] - com.files.SourceForUse
+Date: 27-03-2017 Time: 09:37:42 Message [JAXB] - com.readlogic.ReadXMLwithJAXB
+Date: 27-03-2017 Time: 09:37:42 Message [10111 meze] - com.readlogic.ReadXMLwithJAXB
+Date: 27-03-2017 Time: 09:37:42 Message [11010001 meze] - com.readlogic.ReadXMLwithJAXB
+Date: 27-03-2017 Time: 09:37:42 Message [PDF файл в Директория C:\Users\d.balamdzhiev\Documents\Chart.pdf] - com.writelogic.WriteToPDF
+Date: 27-03-2017 Time: 09:37:42 Message [Yes: 2.0 No: 2.0] - com.writelogic.WriteToPDF
+Date: 27-03-2017 Time: 09:37:42 Message [Четене от: JAXB Запис в: PDF Тип разход: meze] - com.GUI.GUIlogic$3
+Date: 27-03-2017 Time: 09:40:42 Message [Резултата ще бъде прочетен с: ] - com.files.SourceForUse
+Date: 27-03-2017 Time: 09:40:42 Message [JAXB] - com.readlogic.ReadXMLwithJAXB
+Date: 27-03-2017 Time: 09:40:42 Message [class java.io.FileNotFoundException C:\Users\d.balamdzhiev\Documents\Chart.pdf (The process cannot access the file because it is being used by another process)] - com.writelogic.WriteToPDF
+Date: 27-03-2017 Time: 09:40:42 Message [Четене от: JAXB Запис в: PDF Тип разход: ] - com.GUI.GUIlogic$3
+Date: 27-03-2017 Time: 09:41:16 Message [===========Начало============] - com.main.Main
+Date: 27-03-2017 Time: 09:41:16 Message [Добре дошли в програмата на Пешо!!!] - com.main.Main
+Date: 27-03-2017 Time: 09:41:16 Message [Изберете мястото от където ще извличате данни:] - com.main.Main
+Date: 27-03-2017 Time: 09:41:16 Message [[1] Четене от текстовият файл] - com.main.Main
+Date: 27-03-2017 Time: 09:41:16 Message [[2] Четене от XML файла] - com.main.Main
+Date: 27-03-2017 Time: 09:41:16 Message [[3] Четене от базата данни] - com.main.Main
+Date: 27-03-2017 Time: 09:41:16 Message [[4] Изход] - com.main.Main
+Date: 27-03-2017 Time: 09:41:16 Message [Избор: ] - com.main.Main
+Date: 27-03-2017 Time: 09:41:21 Message [Четене от: TXT Запис в: TXT Тип разход: Стойност на филтриране] - com.GUI.GUIlogic$3
+Date: 27-03-2017 Time: 10:32:41 Message [===========Начало============] - com.main.Main
+Date: 27-03-2017 Time: 10:32:41 Message [Добре дошли в програмата на Пешо!!!] - com.main.Main
+Date: 27-03-2017 Time: 10:32:41 Message [Изберете мястото от където ще извличате данни:] - com.main.Main
+Date: 27-03-2017 Time: 10:32:41 Message [[1] Четене от текстовият файл] - com.main.Main
+Date: 27-03-2017 Time: 10:32:41 Message [[2] Четене от XML файла] - com.main.Main
+Date: 27-03-2017 Time: 10:32:41 Message [[3] Четене от базата данни] - com.main.Main
+Date: 27-03-2017 Time: 10:32:41 Message [[4] Изход] - com.main.Main
+Date: 27-03-2017 Time: 10:32:41 Message [Избор: ] - com.main.Main
+Date: 27-03-2017 Time: 10:35:13 Message [===========Начало============] - com.main.Main
+Date: 27-03-2017 Time: 10:35:13 Message [Добре дошли в програмата на Пешо!!!] - com.main.Main
+Date: 27-03-2017 Time: 10:35:13 Message [Изберете мястото от където ще извличате данни:] - com.main.Main
+Date: 27-03-2017 Time: 10:35:13 Message [[1] Четене от текстовият файл] - com.main.Main
+Date: 27-03-2017 Time: 10:35:13 Message [[2] Четене от XML файла] - com.main.Main
+Date: 27-03-2017 Time: 10:35:13 Message [[3] Четене от базата данни] - com.main.Main
+Date: 27-03-2017 Time: 10:35:13 Message [[4] Изход] - com.main.Main
+Date: 27-03-2017 Time: 10:35:13 Message [Избор: ] - com.main.Main
+Date: 27-03-2017 Time: 10:39:34 Message [===========Начало============] - com.main.Main
+Date: 27-03-2017 Time: 10:39:34 Message [Добре дошли в програмата на Пешо!!!] - com.main.Main
+Date: 27-03-2017 Time: 10:39:34 Message [Изберете мястото от където ще извличате данни:] - com.main.Main
+Date: 27-03-2017 Time: 10:39:34 Message [[1] Четене от текстовият файл] - com.main.Main
+Date: 27-03-2017 Time: 10:39:34 Message [[2] Четене от XML файла] - com.main.Main
+Date: 27-03-2017 Time: 10:39:34 Message [[3] Четене от базата данни] - com.main.Main
+Date: 27-03-2017 Time: 10:39:34 Message [[4] Изход] - com.main.Main
+Date: 27-03-2017 Time: 10:39:34 Message [Избор: ] - com.main.Main
+Date: 27-03-2017 Time: 10:48:23 Message [===========Начало============] - com.main.Main
+Date: 27-03-2017 Time: 10:48:23 Message [Добре дошли в програмата на Пешо!!!] - com.main.Main
+Date: 27-03-2017 Time: 10:48:23 Message [Изберете мястото от където ще извличате данни:] - com.main.Main
+Date: 27-03-2017 Time: 10:48:23 Message [[1] Четене от текстовият файл] - com.main.Main
+Date: 27-03-2017 Time: 10:48:23 Message [[2] Четене от XML файла] - com.main.Main
+Date: 27-03-2017 Time: 10:48:23 Message [[3] Четене от базата данни] - com.main.Main
+Date: 27-03-2017 Time: 10:48:23 Message [[4] Изход] - com.main.Main
+Date: 27-03-2017 Time: 10:48:23 Message [Избор: ] - com.main.Main
+Date: 27-03-2017 Time: 10:51:04 Message [===========Начало============] - com.main.Main
+Date: 27-03-2017 Time: 10:51:04 Message [Добре дошли в програмата на Пешо!!!] - com.main.Main
+Date: 27-03-2017 Time: 10:51:04 Message [Изберете мястото от където ще извличате данни:] - com.main.Main
+Date: 27-03-2017 Time: 10:51:04 Message [[1] Четене от текстовият файл] - com.main.Main
+Date: 27-03-2017 Time: 10:51:04 Message [[2] Четене от XML файла] - com.main.Main
+Date: 27-03-2017 Time: 10:51:04 Message [[3] Четене от базата данни] - com.main.Main
+Date: 27-03-2017 Time: 10:51:04 Message [[4] Изход] - com.main.Main
+Date: 27-03-2017 Time: 10:51:04 Message [Избор: ] - com.main.Main
+Date: 27-03-2017 Time: 10:56:14 Message [===========Начало============] - com.main.Main
+Date: 27-03-2017 Time: 10:56:14 Message [Добре дошли в програмата на Пешо!!!] - com.main.Main
+Date: 27-03-2017 Time: 10:56:14 Message [Изберете мястото от където ще извличате данни:] - com.main.Main
+Date: 27-03-2017 Time: 10:56:14 Message [[1] Четене от текстовият файл] - com.main.Main
+Date: 27-03-2017 Time: 10:56:14 Message [[2] Четене от XML файла] - com.main.Main
+Date: 27-03-2017 Time: 10:56:14 Message [[3] Четене от базата данни] - com.main.Main
+Date: 27-03-2017 Time: 10:56:14 Message [[4] Изход] - com.main.Main
+Date: 27-03-2017 Time: 10:56:14 Message [Избор: ] - com.main.Main
+Date: 27-03-2017 Time: 10:56:36 Message [===========Начало============] - com.main.Main
+Date: 27-03-2017 Time: 10:56:36 Message [Добре дошли в програмата на Пешо!!!] - com.main.Main
+Date: 27-03-2017 Time: 10:56:36 Message [Изберете мястото от където ще извличате данни:] - com.main.Main
+Date: 27-03-2017 Time: 10:56:36 Message [[1] Четене от текстовият файл] - com.main.Main
+Date: 27-03-2017 Time: 10:56:36 Message [[2] Четене от XML файла] - com.main.Main
+Date: 27-03-2017 Time: 10:56:36 Message [[3] Четене от базата данни] - com.main.Main
+Date: 27-03-2017 Time: 10:56:36 Message [[4] Изход] - com.main.Main
+Date: 27-03-2017 Time: 10:56:36 Message [Избор: ] - com.main.Main

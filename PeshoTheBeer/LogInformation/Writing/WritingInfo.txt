@@ -1,0 +1,1 @@
+Date: 27-03-2017 Time: 09:37:42 Message [Запис на данни в PDF файл в ДиректорияC:\Users\d.balamdzhiev\Documents\Chart.pdf] - com.writelogic.WriteToPDF
