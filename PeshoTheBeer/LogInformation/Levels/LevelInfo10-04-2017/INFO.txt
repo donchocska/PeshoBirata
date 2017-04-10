@@ -1,1 +1,6 @@
 Date: 10-04-2017 Time: 11:13:55 Message [========== Начало =============] - com.GUI.GUIlogic
+Date: 10-04-2017 Time: 11:27:25 Message [========== Начало =============] - com.GUI.GUIlogic
+Date: 10-04-2017 Time: 11:32:01 Message [========== Начало =============] - com.GUI.GUIlogic
+Date: 10-04-2017 Time: 11:49:04 Message [========== Начало =============] - com.GUI.GUIlogic
+Date: 10-04-2017 Time: 11:49:18 Message [========== Начало =============] - com.GUI.GUIlogic
+Date: 10-04-2017 Time: 11:49:58 Message [========== Начало =============] - com.GUI.GUIlogic

@@ -6,3 +6,43 @@ Date: 10-04-2017 Time: 11:13:56 Message [[2] Четене от XML файла] -
 Date: 10-04-2017 Time: 11:13:56 Message [[3] Четене от базата данни] - com.main.Main
 Date: 10-04-2017 Time: 11:13:56 Message [[4] Изход] - com.main.Main
 Date: 10-04-2017 Time: 11:13:56 Message [Избор: ] - com.main.Main
+Date: 10-04-2017 Time: 11:27:26 Message [===========Начало============] - com.main.Main
+Date: 10-04-2017 Time: 11:27:26 Message [Добре дошли в програмата на Пешо!!!] - com.main.Main
+Date: 10-04-2017 Time: 11:27:26 Message [Изберете мястото от където ще извличате данни:] - com.main.Main
+Date: 10-04-2017 Time: 11:27:26 Message [[1] Четене от текстовият файл] - com.main.Main
+Date: 10-04-2017 Time: 11:27:26 Message [[2] Четене от XML файла] - com.main.Main
+Date: 10-04-2017 Time: 11:27:26 Message [[3] Четене от базата данни] - com.main.Main
+Date: 10-04-2017 Time: 11:27:26 Message [[4] Изход] - com.main.Main
+Date: 10-04-2017 Time: 11:27:26 Message [Избор: ] - com.main.Main
+Date: 10-04-2017 Time: 11:32:01 Message [===========Начало============] - com.main.Main
+Date: 10-04-2017 Time: 11:32:01 Message [Добре дошли в програмата на Пешо!!!] - com.main.Main
+Date: 10-04-2017 Time: 11:32:01 Message [Изберете мястото от където ще извличате данни:] - com.main.Main
+Date: 10-04-2017 Time: 11:32:01 Message [[1] Четене от текстовият файл] - com.main.Main
+Date: 10-04-2017 Time: 11:32:01 Message [[2] Четене от XML файла] - com.main.Main
+Date: 10-04-2017 Time: 11:32:01 Message [[3] Четене от базата данни] - com.main.Main
+Date: 10-04-2017 Time: 11:32:01 Message [[4] Изход] - com.main.Main
+Date: 10-04-2017 Time: 11:32:01 Message [Избор: ] - com.main.Main
+Date: 10-04-2017 Time: 11:49:04 Message [===========Начало============] - com.main.Main
+Date: 10-04-2017 Time: 11:49:04 Message [Добре дошли в програмата на Пешо!!!] - com.main.Main
+Date: 10-04-2017 Time: 11:49:04 Message [Изберете мястото от където ще извличате данни:] - com.main.Main
+Date: 10-04-2017 Time: 11:49:04 Message [[1] Четене от текстовият файл] - com.main.Main
+Date: 10-04-2017 Time: 11:49:04 Message [[2] Четене от XML файла] - com.main.Main
+Date: 10-04-2017 Time: 11:49:04 Message [[3] Четене от базата данни] - com.main.Main
+Date: 10-04-2017 Time: 11:49:04 Message [[4] Изход] - com.main.Main
+Date: 10-04-2017 Time: 11:49:04 Message [Избор: ] - com.main.Main
+Date: 10-04-2017 Time: 11:49:18 Message [===========Начало============] - com.main.Main
+Date: 10-04-2017 Time: 11:49:18 Message [Добре дошли в програмата на Пешо!!!] - com.main.Main
+Date: 10-04-2017 Time: 11:49:18 Message [Изберете мястото от където ще извличате данни:] - com.main.Main
+Date: 10-04-2017 Time: 11:49:18 Message [[1] Четене от текстовият файл] - com.main.Main
+Date: 10-04-2017 Time: 11:49:18 Message [[2] Четене от XML файла] - com.main.Main
+Date: 10-04-2017 Time: 11:49:18 Message [[3] Четене от базата данни] - com.main.Main
+Date: 10-04-2017 Time: 11:49:18 Message [[4] Изход] - com.main.Main
+Date: 10-04-2017 Time: 11:49:18 Message [Избор: ] - com.main.Main
+Date: 10-04-2017 Time: 11:49:58 Message [===========Начало============] - com.main.Main
+Date: 10-04-2017 Time: 11:49:58 Message [Добре дошли в програмата на Пешо!!!] - com.main.Main
+Date: 10-04-2017 Time: 11:49:58 Message [Изберете мястото от където ще извличате данни:] - com.main.Main
+Date: 10-04-2017 Time: 11:49:58 Message [[1] Четене от текстовият файл] - com.main.Main
+Date: 10-04-2017 Time: 11:49:58 Message [[2] Четене от XML файла] - com.main.Main
+Date: 10-04-2017 Time: 11:49:58 Message [[3] Четене от базата данни] - com.main.Main
+Date: 10-04-2017 Time: 11:49:58 Message [[4] Изход] - com.main.Main
+Date: 10-04-2017 Time: 11:49:58 Message [Избор: ] - com.main.Main
